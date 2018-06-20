@@ -1,3 +1,3 @@
-# Hexiang's Personal Blog
+# Zhiwen's Personal Blog
 
 Powered by [Jekyll]
