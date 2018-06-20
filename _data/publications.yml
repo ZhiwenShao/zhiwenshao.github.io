@@ -1,6 +1,6 @@
 - title: 'Learning a Multi-Center Convolutional Network for Unconstrained Face Alignment'
   date:  'July 2017'
-  imgurl: '/images/projects/2016/shao2017learning.jpg'
+  imgurl: '/images/projects/2016/shao2017learning_img.pdf'
   selected: true
   authors:
     - name: <strong>Zhiwen Shao</strong>
@@ -27,7 +27,7 @@
 
 - title: 'Learning Deep Representation from Coarse to Fine for Face Alignment'
   date:  'July 2016'
-  imgurl: '/images/projects/2016/shao2016learning.jpg'
+  imgurl: '/images/projects/2016/shao2016learning.png'
   selected: true
   authors:
     - name: <strong>Zhiwen Shao</strong>
@@ -54,7 +54,7 @@
 
 - title: 'Face Alignment by Deep Convolutional Network with Adaptive Learning Rate'
   date:  'Mar. 2016'
-  imgurl: '/images/projects/2016/shao2016face.jpg'
+  imgurl: '/images/projects/2016/shao2016face.png'
   selected: true
   authors:
     - name: <strong>Zhiwen Shao</strong>
