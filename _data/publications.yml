@@ -13,7 +13,7 @@
       #url:  ''
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
-  publisher:  'ICME 2017'
+  publisher:  'ICME 2017 (CCF B, oral)'
   status:   ''
   #place:   'in Las Vegas, Nevada'
   #desc: 'We propose a method to integrate graphical models and deep neural networks into a joint framework with a sequential prediction approximation, modeled by recurrent neural network. This framework simultaneously predicts the underline structure of interactions between people and inferences the corresponding labels for individual and group.'
@@ -40,7 +40,7 @@
       #url:  ''
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
-  publisher:  'ICME 2016'
+  publisher:  'ICME 2016 (CCF B)'
   status:   ''
   #place:   'in Las Vegas, Nevada'
   #desc: 'We propose a method to integrate graphical models and deep neural networks into a joint framework with a sequential prediction approximation, modeled by recurrent neural network. This framework simultaneously predicts the underline structure of interactions between people and inferences the corresponding labels for individual and group.'
@@ -67,10 +67,10 @@
       #url:  ''
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
-  publisher:  'ICASSP 2016'
+  publisher:  'ICASSP 2016 (CCF B, oral)'
   status:   ''
   #place:   'in Las Vegas, Nevada'
-  desc: 'CCF B, oral'
+  #desc: ''
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
