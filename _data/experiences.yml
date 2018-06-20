@@ -5,17 +5,17 @@
     name:  "<a href='http://www.ntu.edu.sg/home/asjfcai/'>Prof. Jianfei Cai</a>"
     role: "Supervisor"
   brief: true
-- date:  "Mar. 2015 - Sept. 2016"
-  title: "Intern @ Tencent Youtu Lab"
-  desc:  "Face Analysis, Deep Learning"
-  host:  false
-  brief: true
 - date:  "Sept. 2015 - "
   title: "Ph.D. candidate @ SJTU"
   desc:  "Face Analysis, Deep Learning"
   host:
     name: "<a href='http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'>Prof. Lizhuang Ma</a>"
     role: "Supervisor"
+  brief: true
+- date:  "Mar. 2015 - Sept. 2016"
+  title: "Intern @ Tencent Youtu Lab"
+  desc:  "Face Analysis, Deep Learning"
+  host:  false
   brief: true
 - date:  "Sept. 2011 - July 2015"
   title: "Undergraduate student @ NPU"
