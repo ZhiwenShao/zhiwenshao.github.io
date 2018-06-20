@@ -13,10 +13,10 @@
       #url:  ''
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
-  publisher:  'ICME 2017 (CCF B, oral)'
-  status:   ''
-  #place:   'in Las Vegas, Nevada'
-  #desc: 'We propose a method to integrate graphical models and deep neural networks into a joint framework with a sequential prediction approximation, modeled by recurrent neural network. This framework simultaneously predicts the underline structure of interactions between people and inferences the corresponding labels for individual and group.'
+  publisher:  'ICME 2017'
+  status:   '(CCF B, oral)'
+  place:   'in Hong Kong'
+  desc: 'We propose a novel multi-center convolutional neural network for unconstrained face alignment. To utilize structural correlations among different facial landmarks, we determine several clusters based on their spatial position. We pre-train our network to learn generic feature representations. We further fine-tune the pre-trained model to emphasize on locating a certain cluster of landmarks respectively. Fine-tuning contributes to searching an optimal solution smoothly without deviating from the pre-trained model excessively. We obtain an excellent solution by combining multiple fine-tuned models.'
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
@@ -40,10 +40,10 @@
       #url:  ''
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
-  publisher:  'ICME 2016 (CCF B)'
-  status:   ''
-  #place:   'in Las Vegas, Nevada'
-  #desc: 'We propose a method to integrate graphical models and deep neural networks into a joint framework with a sequential prediction approximation, modeled by recurrent neural network. This framework simultaneously predicts the underline structure of interactions between people and inferences the corresponding labels for individual and group.'
+  publisher:  'ICME 2016'
+  status:   '(CCF B)'
+  place:   'in Seattle, USA'
+  desc: 'We propose a novel face alignment method that trains deep convolutional network from coarse to fine. It divides given landmarks into principal subset and elaborate subset. We firstly keep a large weight for principal subset to make our network primarily predict their locations while slightly take elaborate subset into account. Next the weight of principal subset is gradually decreased until two subsets have equivalent weights. This process contributes to learn a good initial model and search the optimal model smoothly to avoid missing fairly good intermediate models in subsequent procedures.'
   tags:
     - name: 'arXiv'
       url:  'https://arxiv.org/abs/1608.00207'
@@ -67,10 +67,10 @@
       #url:  ''
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
-  publisher:  'ICASSP 2016 (CCF B, oral)'
-  status:   ''
-  #place:   'in Las Vegas, Nevada'
-  #desc: ''
+  publisher:  'ICASSP 2016'
+  status:   '(CCF B, oral)'
+  place:   'in Shanghai, China'
+  desc: 'Deep convolutional network has been widely used in face recognition while not often used in face alignment. One of the most important reasons of this is the lack of training images annotated with landmarks due to fussy and time-consuming annotation work. To overcome this problem, we propose a novel data augmentation strategy. And we design an innovative training algorithm with adaptive learning rate for two iterative procedures, which helps the network to search an optimal solution. Our convolutional network can learn global high-level features and directly predict the coordinates of facial landmarks.'
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
