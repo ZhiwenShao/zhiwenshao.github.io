@@ -28,7 +28,7 @@ highlighter: rouge
 
 # Social media link for the site
 social:
-  google_scholar: citations?user=YPIrQcQAAAAJ&hl
+  #google_scholar: citations?user=YPIrQcQAAAAJ&hl
   #twitter:    Hexiang_Hu
   github:     ZhiwenShao
   #facebook:   Hu.Hexiang
