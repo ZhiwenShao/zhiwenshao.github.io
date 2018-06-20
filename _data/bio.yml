@@ -1,14 +1,10 @@
-name:       "Hexiang (Frank) Hu"
-title:      "Ph.D. Student [at] USC"
-email:      "hexiang.frank.hu [at] gmail.com"
-head_pic:   "/images/self-portrait/me.jpg"
-deep_pic:   "/images/self-portrait/deep-me.jpg"
-resume:     "/assets/resume/20180201.pdf"
+name:       "Zhiwen Shao"
+title:      "Ph.D. Candidate [at] SJTU"
+email:      "shaozhiwen[at]sjtu.edu.cn"
+head_pic:   "/images/self-portrait/zhiwen.png"
+deep_pic:   "/images/self-portrait/zhiwen.png"
+resume:     "/assets/resume/CV_ZhiwenShao-2.pdf"
 normal:
-  date:     "Sept. 2016"
+  date:     "June 2018"
   title:    ""
-  content:  "<strong>Hexiang Hu</strong> is a Computer Science Ph.D. student in Viterbi School of Engineering at <strong>University of Southern California (USC)</strong>, working with <a href='http://www-bcf.usc.edu/~feisha/'>Prof. Fei Sha</a>. Prior to this, He was a Ph.D. student in Henry Samueli School of Engineering and Applied Science at <strong>University of California, Los Angeles (UCLA)</strong>. He earned his Bachelor’s degrees in Computer Science from Zhejiang University and Simon Fraser University with honor. His research interests lie in the field of <strong>Machine Learning</strong>, <strong>Computer Vision</strong> and <strong>Natural Language Processing</strong>."
-short:
-  date:
-  title:  "Deep Learner"
-  content: "I am passionate with Machine Learning, Computer Vision as well as Natural Language Processing. My objective is to combine the power of <em class='text-grey-bright'>vision and language</em> for robots."
+  content:  "<strong>Zhiwen Shao</strong> is a Computer Science Ph.D. candidate in the Department of Computer Science and Engineering, <strong>Shanghai Jiao Tong University (SJTU)</strong>, advised by <a href='http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'>Prof. Lizhuang Ma</a>. He earned his Bachelor’s degrees in Computer Science and Technology from Northwestern Polytechnical University, China. His research interests lie in the field of <strong>Face Analysis</strong> and <strong>Deep Learning</strong>."
