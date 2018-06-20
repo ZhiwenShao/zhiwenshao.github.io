@@ -69,6 +69,9 @@
 .twitter span {
     background-color: $twitter-color;
 }
+.google_scholar span {
+    background-color: $google_scholar-color;
+}
 .facebook span {
     background-color: $facebook-color;
 }
@@ -97,6 +100,9 @@
 .icon-button .icon-twitter {
     color: $twitter-color;
 }
+.icon-button .icon-google_scholar {
+    color: $google_scholar-color;
+}
 .icon-button .icon-facebook {
     color: $facebook-color;
 }
@@ -107,6 +113,7 @@
     color: $linkedin-color;
 }
 
+.icon-button:hover .icon-google_scholar,
 .icon-button:hover .icon-twitter,
 .icon-button:hover .icon-facebook,
 .icon-button:hover .icon-github,
