@@ -1,8 +1,8 @@
 # Site settings
 title: Zhiwen Shao (邵志文)
 description:
-  en: "This is an academic website for Zhiwen Shao to share his experiences, projects, publications and tech/non-tech posts. Zhiwen Shao is now a Ph.D. candidate in the Department of Computer Science and Engineering, Shanghai Jiao Tong University, China, advised by Prof. Lizhuang Ma. His research interests lie in the field of Face Analysis and Deep Learning, particularly in Face Alignment and Facial Expression Recognition. "
-  cn: "这是邵志文的个人学术主页，用于分享他的个人经历，项目，学术论文，技术相关/不相关的博客。"
+  en: "This is an academic website for Zhiwen Shao to share his experiences, projects, and publications. Zhiwen Shao is now a Ph.D. candidate in the Department of Computer Science and Engineering, Shanghai Jiao Tong University, China, advised by Prof. Lizhuang Ma. His research interests lie in the field of Face Analysis and Deep Learning, particularly in Face Alignment and Facial Expression Recognition. "
+  cn: "这是邵志文的个人学术主页，用于分享他的个人经历，项目，学术论文。"
 keywords:
   en: "Zhiwen Shao,Publications,Posts,Research,Face Analysis,Deep Learning,Face Alignment, Facial Expression Recognition"
   cn: "邵志文,学术论文,博客,研究,人脸分析,深度学习,人脸配准,人脸表情识别"
