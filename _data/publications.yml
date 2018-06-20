@@ -6,13 +6,13 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Hengliang Zhu
-      url:  ''
+      #url:  ''
     - name: Yangyang Hao
-      url:  ''
+      #url:  ''
     - name: Min  Wang
-      url:  ''
+      #url:  ''
     - name: Lizhuang Ma
-      url:  ''  
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'ICME 2017'
   status:   ''
   #place:   'in Las Vegas, Nevada'
@@ -33,13 +33,13 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Shouhong Ding
-      url:  ''
+      #url:  ''
     - name: Yiru Zhao
-      url:  ''
+      #url:  ''
     - name: Qinchuan  Zhang
-      url:  ''
+      #url:  ''
     - name: Lizhuang Ma
-      url:  ''  
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'ICME 2016'
   status:   ''
   #place:   'in Las Vegas, Nevada'
@@ -60,13 +60,13 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Shouhong Ding
-      url:  ''
+      #url:  ''
     - name: Hengliang Zhu
-      url:  ''
+      #url:  ''
     - name: Chengjie Wang
-      url:  ''
+      #url:  ''
     - name: Lizhuang Ma
-      url:  ''  
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'ICASSP 2016'
   status:   ''
   #place:   'in Las Vegas, Nevada'
