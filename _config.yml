@@ -6,8 +6,8 @@ description:
 keywords:
   en: "Zhiwen Shao,Publications,Posts,Research,Face Analysis,Deep Learning,Face Alignment, Facial Expression Recognition"
   cn: "邵志文,学术论文,博客,研究,人脸分析,深度学习,人脸配准,人脸表情识别"
-background: /images/background/background-cube.jpg
-deep_background: /images/background/background-deepcube-2.jpg
+background: /images/background/background-tech.jpg
+deep_background: /images/background/background-tech.jpg
 
 baseurl: ""
 # the subpath of your site, e.g. /blog/
@@ -32,7 +32,7 @@ social:
   github:     ZhiwenShao
   #facebook:   Hu.Hexiang
   linkedin:   zhiwen-shao-3586bb135
-  rss:        /feed.xml
+  #rss:        /feed.xml
 
 #google_analytics_token: "UA-60071442-1"
 #google_tags_token: "GTM-K5ZTMW"
