@@ -5,6 +5,13 @@
 </a>
 {% endif %}
 
+{% if site.social.google_scholar %}
+<a href="{{ site.social.google_scholar | prepend: 'https://scholar.google.com/' }}" class="icon-button google_scholar">
+  <img src="/images/icon/color-google_scholar.png" class="social-icon">
+  <span></span>
+</a>
+{% endif %}
+
 {% if site.social.twitter %}
 <a href="{{ site.social.twitter | prepend: 'https://twitter.com/' }}" class="icon-button twitter">
   <i class="fa fa-twitter icon-twitter"></i>
