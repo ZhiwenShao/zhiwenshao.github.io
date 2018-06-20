@@ -70,7 +70,7 @@
   publisher:  'ICASSP 2016'
   status:   ''
   #place:   'in Las Vegas, Nevada'
-  #desc: 'We propose a method to integrate graphical models and deep neural networks into a joint framework with a sequential prediction approximation, modeled by recurrent neural network. This framework simultaneously predicts the underline structure of interactions between people and inferences the corresponding labels for individual and group.'
+  desc: 'CCF B, oral'
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
