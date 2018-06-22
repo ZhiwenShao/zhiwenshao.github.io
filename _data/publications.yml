@@ -188,3 +188,28 @@
       url:  'pdfs/projects/2017/tang2017deep.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
+
+- title: 'LSOD: Local sparse orthogonal descriptor for image matching'
+  date:  'Oct. 2016'
+  imgurl: '/images/projects/2016/zhao2016lsod.png'
+  selected: false
+  authors:
+    - name: Yiru Zhao
+      #url:  ''
+    - name: Yaoyi Li
+      url:  'http://bcmi.sjtu.edu.cn/~liyaoyi/'
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'  
+    - name: Hongtao Lu
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=156'  
+  publisher:  'MM 2016'
+  status:   '(CCF A, short)'
+  place:   'in Amsterdam, Netherlands'
+  desc: 'We propose a novel method for feature description used for image matching in this paper. Our method is inspired by the autoencoder, an artificial neural network designed for learning efficient codings. Sparse and orthogonal constraints are imposed on the autoencoder and make it a highly discriminative descriptor. It is shown that the proposed descriptor is not only invariant to geometric and photometric transformations (such as viewpoint change, intensity change, noise, image blur and JPEG compression), but also highly efficient.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/1608.00207'
+    - name: 'pdf'
+      url:  'pdfs/projects/2016/zhao2016lsod.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
