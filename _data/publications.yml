@@ -1,5 +1,5 @@
 - title: 'Learning a Multi-Center Convolutional Network for Unconstrained Face Alignment'
-  date:  'July 2017'
+  date:  'Jul. 2017'
   imgurl: '/images/projects/2017/shao2017learning.png'
   selected: true
   authors:
@@ -26,7 +26,7 @@
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
 - title: 'Learning Deep Representation from Coarse to Fine for Face Alignment'
-  date:  'July 2016'
+  date:  'Jul. 2016'
   imgurl: '/images/projects/2016/shao2016learning.png'
   selected: true
   authors:
@@ -76,5 +76,32 @@
     #  url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
       url:  'pdfs/projects/2016/shao2016face.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+
+- title: 'Multi-path Feature Fusion Network for Saliency Detection'
+  date:  'Jul. 2018'
+  imgurl: '/images/projects/2016/shao2016face.png'
+  selected: true
+  authors:
+    - name: Hengliang Zhu
+      #url:  ''
+    - name: Xin Tan
+      #url:  ''
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yangyang Hao
+      #url:  ''
+    - name: Lizhuang Ma
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+  publisher:  'ICME 2018'
+  status:   '(CCF B)'
+  place:   'in San Diego, USA'
+  desc: 'Recent saliency detection methods have made great progress with the fully convolutional network. However, we find that the saliency maps are usually coarse and fuzzy, especially near the boundary of salient object. To deal with this problem, in this paper, we exploit a multi-path feature fusion model for saliency detection. The proposed model is a fully convolutional network with raw images as input and saliency maps as output. In particular, we propose a multi-path fusion strategy for deriving the intrinsic features of salient objects. The structure has the ability of capturing the low-level visual features and generating the boundary-preserving saliency maps. Moreover, a coupled structure module is proposed in our model, which helps to explore the high-level semantic properties of salient objects.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/1608.00207'
+    - name: 'pdf'
+      url:  'pdfs/projects/2018/zhu2018multi.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
