@@ -81,7 +81,7 @@
 
 - title: 'Multi-path Feature Fusion Network for Saliency Detection'
   date:  'Jul. 2018'
-  imgurl: '/images/projects/2016/shao2016face.png'
+  imgurl: '/images/projects/2018/zhu2018multi.png'
   selected: true
   authors:
     - name: Hengliang Zhu
@@ -103,5 +103,34 @@
     #  url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
       url:  'pdfs/projects/2018/zhu2018multi.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+
+- title: 'Saliency Detection by Deep Network with Boundary Refinement and Global Context'
+  date:  'Jul. 2018'
+  imgurl: '/images/projects/2018/tan2018saliency.png'
+  selected: true
+  authors:
+    - name: Xin Tan
+      #url:  ''
+    - name: Hengliang Zhu
+      #url:  ''
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'  
+    - name: Xiaonan Hou
+      #url:  ''  
+    - name: Yangyang Hao
+      #url:  ''
+    - name: Lizhuang Ma
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+  publisher:  'ICME 2018'
+  status:   '(CCF B)'
+  place:   'in San Diego, USA'
+  desc: 'A novel end-to-end fully convolutional neural network for	saliency detection is proposed in this paper, aiming at refining the boundary and covering the global context (GBRNet). Previous CNN based methods for saliency detection are universally accompanied with blurring edge and ambiguous salient object. To tackle this problem, we propose to embed the boundary enhancement block (BEB) into the network to refine edge. It keeps the details by the mutual-coupling convolutional layers. Besides, we employ a pooling pyramid that utilizes the multi-level feature informations to search global context, and it also contributes as an auxiliary supervision. The final saliency map is obtained by fusing the edge refinement with global context extraction.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/1608.00207'
+    - name: 'pdf'
+      url:  'pdfs/projects/2018/tan2018saliency.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
