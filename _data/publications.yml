@@ -134,3 +134,57 @@
       url:  'pdfs/projects/2018/tan2018saliency.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+
+- title: 'Better initialization for regression-based face alignment'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2017/zhu2017better.png'
+  selected: true
+  authors:
+    - name: Hengliang Zhu
+      #url:  ''
+    - name: Bin Sheng
+      url:  'http://english.seiee.sjtu.edu.cn/english/detail/841_963.htm'
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yangyang Hao
+      #url:  ''
+    - name: Xiaonan Hou
+      #url:  ''  
+    - name: Lizhuang Ma
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+  publisher:  'Computers & Graphics'
+  status:   '(CCF C, SCI)'
+  #place:   'in San Diego, USA'
+  desc: 'Regression-based face alignment algorithms predict facial landmarks by iteratively updating an initial shape, and hence are always limited by the initialization. Usually, the initial shape is obtained from the average face or by randomly picking a face from the training set. In this study, we discuss how to improve initialization by studying a neighborhood representation prior, leveraging neighboring faces to obtain a high-quality initial shape. In order to further improve the estimation precision of each facial landmark, we propose a face-like landmark adjustment algorithm to refine the face shape.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/1608.00207'
+    - name: 'pdf'
+      url:  'pdfs/projects/2017/zhu2017better.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
+- title: 'Deep feature selection and projection for cross-age face retrieval'
+  date:  'Oct. 2017'
+  imgurl: '/images/projects/2017/tang2017deep.png'
+  selected: false
+  authors:
+    - name: Kaihua Tang
+      url:  'https://kaihuatang.github.io/'
+    - name: Xiaonan Hou
+      #url:  ''
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'  
+    - name: Lizhuang Ma
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+  publisher:  'CISP-BMEI 2017'
+  #status:   '(CCF B)'
+  place:   'in Shanghai, China'
+  desc: 'While traditional PIE (pose, illumination and expression) face variations have been well settled by latest methods, a new kind of variation, cross-age variation, is drawing attention from researchers. Most of the existing methods fail to maintain the effectiveness in real world applications that contain significant gap of age. Cross-age variation is caused by the shape deformation and texture changing of human faces while people getting old. It will result in tremendous intra-personal changes of face feature that deteriorate the performance of algorithms. This paper proposed a deep feature based framework for face retrieval problem. Our framework uses deep CNNs feature descriptor and two well designed post-processing methods to achieve age-invariance. To the best of our knowledge, this is the first deep feature based method in cross-age face retrieval problem.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/1608.00207'
+    - name: 'pdf'
+      url:  'pdfs/projects/2017/tang2017deep.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
