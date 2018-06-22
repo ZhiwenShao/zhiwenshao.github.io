@@ -86,14 +86,14 @@ layout: home
         </div>
         <div class="authors">
           {% for author in publication.authors %}
-            {% if author.url %}
+            {% if author.url==false %}
+              {{ author.name | prepend: ' '}}
+              {% if author.equal_contribution %}* {% endif %}
+            {% else %}
               <a class="author" href="{{ author.url }}">
                 {{ author.name | prepend: ' '}}
                 {% if author.equal_contribution %}* {% endif %}
               </a>
-            {% else %}
-              {{ author.name | prepend: ' '}}
-              {% if author.equal_contribution %}* {% endif %}
             {% endif %}
             {% if forloop.last == false %},{% endif %}
           {% endfor %}
