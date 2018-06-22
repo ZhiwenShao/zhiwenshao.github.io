@@ -33,11 +33,11 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Shouhong Ding
-      #url:  ''
+      url:  false
     - name: Yiru Zhao
-      #url:  ''
+      url:  false
     - name: Qinchuan  Zhang
-      #url:  ''
+      url:  false
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'ICME 2016'
