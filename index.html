@@ -109,7 +109,11 @@ layout: home
         </div>
         <div class="tags">
           {% for tag in publication.tags %}
-          [<a class="tag" href="{{tag.url}}"> <strong>{{ tag.name }}</strong> </a>]
+            {% if tag.url %}
+              [<a class="tag" href="{{tag.url}}"> <strong>{{ tag.name }}</strong> </a>]
+            {% else %}
+              <strong>{{ tag.name }}</strong>
+            {% endif %}
           {% endfor %}
         </div>
       </div>
