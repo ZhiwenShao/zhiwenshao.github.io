@@ -86,10 +86,15 @@ layout: home
         </div>
         <div class="authors">
           {% for author in publication.authors %}
-            <a class="author" href="{{ author.url }}">
+            {% if author.url %}
+              <a class="author" href="{{ author.url }}">
+                {{ author.name | prepend: ' '}}
+                {% if author.equal_contribution %}* {% endif %}
+              </a>
+            {% else %}
               {{ author.name | prepend: ' '}}
               {% if author.equal_contribution %}* {% endif %}
-            </a>
+            {% endif %}
             {% if forloop.last == false %},{% endif %}
           {% endfor %}
         </div>
@@ -109,11 +114,7 @@ layout: home
         </div>
         <div class="tags">
           {% for tag in publication.tags %}
-            {% if tag.url == false %}
-              <strong>{{ tag.name }}</strong>
-            {% else %}
-              [<a class="tag" href="{{tag.url}}"> <strong>{{ tag.name }}</strong> </a>]
-            {% endif %}
+          [<a class="tag" href="{{tag.url}}"> <strong>{{ tag.name }}</strong> </a>]
           {% endfor %}
         </div>
       </div>
