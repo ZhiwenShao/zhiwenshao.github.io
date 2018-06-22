@@ -6,11 +6,11 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Hengliang Zhu
-      #url:  ''
+      url:  false
     - name: Yangyang Hao
-      #url:  ''
+      url:  false
     - name: Min  Wang
-      #url:  ''
+      url:  false
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'ICME 2017'
@@ -60,11 +60,11 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Shouhong Ding
-      #url:  ''
+      url:  false
     - name: Hengliang Zhu
-      #url:  ''
+      url:  false
     - name: Chengjie Wang
-      #url:  ''
+      url:  false
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'ICASSP 2016'
@@ -85,13 +85,13 @@
   selected: true
   authors:
     - name: Hengliang Zhu
-      #url:  ''
+      url:  false
     - name: Xin Tan
-      #url:  ''
+      url:  false
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Yangyang Hao
-      #url:  ''
+      url:  false
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'ICME 2018'
@@ -112,15 +112,15 @@
   selected: true
   authors:
     - name: Xin Tan
-      #url:  ''
+      url:  false
     - name: Hengliang Zhu
-      #url:  ''
+      url:  false
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'  
     - name: Xiaonan Hou
-      #url:  ''  
+      url:  false
     - name: Yangyang Hao
-      #url:  ''
+      url:  false
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'ICME 2018'
@@ -141,15 +141,15 @@
   selected: true
   authors:
     - name: Hengliang Zhu
-      #url:  ''
+      url:  false
     - name: Bin Sheng
       url:  'http://english.seiee.sjtu.edu.cn/english/detail/841_963.htm'
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Yangyang Hao
-      #url:  ''
+      url:  false
     - name: Xiaonan Hou
-      #url:  ''  
+      url:  false
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'Computers & Graphics, 2017'
@@ -172,7 +172,7 @@
     - name: Kaihua Tang
       url:  'https://kaihuatang.github.io/'
     - name: Xiaonan Hou
-      #url:  ''
+      url:  false
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'  
     - name: Lizhuang Ma
@@ -195,7 +195,7 @@
   selected: false
   authors:
     - name: Yiru Zhao
-      #url:  ''
+      url:  false
     - name: Yaoyi Li
       url:  'http://bcmi.sjtu.edu.cn/~liyaoyi/'
     - name: <strong>Zhiwen Shao</strong>
