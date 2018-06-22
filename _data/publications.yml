@@ -21,7 +21,7 @@
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
-      url:  'pdfs/projects/2017/shao2017learning.pdf'
+      url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
@@ -48,7 +48,7 @@
     - name: 'arXiv'
       url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
-      url:  'pdfs/projects/2016/shao2016learning.pdf'
+      url:  'https://zhiwenshao.github.io/pdfs/projects/2016/shao2016learning.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
@@ -75,7 +75,7 @@
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
-      url:  'pdfs/projects/2016/shao2016face.pdf'
+      url:  'https://zhiwenshao.github.io/pdfs/projects/2016/shao2016face.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
@@ -102,7 +102,7 @@
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
-      url:  'pdfs/projects/2018/zhu2018multi.pdf'
+      url:  'https://zhiwenshao.github.io/pdfs/projects/2018/zhu2018multi.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
@@ -131,7 +131,7 @@
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
-      url:  'pdfs/projects/2018/tan2018saliency.pdf'
+      url:  'https://zhiwenshao.github.io/pdfs/projects/2018/tan2018saliency.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
@@ -160,7 +160,7 @@
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
-      url:  'pdfs/projects/2017/zhu2017better.pdf'
+      url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
     
@@ -185,7 +185,7 @@
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
-      url:  'pdfs/projects/2017/tang2017deep.pdf'
+      url:  'https://zhiwenshao.github.io/pdfs/projects/2017/tang2017deep.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
 
@@ -210,6 +210,6 @@
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
-      url:  'pdfs/projects/2016/zhao2016lsod.pdf'
+      url:  'https://zhiwenshao.github.io/pdfs/projects/2016/zhao2016lsod.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
