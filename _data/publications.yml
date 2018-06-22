@@ -152,7 +152,7 @@
       #url:  ''  
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
-  publisher:  'Computers & Graphics'
+  publisher:  'CG 2017'
   status:   '(CCF C, SCI)'
   #place:   'in San Diego, USA'
   desc: 'Regression-based face alignment algorithms predict facial landmarks by iteratively updating an initial shape, and hence are always limited by the initialization. Usually, the initial shape is obtained from the average face or by randomly picking a face from the training set. In this study, we discuss how to improve initialization by studying a neighborhood representation prior, leveraging neighboring faces to obtain a high-quality initial shape. In order to further improve the estimation precision of each facial landmark, we propose a face-like landmark adjustment algorithm to refine the face shape.'
