@@ -23,11 +23,16 @@ noindex:  true
       </div>
       <div class="authors">
         {% for author in publication.authors %}
-        <a class="author" href="{{ author.url }}">
-          {{ author.name | prepend: ' '}}
-          {% if author.equal_contribution %} * {% endif %}
-        </a>
-        {% if forloop.last == false %},{% endif %}
+          {% if author.url==false %}
+            {{ author.name | prepend: ' '}}
+            {% if author.equal_contribution %}* {% endif %}
+          {% else %}
+             <a class="author" href="{{ author.url }}">
+              {{ author.name | prepend: ' '}}
+              {% if author.equal_contribution %}* {% endif %}
+             </a>
+          {% endif %}
+          {% if forloop.last == false %},{% endif %}
         {% endfor %}
       </div>
       <div class="desc">
