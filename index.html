@@ -23,9 +23,9 @@ layout: home
     News
   </h1>
   <div class="news-body">
-    {% for content in site.data.news.normal.contents %}
+    {% for new in site.data.news %}
     <p>
-      {{ content }}
+      {{ new.normal.content }}
     </p>
     {% endfor %}
   </div>
