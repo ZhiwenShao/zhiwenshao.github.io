@@ -1,3 +1,28 @@
+- title: 'Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignment'
+  date:  'Sept. 2018'
+  imgurl: '/images/projects/2018/shao2018deep.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Zhilei Liu
+      url:  'http://cs.tju.edu.cn/faculty/zhileiliu/'
+    - name: Jianfei Cai
+      url:  'http://www.ntu.edu.sg/home/asjfcai/'
+    - name: Lizhuang Ma
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+  publisher:  'ECCV 2018'
+  status:   '(Top CV Conference)'
+  place:   'in Munich, Germany'
+  desc: 'We propose a novel end-to-end deep learning framework for joint AU detection and face alignment, which has not been explored before. In particular, multi-scale shared features are learned firstly, and high-level features of face alignment are fed into AU detection. Moreover, to extract precise local features, we propose an adaptive attention learning module to refine the attention map of each AU adaptively. Finally, the assembled local features are integrated with face alignment features and global features for AU detection. Experiments on BP4D and DISFA benchmarks demonstrate that our framework significantly outperforms the state-of-the-art methods for AU detection.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/pdf/1803.05588'
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'Learning a Multi-Center Convolutional Network for Unconstrained Face Alignment'
   date:  'Jul. 2017'
   imgurl: '/images/projects/2017/shao2017learning.png'
