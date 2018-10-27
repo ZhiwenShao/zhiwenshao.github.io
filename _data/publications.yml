@@ -20,6 +20,8 @@
       url:  'https://arxiv.org/abs/1803.05588'
     - name: 'pdf'
       url:  'http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhiwen_Shao_Deep_Adaptive_Attention_ECCV_2018_paper.pdf'
+    - name: 'code'
+      url:  'https://github.com/ZhiwenShao/JAANet'  
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
     
