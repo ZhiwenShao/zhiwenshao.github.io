@@ -21,7 +21,7 @@
     - name: 'pdf'
       url:  'http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhiwen_Shao_Deep_Adaptive_Attention_ECCV_2018_paper.pdf'
     - name: 'code'
-      url:  'https://github.com/ZhiwenShao/JAANet'  
+      url:  'https://github.com/ZhiwenShao/JAANet'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
     
@@ -49,6 +49,8 @@
     #  url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
       url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
+    - name: 'code'
+      url:  'https://github.com/ZhiwenShao/MCNet'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
@@ -76,6 +78,8 @@
       url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
       url:  'https://zhiwenshao.github.io/pdfs/projects/2016/shao2016learning.pdf'
+    - name: 'code'
+      url:  'https://github.com/ZhiwenShao/CFT'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
