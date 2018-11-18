@@ -20,10 +20,10 @@
   tags:
     - name: 'arXiv'
       url:  'https://arxiv.org/abs/1808.01558'
+    - name: 'code'
+      url:  'https://github.com/ZhiwenShao/MCNet-Extension'  
     #- name: 'pdf'
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
-    - name: 'code'
-      url:  'https://github.com/ZhiwenShao/MCNet-Extension'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
     
