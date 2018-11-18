@@ -142,7 +142,7 @@
 - title: 'Multi-path Feature Fusion Network for Saliency Detection'
   date:  'Jul. 2018'
   imgurl: '/images/projects/2018/zhu2018multi.png'
-  selected: true
+  selected: false
   authors:
     - name: Hengliang Zhu
       url:  false
@@ -169,7 +169,7 @@
 - title: 'Saliency Detection by Deep Network with Boundary Refinement and Global Context'
   date:  'Jul. 2018'
   imgurl: '/images/projects/2018/tan2018saliency.png'
-  selected: true
+  selected: false
   authors:
     - name: Xin Tan
       url:  false
@@ -198,7 +198,7 @@
 - title: 'Better initialization for regression-based face alignment'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2017/zhu2017better.png'
-  selected: true
+  selected: false
   authors:
     - name: Hengliang Zhu
       url:  false
