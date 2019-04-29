@@ -14,7 +14,7 @@
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'Neurocomputing, 2018'
-  status:   '(JCR Q2, SCI)'
+  status:   '(SCI Q2)'
   #place:   'in San Diego, USA'
   desc: 'Facial landmarks are highly correlated with each other since a certain landmark can be estimated by its neighboring landmarks. Most of the existing deep learning methods only use one fully-connected layer called shape prediction layer to estimate the locations of facial landmarks. In this paper, we propose a novel deep learning framework named Multi-Center Learning with multiple shape prediction layers for face alignment. In particular, each shape prediction layer emphasizes on the detection of a certain cluster of semantically relevant landmarks respectively. Challenging landmarks are focused firstly, and each cluster of landmarks is further optimized respectively. Moreover, to reduce the model complexity, we propose a model assembling method to integrate multiple shape prediction layers into one shape prediction layer.'
   tags:
