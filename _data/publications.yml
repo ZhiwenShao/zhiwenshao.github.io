@@ -13,7 +13,7 @@
       url:  false
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
-  publisher:  'Neurocomputing, 2018'
+  publisher:  'Neurocomputing, 2019'
   status:   '(SCI Q2)'
   #place:   'in San Diego, USA'
   desc: 'Facial landmarks are highly correlated with each other since a certain landmark can be estimated by its neighboring landmarks. Most of the existing deep learning methods only use one fully-connected layer called shape prediction layer to estimate the locations of facial landmarks. In this paper, we propose a novel deep learning framework named Multi-Center Learning with multiple shape prediction layers for face alignment. In particular, each shape prediction layer emphasizes on the detection of a certain cluster of semantically relevant landmarks respectively. Challenging landmarks are focused firstly, and each cluster of landmarks is further optimized respectively. Moreover, to reduce the model complexity, we propose a model assembling method to integrate multiple shape prediction layers into one shape prediction layer.'
@@ -142,7 +142,7 @@
 - title: 'Multi-path Feature Fusion Network for Saliency Detection'
   date:  'Jul. 2018'
   imgurl: '/images/projects/2018/zhu2018multi.png'
-  selected: false
+  selected: true
   authors:
     - name: Hengliang Zhu
       url:  false
@@ -169,7 +169,7 @@
 - title: 'Saliency Detection by Deep Network with Boundary Refinement and Global Context'
   date:  'Jul. 2018'
   imgurl: '/images/projects/2018/tan2018saliency.png'
-  selected: false
+  selected: true
   authors:
     - name: Xin Tan
       url:  false
@@ -194,11 +194,38 @@
       url:  'https://zhiwenshao.github.io/pdfs/projects/2018/tan2018saliency.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
+- title: 'Facial Landmark Detection Under Large Pose'
+  date:  'Dec. 2018'
+  #imgurl: '/images/projects/2018/zhu2018multi.png'
+  selected: true
+  authors:
+    - name: Yangyang Hao
+      url:  false
+    - name: Hengliang Zhu
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'  
+    - name: Xin Tan
+      url:  false
+    - name: Lizhuang Ma
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+  publisher:  'ICONIP 2018'
+  status:   '(CCF C)'
+  place:   'in Siem Reap, Cambodia'
+  desc: 'Facial landmark detection is a necessary step in many vision tasks and plenty of excellent methods have been proposed to solve this problem. However, for the conditions with large pose and complex expression, these works usually suffer an eclipse. In this paper, we propose a two-stage cascade regression framework using patch-difference features to overcome the above problem. In the first stage, by applying the patch-difference feature and augmenting the large pose samples to the classical shape regression model, salient landmarks (eye centers, nose, mouth corners) can be located precisely. In the second stage, by applying enhanced feature section constraint to the patch-difference feature, multi-landmark detection is achieved.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/1608.00207'
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2018/zhu2018multi.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
 
 - title: 'Better initialization for regression-based face alignment'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2017/zhu2017better.png'
-  selected: false
+  selected: true
   authors:
     - name: Hengliang Zhu
       url:  false
