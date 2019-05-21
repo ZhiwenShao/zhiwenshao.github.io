@@ -211,7 +211,7 @@
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'ICONIP 2018'
-  status:   '(CCF C)'
+  status:   '(CCF C, oral)'
   place:   'in Siem Reap, Cambodia'
   desc: 'Facial landmark detection is a necessary step in many vision tasks and plenty of excellent methods have been proposed to solve this problem. However, for the conditions with large pose and complex expression, these works usually suffer an eclipse. In this paper, we propose a two-stage cascade regression framework using patch-difference features to overcome the above problem. In the first stage, by applying the patch-difference feature and augmenting the large pose samples to the classical shape regression model, salient landmarks (eye centers, nose, mouth corners) can be located precisely. In the second stage, by applying enhanced feature section constraint to the patch-difference feature, multi-landmark detection is achieved.'
   tags:
