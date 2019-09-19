@@ -192,8 +192,8 @@
     #  url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
       url:  'https://zhiwenshao.github.io/pdfs/projects/2018/tan2018saliency.pdf'
-    #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    - name: 'code'
+      url:  'https://github.com/tanxin2017/Saliency-GBR'
     
 - title: 'Facial Landmark Detection Under Large Pose'
   date:  'Dec. 2018'
