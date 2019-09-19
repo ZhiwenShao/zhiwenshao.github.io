@@ -132,10 +132,10 @@
   place:   'in Shanghai, China'
   desc: 'Deep convolutional network has been widely used in face recognition while not often used in face alignment. One of the most important reasons of this is the lack of training images annotated with landmarks due to fussy and time-consuming annotation work. To overcome this problem, we propose a novel data augmentation strategy. And we design an innovative training algorithm with adaptive learning rate for two iterative procedures, which helps the network to search an optimal solution. Our convolutional network can learn global high-level features and directly predict the coordinates of facial landmarks.'
   tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/1608.00207'
     - name: 'pdf'
       url:  'https://zhiwenshao.github.io/pdfs/projects/2016/shao2016face.pdf'
+    - name: 'tool'
+      url:  'https://github.com/ZhiwenShao/ARL-tool'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
