@@ -298,7 +298,7 @@
   publisher:  'Computers & Graphics, 2018'
   status:   '(CCF C, SCI Q4)'
   #place:   'in San Diego, USA'
-  desc: 'Regression-based face alignment algorithms predict facial landmarks by iteratively updating an initial shape, and hence are always limited by the initialization. Usually, the initial shape is obtained from the average face or by randomly picking a face from the training set. In this study, we discuss how to improve initialization by studying a neighborhood representation prior, leveraging neighboring faces to obtain a high-quality initial shape. In order to further improve the estimation precision of each facial landmark, we propose a face-like landmark adjustment algorithm to refine the face shape.'
+  desc: 'We discuss how to improve initialization by studying a neighborhood representation prior, leveraging neighboring faces to obtain a high-quality initial shape. In order to further improve the estimation precision of each facial landmark, we propose a face-like landmark adjustment algorithm to refine the face shape.'
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
@@ -323,7 +323,7 @@
   publisher:  'CISP-BMEI 2017'
   #status:   '(CCF B)'
   place:   'in Shanghai, China'
-  desc: 'While traditional PIE (pose, illumination and expression) face variations have been well settled by latest methods, a new kind of variation, cross-age variation, is drawing attention from researchers. Most of the existing methods fail to maintain the effectiveness in real world applications that contain significant gap of age. Cross-age variation is caused by the shape deformation and texture changing of human faces while people getting old. It will result in tremendous intra-personal changes of face feature that deteriorate the performance of algorithms. This paper proposed a deep feature based framework for face retrieval problem. Our framework uses deep CNNs feature descriptor and two well designed post-processing methods to achieve age-invariance. To the best of our knowledge, this is the first deep feature based method in cross-age face retrieval problem.'
+  desc: 'We propose a deep feature based framework for face retrieval problem. Our framework uses deep CNNs feature descriptor and two well designed post-processing methods to achieve age-invariance. To the best of our knowledge, this is the first deep feature based method in cross-age face retrieval problem.'
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
