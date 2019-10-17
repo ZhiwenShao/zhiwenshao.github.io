@@ -1,3 +1,32 @@
+- title: 'Facial Action Unit Detection Using Attention and Relation Learning'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2019/shao2019facial.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Zhilei Liu
+      url:  'http://cs.tju.edu.cn/faculty/zhileiliu/'
+    - name: Jianfei Cai
+      url:  'http://www.ntu.edu.sg/home/asjfcai/'
+    - name: Yunsheng Wu
+      url:  false
+    - name: Lizhuang Ma
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'
+  publisher:  'IEEE Transactions on Affective Computing, 2019'
+  status:   '(CCF B, SCI Q2)'
+  #place:   'in San Diego, USA'
+  desc: 'Attention mechanism has recently attracted increasing attentions in the field of facial action unit (AU) detection. By finding the region of interest of each AU with the attention mechanism, AU-related local features can be captured. Most of the existing attention based AU detection works use prior knowledge to predefine fixed attentions or refine the predefined attentions within a small range, which limits their capacity to model various AUs. In this paper, we propose an end-to-end deep learning based attention and relation learning framework for AU detection with only AU labels, which has not been explored before. In particular, multi-scale features shared by each AU are learned firstly, and then both channel-wise and spatial attentions are adaptively learned to select and extract AU-related local features. Moreover, pixel-level relations for AUs are further captured to refine spatial attentions so as to extract more relevant local features. Without changing the network architecture, our framework can be easily extended for AU intensity estimation.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/1808.03457'
+    - name: 'code'
+      url:  'https://github.com/ZhiwenShao/ARL'  
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'Deep Multi-Center Learning for Face Alignment'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2018/shao2018deepmulti.png'
@@ -14,7 +43,7 @@
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'Neurocomputing, 2019'
-  status:   '(SCI Q2)'
+  status:   '(CCF C, SCI Q2)'
   #place:   'in San Diego, USA'
   desc: 'Facial landmarks are highly correlated with each other since a certain landmark can be estimated by its neighboring landmarks. Most of the existing deep learning methods only use one fully-connected layer called shape prediction layer to estimate the locations of facial landmarks. In this paper, we propose a novel deep learning framework named Multi-Center Learning with multiple shape prediction layers for face alignment. In particular, each shape prediction layer emphasizes on the detection of a certain cluster of semantically relevant landmarks respectively. Challenging landmarks are focused firstly, and each cluster of landmarks is further optimized respectively. Moreover, to reduce the model complexity, we propose a model assembling method to integrate multiple shape prediction layers into one shape prediction layer.'
   tags:
@@ -41,7 +70,7 @@
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'ECCV 2018'
-  status:   '(Top CV Conference)'
+  status:   '(CCF B, Tsinghua A)'
   place:   'in Munich, Germany'
   desc: 'We propose a novel end-to-end deep learning framework for joint AU detection and face alignment, which has not been explored before. In particular, multi-scale shared features are learned firstly, and high-level features of face alignment are fed into AU detection. Moreover, to extract precise local features, we propose an adaptive attention learning module to refine the attention map of each AU adaptively. Finally, the assembled local features are integrated with face alignment features and global features for AU detection. Experiments on BP4D and DISFA benchmarks demonstrate that our framework significantly outperforms the state-of-the-art methods for AU detection.'
   tags:
@@ -240,7 +269,7 @@
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
   publisher:  'Computers & Graphics, 2018'
-  status:   '(CCF C, SCI)'
+  status:   '(CCF C, SCI Q4)'
   #place:   'in San Diego, USA'
   desc: 'Regression-based face alignment algorithms predict facial landmarks by iteratively updating an initial shape, and hence are always limited by the initialization. Usually, the initial shape is obtained from the average face or by randomly picking a face from the training set. In this study, we discuss how to improve initialization by studying a neighborhood representation prior, leveraging neighboring faces to obtain a high-quality initial shape. In order to further improve the estimation precision of each facial landmark, we propose a face-like landmark adjustment algorithm to refine the face shape.'
   tags:
