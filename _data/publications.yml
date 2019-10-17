@@ -254,7 +254,7 @@
 - title: 'Facial Landmark Detection Under Large Pose'
   date:  'Dec. 2018'
   imgurl: '/images/projects/2018/hao2018facial.png'
-  selected: true
+  selected: false
   authors:
     - name: Yangyang Hao
       url:  false
@@ -269,7 +269,7 @@
   publisher:  'ICONIP 2018'
   status:   '(CCF C, oral)'
   place:   'in Siem Reap, Cambodia'
-  desc: 'Facial landmark detection is a necessary step in many vision tasks and plenty of excellent methods have been proposed to solve this problem. However, for the conditions with large pose and complex expression, these works usually suffer an eclipse. In this paper, we propose a two-stage cascade regression framework using patch-difference features to overcome the above problem. In the first stage, by applying the patch-difference feature and augmenting the large pose samples to the classical shape regression model, salient landmarks (eye centers, nose, mouth corners) can be located precisely. In the second stage, by applying enhanced feature section constraint to the patch-difference feature, multi-landmark detection is achieved.'
+  desc: 'We propose a two-stage cascade regression framework using patch-difference features to overcome the above problem. In the first stage, by applying the patch-difference feature and augmenting the large pose samples to the classical shape regression model, salient landmarks (eye centers, nose, mouth corners) can be located precisely. In the second stage, by applying enhanced feature section constraint to the patch-difference feature, multi-landmark detection is achieved.'
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
@@ -281,7 +281,7 @@
 - title: 'Better initialization for regression-based face alignment'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2017/zhu2017better.png'
-  selected: true
+  selected: false
   authors:
     - name: Hengliang Zhu
       url:  false
