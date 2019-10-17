@@ -72,7 +72,7 @@
   publisher:  'ECCV 2018'
   status:   '(CCF B, Tsinghua A)'
   place:   'in Munich, Germany'
-  desc: 'We propose a novel end-to-end deep learning framework for joint AU detection and face alignment, which has not been explored before. In particular, multi-scale shared features are learned firstly, and high-level features of face alignment are fed into AU detection. Moreover, to extract precise local features, we propose an adaptive attention learning module to refine the attention map of each AU adaptively. Finally, the assembled local features are integrated with face alignment features and global features for AU detection. Experiments on BP4D and DISFA benchmarks demonstrate that our framework significantly outperforms the state-of-the-art methods for AU detection.'
+  desc: 'We propose a novel end-to-end deep learning framework for joint AU detection and face alignment, which has not been explored before. In particular, multi-scale shared features are learned firstly, and high-level features of face alignment are fed into AU detection. Moreover, to extract precise local features, we propose an adaptive attention learning module to refine the attention map of each AU adaptively. Finally, the assembled local features are integrated with face alignment features and global features for AU detection.'
   tags:
     - name: 'arXiv'
       url:  'https://arxiv.org/abs/1803.05588'
@@ -159,7 +159,7 @@
   publisher:  'ICASSP 2016'
   status:   '(CCF B, oral)'
   place:   'in Shanghai, China'
-  desc: 'Deep convolutional network has been widely used in face recognition while not often used in face alignment. One of the most important reasons of this is the lack of training images annotated with landmarks due to fussy and time-consuming annotation work. To overcome this problem, we propose a novel data augmentation strategy. And we design an innovative training algorithm with adaptive learning rate for two iterative procedures, which helps the network to search an optimal solution. Our convolutional network can learn global high-level features and directly predict the coordinates of facial landmarks.'
+  desc: 'We propose a novel data augmentation strategy. And we design an innovative training algorithm with adaptive learning rate for two iterative procedures, which helps the network to search an optimal solution. Our convolutional network can learn global high-level features and directly predict the coordinates of facial landmarks.'
   tags:
     - name: 'pdf'
       url:  'https://zhiwenshao.github.io/pdfs/projects/2016/shao2016face.pdf'
@@ -168,9 +168,9 @@
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
-- title: 'Deep Multi-Center Learning for Face Alignment'
+- title: 'Feedback Cascade Regression Model for Face Alignment'
   #date:  'Jul. 2018'
-  imgurl: '/images/projects/2018/hao2019feedback.png'
+  imgurl: '/images/projects/2019/hao2019feedback.png'
   selected: true
   authors:
     - name: Yangyang Hao
@@ -195,33 +195,6 @@
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
     
-- title: 'Multi-path Feature Fusion Network for Saliency Detection'
-  date:  'Jul. 2018'
-  imgurl: '/images/projects/2018/zhu2018multi.png'
-  selected: true
-  authors:
-    - name: Hengliang Zhu
-      url:  false
-    - name: Xin Tan
-      url:  false
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/'
-    - name: Yangyang Hao
-      url:  false
-    - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
-  publisher:  'ICME 2018'
-  status:   '(CCF B)'
-  place:   'in San Diego, USA'
-  desc: 'Recent saliency detection methods have made great progress with the fully convolutional network. However, we find that the saliency maps are usually coarse and fuzzy, especially near the boundary of salient object. To deal with this problem, in this paper, we exploit a multi-path feature fusion model for saliency detection. The proposed model is a fully convolutional network with raw images as input and saliency maps as output. In particular, we propose a multi-path fusion strategy for deriving the intrinsic features of salient objects. The structure has the ability of capturing the low-level visual features and generating the boundary-preserving saliency maps. Moreover, a coupled structure module is proposed in our model, which helps to explore the high-level semantic properties of salient objects.'
-  tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/1608.00207'
-    - name: 'pdf'
-      url:  'https://zhiwenshao.github.io/pdfs/projects/2018/zhu2018multi.pdf'
-    #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
-
 - title: 'Saliency Detection by Deep Network with Boundary Refinement and Global Context'
   date:  'Jul. 2018'
   imgurl: '/images/projects/2018/tan2018saliency.png'
@@ -242,7 +215,7 @@
   publisher:  'ICME 2018'
   status:   '(CCF B)'
   place:   'in San Diego, USA'
-  desc: 'A novel end-to-end fully convolutional neural network for saliency detection is proposed in this paper, aiming at refining the boundary and covering the global context (GBRNet). Previous CNN based methods for saliency detection are universally accompanied with blurring edge and ambiguous salient object. To tackle this problem, we propose to embed the boundary enhancement block (BEB) into the network to refine edge. It keeps the details by the mutual-coupling convolutional layers. Besides, we employ a pooling pyramid that utilizes the multi-level feature informations to search global context, and it also contributes as an auxiliary supervision. The final saliency map is obtained by fusing the edge refinement with global context extraction.'
+  desc: 'We propose to embed the boundary enhancement block (BEB) into the network to refine edge. It keeps the details by the mutual-coupling convolutional layers. Besides, we employ a pooling pyramid that utilizes the multi-level feature informations to search global context, and it also contributes as an auxiliary supervision. The final saliency map is obtained by fusing the edge refinement with global context extraction.'
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
@@ -250,6 +223,33 @@
       url:  'https://zhiwenshao.github.io/pdfs/projects/2018/tan2018saliency.pdf'
     - name: 'code'
       url:  'https://github.com/tanxin2017/Saliency-GBR'
+      
+- title: 'Multi-path Feature Fusion Network for Saliency Detection'
+  date:  'Jul. 2018'
+  imgurl: '/images/projects/2018/zhu2018multi.png'
+  selected: true
+  authors:
+    - name: Hengliang Zhu
+      url:  false
+    - name: Xin Tan
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yangyang Hao
+      url:  false
+    - name: Lizhuang Ma
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+  publisher:  'ICME 2018'
+  status:   '(CCF B)'
+  place:   'in San Diego, USA'
+  desc: 'We exploit a multi-path feature fusion model for saliency detection. The proposed model is a fully convolutional network with raw images as input and saliency maps as output. In particular, we propose a multi-path fusion strategy for deriving the intrinsic features of salient objects. The structure has the ability of capturing the low-level visual features and generating the boundary-preserving saliency maps. Moreover, a coupled structure module is proposed in our model, which helps to explore the high-level semantic properties of salient objects.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/1608.00207'
+    - name: 'pdf'
+      url:  'https://zhiwenshao.github.io/pdfs/projects/2018/zhu2018multi.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
     
 - title: 'Facial Landmark Detection Under Large Pose'
   date:  'Dec. 2018'
