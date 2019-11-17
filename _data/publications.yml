@@ -194,7 +194,8 @@
       url:  'https://zhiwenshao.github.io/pdfs/projects/2019/hao2019feedback.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
-- title: 'FVNet: 3D Front-View Proposal Generation for Real-Time Object Detection from Point Clouds'
+
+- title: 'Facial Action Unit Detection Using Attention and Relation Learning'
   date:  'Oct. 2019'
   imgurl: '/images/projects/2019/zhou2019fvnet.png'
   selected: true
