@@ -194,6 +194,31 @@
       url:  'https://zhiwenshao.github.io/pdfs/projects/2019/hao2019feedback.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+
+- title: 'Deep Feature Selection and Projection for Cross-Age Face Retrieval'
+  date:  'Oct. 2017'
+  imgurl: '/images/projects/2017/tang2017deep.png'
+  selected: true
+  authors:
+    - name: Kaihua Tang
+      url:  'https://kaihuatang.github.io/'
+    - name: Xiaonan Hou
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'  
+    - name: Lizhuang Ma
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+  publisher:  'CISP-BMEI 2017'
+  #status:   '(CCF B)'
+  place:   'in Shanghai, China'
+  desc: 'We propose a deep feature based framework for face retrieval problem. Our framework uses deep CNNs feature descriptor and two well designed post-processing methods to achieve age-invariance. To the best of our knowledge, this is the first deep feature based method in cross-age face retrieval problem.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/1608.00207'
+    - name: 'pdf'
+      url:  'https://zhiwenshao.github.io/pdfs/projects/2017/tang2017deep.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
     
 - title: 'Saliency Detection by Deep Network with Boundary Refinement and Global Context'
   date:  'Jul. 2018'
@@ -224,7 +249,7 @@
     - name: 'code'
       url:  'https://github.com/tanxin2017/Saliency-GBR'
       
-- title: 'Multi-path Feature Fusion Network for Saliency Detection'
+- title: 'Multi-Path Feature Fusion Network for Saliency Detection'
   date:  'Jul. 2018'
   imgurl: '/images/projects/2018/zhu2018multi.png'
   selected: true
