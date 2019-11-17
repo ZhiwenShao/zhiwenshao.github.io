@@ -194,6 +194,31 @@
       url:  'https://zhiwenshao.github.io/pdfs/projects/2019/hao2019feedback.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+
+- title: 'FVNet: 3D Front-View Proposal Generation for Real-Time Object Detection from Point Clouds'
+  date:  'Oct. 2019'
+  imgurl: '/images/projects/2019/zhou2019fvnet.png'
+  selected: false
+  authors:
+    - name: Jie Zhou
+      url:  false
+    - name: Xin Tan
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'  
+    - name: Lizhuang Ma
+      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+  publisher:  'CISP-BMEI 2019'
+  #status:   '(CCF B)'
+  place:   'in Suzhou, China'
+  desc: 'We propose a novel framework called FVNet for 3D front-view proposal generation and object detection from point clouds. It consists of two stages: generation of front-view proposals and estimation of 3D bounding box parameters. Instead of generating proposals from camera images or bird's-eye-view maps, we first project point clouds onto a cylindrical surface to generate front-view feature maps which retains rich information. We then introduce a proposal generation network to predict 3D region proposals from the generated maps and further extrude objects of interest from the whole point cloud. Finally, we present another network to extract the point-wise features from the extruded object points and regress the final 3D bounding box parameters in the canonical coordinates.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/1903.10750'
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/tang2017deep.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
     
 - title: 'Saliency Detection by Deep Network with Boundary Refinement and Global Context'
   date:  'Jul. 2018'
@@ -278,7 +303,7 @@
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
 
-- title: 'Better initialization for regression-based face alignment'
+- title: 'Better Initialization for Regression-Based Face Alignment'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2017/zhu2017better.png'
   selected: false
@@ -307,7 +332,7 @@
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
     
-- title: 'Deep feature selection and projection for cross-age face retrieval'
+- title: 'Deep Feature Selection and Projection for Cross-Age Face Retrieval'
   date:  'Oct. 2017'
   imgurl: '/images/projects/2017/tang2017deep.png'
   selected: false
@@ -332,7 +357,7 @@
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
 
-- title: 'LSOD: Local sparse orthogonal descriptor for image matching'
+- title: 'LSOD: Local Sparse Orthogonal Descriptor for Image Matching'
   date:  'Oct. 2016'
   imgurl: '/images/projects/2016/zhao2016lsod.png'
   selected: false
