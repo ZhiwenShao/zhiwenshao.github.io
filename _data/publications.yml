@@ -195,9 +195,9 @@
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
-- title: 'Deep Feature Selection and Projection for Cross-Age Face Retrieval'
-  date:  'Oct. 2017'
-  imgurl: '/images/projects/2017/tang2017deep.png'
+- title: 'FVNet: 3D Front-View Proposal Generation for Real-Time Object Detection from Point Clouds'
+  date:  'Oct. 2019'
+  imgurl: '/images/projects/2019/zhou2019fvnet.png'
   selected: true
   authors:
     - name: Kaihua Tang
