@@ -200,23 +200,23 @@
   imgurl: '/images/projects/2019/zhou2019fvnet.png'
   selected: true
   authors:
-    - name: Kaihua Tang
-      url:  'https://kaihuatang.github.io/'
-    - name: Xiaonan Hou
+    - name: Jie Zhou
+      url:  false
+    - name: Xin Tan
       url:  false
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'  
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
-  publisher:  'CISP-BMEI 2017'
+  publisher:  'CISP-BMEI 2019'
   #status:   '(CCF B)'
-  place:   'in Shanghai, China'
-  desc: 'We propose a deep feature based framework for face retrieval problem. Our framework uses deep CNNs feature descriptor and two well designed post-processing methods to achieve age-invariance. To the best of our knowledge, this is the first deep feature based method in cross-age face retrieval problem.'
+  place:   'in Suzhou, China'
+  desc: 'We propose a novel framework called FVNet for 3D front-view proposal generation and object detection from point clouds. It consists of two stages: generation of front-view proposals and estimation of 3D bounding box parameters. Instead of generating proposals from camera images or bird's-eye-view maps, we first project point clouds onto a cylindrical surface to generate front-view feature maps which retains rich information. We then introduce a proposal generation network to predict 3D region proposals from the generated maps and further extrude objects of interest from the whole point cloud. Finally, we present another network to extract the point-wise features from the extruded object points and regress the final 3D bounding box parameters in the canonical coordinates.'
   tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/1608.00207'
-    - name: 'pdf'
-      url:  'https://zhiwenshao.github.io/pdfs/projects/2017/tang2017deep.pdf'
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/1903.10750'
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/tang2017deep.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
     
