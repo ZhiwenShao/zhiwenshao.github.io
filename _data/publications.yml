@@ -211,7 +211,7 @@
   publisher:  'CISP-BMEI 2019'
   #status:   '(CCF B)'
   place:   'in Suzhou, China'
-  desc: 'We propose a new pipeline of salient-to-inner-to-all to progressively compute the locations of landmarks. Additionally, a feedback process is utilised to improve the robustness of regression. They bring out a pose-invariant shape retrieval method to generate the discriminative initialisation.'
+  desc: 'We propose a novel framework called FVNet for 3D front-view proposal generation and object detection from point clouds. It consists of two stages: generation of front-view proposals and estimation of 3D bounding box parameters. We first project point clouds onto a cylindrical surface to generate front-view feature maps which retains rich information. We then introduce a proposal generation network to predict 3D region proposals from the generated maps and further extrude objects of interest from the whole point cloud. Finally, we present another network to extract the point-wise features from the extruded object points and regress the final 3D bounding box parameters in the canonical coordinates.'
   tags:
     - name: 'arXiv'
       url:  'https://arxiv.org/abs/1903.10750'
