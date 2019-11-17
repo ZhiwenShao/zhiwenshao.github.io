@@ -198,7 +198,7 @@
 - title: 'FVNet: 3D Front-View Proposal Generation for Real-Time Object Detection from Point Clouds'
   date:  'Oct. 2019'
   imgurl: '/images/projects/2019/zhou2019fvnet.png'
-  selected: false
+  selected: true
   authors:
     - name: Jie Zhou
       url:  false
