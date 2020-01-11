@@ -6,7 +6,7 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Zhilei Liu
-      url:  'http://cs.tju.edu.cn/faculty/zhileiliu/'
+      url:  'http://cic.tju.edu.cn/faculty/zhileiliu/'
     - name: Jianfei Cai
       url:  'http://www.ntu.edu.sg/home/asjfcai/'
     - name: Yunsheng Wu
@@ -64,7 +64,7 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Zhilei Liu
-      url:  'http://cs.tju.edu.cn/faculty/zhileiliu/'
+      url:  'http://cic.tju.edu.cn/faculty/zhileiliu/'
     - name: Jianfei Cai
       url:  'http://www.ntu.edu.sg/home/asjfcai/'
     - name: Lizhuang Ma
@@ -204,7 +204,7 @@
       url:  false
     - name: Xin Tan
       url:  false
-    - name: <strong>Zhiwen Shao</strong>
+    - name: <strong>Zhiwen Shao*</strong>
       url:  'https://zhiwenshao.github.io/'  
     - name: Lizhuang Ma
       url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
@@ -380,4 +380,4 @@
     - name: 'pdf'
       url:  'https://zhiwenshao.github.io/pdfs/projects/2016/zhao2016lsod.pdf'
     #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
