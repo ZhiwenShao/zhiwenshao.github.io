@@ -13,7 +13,7 @@
   status:   '(CCF B, SCI Q2)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel version of Gated Recurrent Unit (GRU), called Single-Tunnelled GRU for abnormality detection. Particularly, the Single-Tunnelled GRU discards the heavy-weighted reset gate from GRU cells that overlooks the importance of past content by only favouring current input to obtain an optimized single-gated-cell model. Moreover, we substitute the hyperbolic tangent activation in standard GRUs with sigmoid activation, as the former suffers from performance loss in deeper networks.'
-  tags:
+  #tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1808.03457'
     #- name: 'code'
@@ -38,7 +38,7 @@
   status:   '(CCF B, oral)'
   place:   'in London, United Kingdom'
   desc: 'We propose an end-to-end expression-guided generative adversarial network (EGGAN), which utilizes structured latent codes and continuous expression labels as input to generate images with expected expressions. Specifically, we adopt an adversarial autoencoder to map a source image into a structured latent space. Then, given the source latent code and the target expression label, we employ a conditional GAN to generate a new image with the target expression. Moreover, we introduce a perceptual loss and a multi-scale structural similarity loss to preserve identity and global shape during generation.'
-  tags:
+  #tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1608.00207'
     #- name: 'pdf'
