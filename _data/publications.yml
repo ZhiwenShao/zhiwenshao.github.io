@@ -1,3 +1,53 @@
+- title: 'SiTGRU: Single-Tunnelled Gated Recurrent Unit for Abnormality Detection'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2020/fanta2020sitgru.png'
+  selected: true
+  authors:
+    - name: Habtamu Fanta
+      url:  false
+    - name: <strong>Zhiwen Shao*</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'
+  publisher:  'Information Sciences, 2020'
+  status:   '(CCF B, SCI Q2)'
+  #place:   'in San Diego, USA'
+  desc: 'We propose a novel version of Gated Recurrent Unit (GRU), called Single-Tunnelled GRU for abnormality detection. Particularly, the Single-Tunnelled GRU discards the heavy-weighted reset gate from GRU cells that overlooks the importance of past content by only favouring current input to obtain an optimized single-gated-cell model. Moreover, we substitute the hyperbolic tangent activation in standard GRUs with sigmoid activation, as the former suffers from performance loss in deeper networks.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/1808.03457'
+    #- name: 'code'
+    #  url:  'https://github.com/ZhiwenShao/ARL'  
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+
+- title: 'Fine-Grained Expression Manipulation via structured latent Space'
+  date:  'Jul. 2020
+  imgurl: '/images/projects/2020/tang2020finegrained.png'
+  selected: true
+  authors:
+    - name: Junshu Tang
+      url:  false
+    - name: <strong>Zhiwen Shao*</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'  
+  publisher:  'ICME 2020'
+  status:   '(CCF B, oral)'
+  place:   'in London, United Kingdom'
+  desc: 'We propose an end-to-end expression-guided generative adversarial network (EGGAN), which utilizes structured latent codes and continuous expression labels as input to generate images with expected expressions. Specifically, we adopt an adversarial autoencoder to map a source image into a structured latent space. Then, given the source latent code and the target expression label, we employ a conditional GAN to generate a new image with the target expression. Moreover, we introduce a perceptual loss and a multi-scale structural similarity loss to preserve identity and global shape during generation.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/1608.00207'
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/ZhiwenShao/MCNet'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+        
 - title: 'Facial Action Unit Detection Using Attention and Relation Learning'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2019/shao2019facial.png'
@@ -8,11 +58,11 @@
     - name: Zhilei Liu
       url:  'http://cic.tju.edu.cn/faculty/zhileiliu/'
     - name: Jianfei Cai
-      url:  'http://www.ntu.edu.sg/home/asjfcai/'
+      url:  'https://research.monash.edu/en/persons/jianfei-cai/'
     - name: Yunsheng Wu
       url:  false
     - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'
+      url:  'http://dmcv.sjtu.edu.cn/people'
   publisher:  'IEEE Transactions on Affective Computing, 2019'
   status:   '(CCF B, SCI Q2)'
   #place:   'in San Diego, USA'
@@ -41,7 +91,7 @@
     - name: Yangyang Hao
       url:  false
     - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+      url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'Neurocomputing, 2019'
   status:   '(CCF C, SCI Q2)'
   #place:   'in San Diego, USA'
@@ -66,9 +116,9 @@
     - name: Zhilei Liu
       url:  'http://cic.tju.edu.cn/faculty/zhileiliu/'
     - name: Jianfei Cai
-      url:  'http://www.ntu.edu.sg/home/asjfcai/'
+      url:  'https://research.monash.edu/en/persons/jianfei-cai/'
     - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+      url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'ECCV 2018'
   status:   '(CCF B, Tsinghua A)'
   place:   'in Munich, Germany'
@@ -97,7 +147,7 @@
     - name: Min  Wang
       url:  false
     - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+      url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'ICME 2017'
   status:   '(CCF B, oral)'
   place:   'in Hong Kong'
@@ -126,7 +176,7 @@
     - name: Qinchuan  Zhang
       url:  false
     - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+      url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'ICME 2016'
   status:   '(CCF B)'
   place:   'in Seattle, USA'
@@ -155,7 +205,7 @@
     - name: Chengjie Wang
       url:  false
     - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+      url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'ICASSP 2016'
   status:   '(CCF B, oral)'
   place:   'in Shanghai, China'
@@ -180,7 +230,7 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+      url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'IET Computer Vision, 2019'
   status:   '(CCF C, SCI Q4)'
   #place:   'in San Diego, USA'
@@ -207,7 +257,7 @@
     - name: <strong>Zhiwen Shao*</strong>
       url:  'https://zhiwenshao.github.io/'  
     - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+      url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'CISP-BMEI 2019'
   #status:   '(CCF B)'
   place:   'in Suzhou, China'
@@ -236,7 +286,7 @@
     - name: Yangyang Hao
       url:  false
     - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+      url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'ICME 2018'
   status:   '(CCF B)'
   place:   'in San Diego, USA'
@@ -263,7 +313,7 @@
     - name: Yangyang Hao
       url:  false
     - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+      url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'ICME 2018'
   status:   '(CCF B)'
   place:   'in San Diego, USA'
@@ -290,7 +340,7 @@
     - name: Xin Tan
       url:  false
     - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+      url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'ICONIP 2018'
   status:   '(CCF C, oral)'
   place:   'in Siem Reap, Cambodia'
@@ -319,7 +369,7 @@
     - name: Xiaonan Hou
       url:  false
     - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+      url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'Computers & Graphics, 2018'
   status:   '(CCF C, SCI Q4)'
   #place:   'in San Diego, USA'
@@ -344,7 +394,7 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'  
     - name: Lizhuang Ma
-      url:  'http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'  
+      url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'CISP-BMEI 2017'
   #status:   '(CCF B)'
   place:   'in Shanghai, China'
