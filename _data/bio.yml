@@ -7,9 +7,8 @@ resume:     "/assets/resume/CV_ZhiwenShao-final.pdf"
 normal:
   date:     "June 2018"
   title:    ""
-  content:  "I am now a Computer Science Ph.D. candidate in the <a href='http://dmcv.sjtu.edu.cn/'>Digital Media & Computer Vision Laboratory</a>, Department of Computer Science and Engineering, <strong>Shanghai Jiao Tong University (SJTU)</strong>, China. I received the B.Eng. degree in Computer Science and Technology from <strong>Northwestern Polytechnical University (NPU)</strong>, China. My advisor is <a href='http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154'>Prof. Lizhuang Ma</a>, and my research interests lie in the fields of <strong>Face Analysis</strong> and <strong>Deep Learning</strong>."
+  content:  "I am now a Computer Science Ph.D. candidate in the <a href='http://dmcv.sjtu.edu.cn/'>Digital Media & Computer Vision Laboratory</a>, Department of Computer Science and Engineering, <strong>Shanghai Jiao Tong University (SJTU)</strong>, China. I received the B.Eng. degree in Computer Science and Technology from <strong>Northwestern Polytechnical University (NPU)</strong>, China. My advisor is <a href='http://dmcv.sjtu.edu.cn/people'>Prof. Lizhuang Ma</a>, and my research interests lie in the fields of <strong>Face Analysis</strong> and <strong>Deep Learning</strong>."
 short:
   date:
   title:  "Learn from You"
   content: "I mainly focus on <strong>Face Alignment</strong> and <strong>Facial Expression Recognition</strong>. I am honored to discuss with researchers related to these fields."
-
