@@ -14,8 +14,8 @@
   #place:   'in San Diego, USA'
   desc: 'We propose a novel version of Gated Recurrent Unit (GRU), called Single-Tunnelled GRU for abnormality detection. Particularly, the Single-Tunnelled GRU discards the heavy-weighted reset gate from GRU cells that overlooks the importance of past content by only favouring current input to obtain an optimized single-gated-cell model. Moreover, we substitute the hyperbolic tangent activation in standard GRUs with sigmoid activation, as the former suffers from performance loss in deeper networks.'
   tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/2003.13528'
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2003.13528'
     #- name: 'code'
     #  url:  'https://github.com/ZhiwenShao/ARL'  
     #- name: 'pdf'
