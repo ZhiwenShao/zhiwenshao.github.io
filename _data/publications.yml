@@ -1,3 +1,32 @@
+- title: 'Deep Multi-Center Learning for Face Alignment'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2018/shao2018deepmulti.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Hengliang Zhu
+      url:  false
+    - name: Xin Tan
+      url:  false
+    - name: Yangyang Hao
+      url:  false
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'  
+  publisher:  'Neurocomputing, 2020'
+  status:   '(CCF C, SCI Q2)'
+  #place:   'in San Diego, USA'
+  desc: 'We propose a novel deep learning framework named Multi-Center Learning with multiple shape prediction layers for face alignment. In particular, each shape prediction layer emphasizes on the detection of a certain cluster of semantically relevant landmarks respectively. Challenging landmarks are focused firstly, and each cluster of landmarks is further optimized respectively. Moreover, to reduce the model complexity, we propose a model assembling method to integrate multiple shape prediction layers into one shape prediction layer.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/1808.01558'
+    - name: 'code'
+      url:  'https://github.com/ZhiwenShao/MCNet-Extension'  
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'SiTGRU: Single-Tunnelled Gated Recurrent Unit for Abnormality Detection'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2020/fanta2020sitgru.png'
@@ -38,9 +67,9 @@
   status:   '(CCF B, oral)'
   place:   'in London, United Kingdom'
   desc: 'We propose an end-to-end expression-guided generative adversarial network (EGGAN), which utilizes structured latent codes and continuous expression labels as input to generate images with expected expressions. Specifically, we adopt an adversarial autoencoder to map a source image into a structured latent space. Then, given the source latent code and the target expression label, we employ a conditional GAN to generate a new image with the target expression. Moreover, we introduce a perceptual loss and a multi-scale structural similarity loss to preserve identity and global shape during generation.'
-  #tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/1608.00207'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2004.09769'
     #- name: 'pdf'
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
     #- name: 'code'
@@ -72,35 +101,6 @@
       url:  'https://arxiv.org/abs/1808.03457'
     - name: 'code'
       url:  'https://github.com/ZhiwenShao/ARL'  
-    #- name: 'pdf'
-    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
-    #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
-    
-- title: 'Deep Multi-Center Learning for Face Alignment'
-  #date:  'Jul. 2018'
-  imgurl: '/images/projects/2018/shao2018deepmulti.png'
-  selected: true
-  authors:
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/'
-    - name: Hengliang Zhu
-      url:  false
-    - name: Xin Tan
-      url:  false
-    - name: Yangyang Hao
-      url:  false
-    - name: Lizhuang Ma
-      url:  'http://dmcv.sjtu.edu.cn/people'  
-  publisher:  'Neurocomputing, 2019'
-  status:   '(CCF C, SCI Q2)'
-  #place:   'in San Diego, USA'
-  desc: 'We propose a novel deep learning framework named Multi-Center Learning with multiple shape prediction layers for face alignment. In particular, each shape prediction layer emphasizes on the detection of a certain cluster of semantically relevant landmarks respectively. Challenging landmarks are focused firstly, and each cluster of landmarks is further optimized respectively. Moreover, to reduce the model complexity, we propose a model assembling method to integrate multiple shape prediction layers into one shape prediction layer.'
-  tags:
-    - name: 'arXiv'
-      url:  'https://arxiv.org/abs/1808.01558'
-    - name: 'code'
-      url:  'https://github.com/ZhiwenShao/MCNet-Extension'  
     #- name: 'pdf'
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
     #- name: 'site'
@@ -218,6 +218,31 @@
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
+- title: 'FVNet: 3D Front-View Proposal Generation for Real-Time Object Detection from Point Clouds'
+  date:  'Oct. 2019'
+  imgurl: '/images/projects/2019/zhou2019fvnet.png'
+  selected: true
+  authors:
+    - name: Jie Zhou
+      url:  false
+    - name: Xin Tan
+      url:  false
+    - name: <strong>Zhiwen Shao*</strong>
+      url:  'https://zhiwenshao.github.io/'  
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'  
+  publisher:  'CISP-BMEI 2019'
+  #status:   '(CCF B)'
+  place:   'in Suzhou, China'
+  desc: 'We propose a novel framework called FVNet for 3D front-view proposal generation and object detection from point clouds. It consists of two stages: generation of front-view proposals and estimation of 3D bounding box parameters. We first project point clouds onto a cylindrical surface to generate front-view feature maps which retains rich information. We then introduce a proposal generation network to predict 3D region proposals from the generated maps and further extrude objects of interest from the whole point cloud. Finally, we present another network to extract the point-wise features from the extruded object points and regress the final 3D bounding box parameters in the canonical coordinates.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/1903.10750'
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/tang2017deep.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
+
 - title: 'Feedback Cascade Regression Model for Face Alignment'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2019/hao2019feedback.png'
@@ -244,31 +269,35 @@
       url:  'https://zhiwenshao.github.io/pdfs/projects/2019/hao2019feedback.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
-
-- title: 'FVNet: 3D Front-View Proposal Generation for Real-Time Object Detection from Point Clouds'
-  date:  'Oct. 2019'
-  imgurl: '/images/projects/2019/zhou2019fvnet.png'
+    
+- title: 'Better Initialization for Regression-Based Face Alignment'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2017/zhu2017better.png'
   selected: true
   authors:
-    - name: Jie Zhou
+    - name: Hengliang Zhu
       url:  false
-    - name: Xin Tan
+    - name: Bin Sheng
+      url:  'http://english.seiee.sjtu.edu.cn/english/detail/841_963.htm'
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yangyang Hao
       url:  false
-    - name: <strong>Zhiwen Shao*</strong>
-      url:  'https://zhiwenshao.github.io/'  
+    - name: Xiaonan Hou
+      url:  false
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
-  publisher:  'CISP-BMEI 2019'
-  #status:   '(CCF B)'
-  place:   'in Suzhou, China'
-  desc: 'We propose a novel framework called FVNet for 3D front-view proposal generation and object detection from point clouds. It consists of two stages: generation of front-view proposals and estimation of 3D bounding box parameters. We first project point clouds onto a cylindrical surface to generate front-view feature maps which retains rich information. We then introduce a proposal generation network to predict 3D region proposals from the generated maps and further extrude objects of interest from the whole point cloud. Finally, we present another network to extract the point-wise features from the extruded object points and regress the final 3D bounding box parameters in the canonical coordinates.'
+  publisher:  'Computers & Graphics, 2018'
+  status:   '(CCF C, SCI Q4)'
+  #place:   'in San Diego, USA'
+  desc: 'We discuss how to improve initialization by studying a neighborhood representation prior, leveraging neighboring faces to obtain a high-quality initial shape. In order to further improve the estimation precision of each facial landmark, we propose a face-like landmark adjustment algorithm to refine the face shape.'
   tags:
-    - name: 'arXiv'
-      url:  'https://arxiv.org/abs/1903.10750'
-    #- name: 'pdf'
-    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/tang2017deep.pdf'
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/1608.00207'
+    - name: 'pdf'
+      url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
     #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
     
 - title: 'Saliency Detection by Deep Network with Boundary Refinement and Global Context'
   date:  'Jul. 2018'
@@ -352,35 +381,6 @@
       url:  'https://zhiwenshao.github.io/pdfs/projects/2018/hao2018facial.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
-
-- title: 'Better Initialization for Regression-Based Face Alignment'
-  #date:  'Jul. 2018'
-  imgurl: '/images/projects/2017/zhu2017better.png'
-  selected: false
-  authors:
-    - name: Hengliang Zhu
-      url:  false
-    - name: Bin Sheng
-      url:  'http://english.seiee.sjtu.edu.cn/english/detail/841_963.htm'
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/'
-    - name: Yangyang Hao
-      url:  false
-    - name: Xiaonan Hou
-      url:  false
-    - name: Lizhuang Ma
-      url:  'http://dmcv.sjtu.edu.cn/people'  
-  publisher:  'Computers & Graphics, 2018'
-  status:   '(CCF C, SCI Q4)'
-  #place:   'in San Diego, USA'
-  desc: 'We discuss how to improve initialization by studying a neighborhood representation prior, leveraging neighboring faces to obtain a high-quality initial shape. In order to further improve the estimation precision of each facial landmark, we propose a face-like landmark adjustment algorithm to refine the face shape.'
-  tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/1608.00207'
-    - name: 'pdf'
-      url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
-    #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
     
 - title: 'Deep Feature Selection and Projection for Cross-Age Face Retrieval'
   date:  'Oct. 2017'
