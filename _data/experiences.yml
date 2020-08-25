@@ -1,15 +1,15 @@
-- date:  "Sept. 2015 - Aug. 2020"
-  title: "Ph.D. candidate @ SJTU"
-  desc:  "Face Analysis, Deep Learning"
-  host:
-    name: "<a href='http://dmcv.sjtu.edu.cn/people'>Prof. Lizhuang Ma</a>"
-    role: "Advisor"
-  brief: true
 - date:  "Nov. 2017 - Nov. 2018 "
   title: "Research Assistant @ NTU"
   desc:  "Facial Action Unit Recognition, Face Alignment"
   host:
     name:  "<a href='https://research.monash.edu/en/persons/jianfei-cai/'>Prof. Jianfei Cai</a>"
+    role: "Advisor"
+  brief: true  
+- date:  "Sept. 2015 - Aug. 2020"
+  title: "Ph.D. candidate @ SJTU"
+  desc:  "Face Analysis, Deep Learning"
+  host:
+    name: "<a href='http://dmcv.sjtu.edu.cn/people'>Prof. Lizhuang Ma</a>"
     role: "Advisor"
   brief: true  
 - date:  "Mar. 2015 - Sept. 2016"
