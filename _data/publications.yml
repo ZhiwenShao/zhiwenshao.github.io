@@ -1,3 +1,30 @@
+- title: 'JAA-Net: Joint Facial Action Unit Detection and Face Alignment via Adaptive Attention'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2020/shao2020jaa.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Zhilei Liu
+      url:  'http://cic.tju.edu.cn/faculty/zhileiliu/'
+    - name: Jianfei Cai
+      url:  'https://research.monash.edu/en/persons/jianfei-cai/'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'  
+  publisher:  'International Journal of Computer Vision, 2020'
+  status:   '(CCF A, SCI Q1)'
+  #place:   'in San Diego, USA'
+  desc: 'We propose a novel end-to-end deep learning framework for joint AU detection and face alignment, which has not been explored before. In particular, multi-scale shared feature is learned firstly, and high-level feature of face alignment is fed into AU detection. Moreover, to extract precise local features, we propose an adaptive attention learning module to refine the attention map of each AU adaptively. Finally, the assembled local features are integrated with face alignment feature and global feature for AU detection.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2003.08834'
+    - name: 'code'
+      url:  'https://github.com/ZhiwenShao/PyTorch-JAANet'  
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'Deep Multi-Center Learning for Face Alignment'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2018/shao2018deepmulti.png'
