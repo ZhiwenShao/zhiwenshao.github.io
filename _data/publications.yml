@@ -1,3 +1,30 @@
+- title: 'CPCS: Critical Points Guided Clustering and Sampling for Point Cloud Analysis'
+  date:  'Nov. 2020'
+  imgurl: '/images/projects/2020/wang2020cpcs.png'
+  selected: true
+  authors:
+    - name: Wei Wang
+      url:  false
+    - name: <strong>Zhiwen Shao*</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Wencai Zhong
+      url:  false
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'  
+  publisher:  'ICONIP 2020'
+  status:   '(CCF C)'
+  place:   'in Bangkok, Thailand'
+  desc: 'We introduce the Expectation-Maximization Attention module, to find the critical subset points and cluster the other points around them. Moreover, we explore a point cloud sampling strategy to sample points based on the critical subset.'
+  #tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/ZhiwenShao/MCNet'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'JAA-Net: Joint Facial Action Unit Detection and Face Alignment via Adaptive Attention'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2020/shao2020jaa.png'
@@ -22,6 +49,31 @@
       url:  'https://github.com/ZhiwenShao/PyTorch-JAANet'  
     #- name: 'pdf'
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+
+- title: '"Forget" the Forget Gate: Estimating Anomalies in Videos using Self-contained Long Short-Term Memory Networks'
+  date:  'Oct. 2020'
+  imgurl: '/images/projects/2020/fanta2020forget.png'
+  selected: true
+  authors:
+    - name: Habtamu Fanta
+      url:  false
+    - name: <strong>Zhiwen Shao*</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'  
+  publisher:  'CGI 2020'
+  status:   '(CCF C, oral)'
+  place:   'in Geneva, Switzerland'
+  desc: 'We introduce a bi-gated, light LSTM cell by discarding the forget gate and introducing sigmoid activation. Specifically, the proposed LSTM architecture fully sustains content from previous hidden state thereby enabling the trained model to be robust and make context-independent decision during evaluation. Removing the forget gate results in a simplified and undemanding LSTM cell with improved performance and computational efficiency.'
+  #tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/ZhiwenShao/MCNet'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
     
@@ -273,7 +325,7 @@
 - title: 'Feedback Cascade Regression Model for Face Alignment'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2019/hao2019feedback.png'
-  selected: true
+  selected: false
   authors:
     - name: Yangyang Hao
       url:  false
@@ -300,7 +352,7 @@
 - title: 'Better Initialization for Regression-Based Face Alignment'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2017/zhu2017better.png'
-  selected: true
+  selected: false
   authors:
     - name: Hengliang Zhu
       url:  false
