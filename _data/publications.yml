@@ -25,7 +25,7 @@
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
     
-- title: 'JAA-Net: Joint Facial Action Unit Detection and Face Alignment via Adaptive Attention'
+- title: 'JÂA-Net: Joint Facial Action Unit Detection and Face Alignment via Adaptive Attention'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2020/shao2020jaa.png'
   selected: true
