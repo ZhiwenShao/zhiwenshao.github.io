@@ -151,8 +151,8 @@
       url:  'https://arxiv.org/abs/2004.09769'
     #- name: 'pdf'
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
-    #- name: 'code'
-    #  url:  'https://github.com/ZhiwenShao/MCNet'
+    - name: 'code'
+      url:  'https://github.com/junshutang/EGGAN'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
         
