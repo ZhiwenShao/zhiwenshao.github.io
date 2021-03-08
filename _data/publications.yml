@@ -1,3 +1,55 @@
+- title: 'EGGAN: Learning Latent Space for Fine-Grained Expression Manipulation'
+  #date:  'Jul. 2020'
+  imgurl: '/images/projects/2021/tang2021eggan.png'
+  selected: true
+  authors:
+    - name: Junshu Tang
+      url:  false
+    - name: <strong>Zhiwen Shao*</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'  
+  publisher:  'IEEE Multimedia, 2021'
+  status:   '(SCI Q2)'
+  #place:   'in London, United Kingdom'
+  desc: 'We propose an end-to-end expression-guided generative adversarial network (EGGAN), which synthesizes an image with expected expression given continuous expression label and structured latent code. In particular, an adversarial autoencoder is used to translate a source image into a structured latent space. The encoded latent code and the target expression label are input to a conditional GAN to synthesize an image with the target expression. Moreover, a perceptual loss and a multi-scale structural similarity loss are introduced to preserve facial identity and global shape during expression manipulation.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
+    - name: 'code'
+      url:  'https://github.com/junshutang/EGGAN'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+
+- title: 'JÂA-Net: Joint Facial Action Unit Detection and Face Alignment via Adaptive Attention'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2020/shao2020jaa.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Zhilei Liu
+      url:  'http://cic.tju.edu.cn/faculty/zhileiliu/'
+    - name: Jianfei Cai
+      url:  'https://research.monash.edu/en/persons/jianfei-cai/'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'  
+  publisher:  'International Journal of Computer Vision, 2021'
+  status:   '(CCF A, SCI Q1)'
+  #place:   'in San Diego, USA'
+  desc: 'We propose a novel end-to-end deep learning framework for joint AU detection and face alignment, which has not been explored before. In particular, multi-scale shared feature is learned firstly, and high-level feature of face alignment is fed into AU detection. Moreover, to extract precise local features, we propose an adaptive attention learning module to refine the attention map of each AU adaptively. Finally, the assembled local features are integrated with face alignment feature and global feature for AU detection.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2003.08834'
+    - name: 'code'
+      url:  'https://github.com/ZhiwenShao/PyTorch-JAANet'  
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'CPCS: Critical Points Guided Clustering and Sampling for Point Cloud Analysis'
   date:  'Nov. 2020'
   imgurl: '/images/projects/2020/wang2020cpcs.png'
@@ -22,33 +74,6 @@
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
     #- name: 'code'
     #  url:  'https://github.com/ZhiwenShao/MCNet'
-    #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
-    
-- title: 'JÂA-Net: Joint Facial Action Unit Detection and Face Alignment via Adaptive Attention'
-  #date:  'Jul. 2018'
-  imgurl: '/images/projects/2020/shao2020jaa.png'
-  selected: true
-  authors:
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/'
-    - name: Zhilei Liu
-      url:  'http://cic.tju.edu.cn/faculty/zhileiliu/'
-    - name: Jianfei Cai
-      url:  'https://research.monash.edu/en/persons/jianfei-cai/'
-    - name: Lizhuang Ma
-      url:  'http://dmcv.sjtu.edu.cn/people'  
-  publisher:  'International Journal of Computer Vision, 2020'
-  status:   '(CCF A, SCI Q1)'
-  #place:   'in San Diego, USA'
-  desc: 'We propose a novel end-to-end deep learning framework for joint AU detection and face alignment, which has not been explored before. In particular, multi-scale shared feature is learned firstly, and high-level feature of face alignment is fed into AU detection. Moreover, to extract precise local features, we propose an adaptive attention learning module to refine the attention map of each AU adaptively. Finally, the assembled local features are integrated with face alignment feature and global feature for AU detection.'
-  tags:
-    - name: 'arXiv'
-      url:  'https://arxiv.org/abs/2003.08834'
-    - name: 'code'
-      url:  'https://github.com/ZhiwenShao/PyTorch-JAANet'  
-    #- name: 'pdf'
-    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
