@@ -131,7 +131,7 @@
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
-- title: 'Fine-Grained Expression Manipulation via structured latent Space'
+- title: 'Fine-Grained Expression Manipulation via Structured Latent Space'
   date:  'Jul. 2020'
   imgurl: '/images/projects/2020/tang2020finegrained.png'
   selected: true
