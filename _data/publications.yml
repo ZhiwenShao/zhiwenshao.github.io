@@ -1,3 +1,32 @@
+- title: 'Explicit Facial Expression Transfer via Fine-Grained Representations'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2021/shao2021explicit.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Hengliang Zhu
+      url:  false
+    - name: Junshu Tang
+      url:  false
+    - name: Xuequan Lu
+      url:  http://www.xuequanlu.com/
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'  
+  publisher:  'IEEE Transactions on Image Processing, 2021'
+  status:   '(CCF A, SCI Q1)'
+  #place:   'in San Diego, USA'
+  desc: 'We propose to explicitly transfer facial expression by directly mapping two unpaired input images to two synthesized images with swapped expressions. Specifically, considering AUs semantically describe fine-grained expression details, we propose a novel multi-class adversarial training method to disentangle input images into two types of fine-grained representations: AU-related feature and AU-free feature. Then, we can synthesize new images with preserved identities and swapped expressions by combining AU-free features with swapped AU-related features. Moreover, to obtain reliable expression transfer results of the unpaired input, we introduce a swap consistency loss to make the synthesized images and self-reconstructed images indistinguishable.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/1909.02967'
+    #- name: 'code'
+    #  url:  'https://github.com/ZhiwenShao/PyTorch-JAANet'  
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'EGGAN: Learning Latent Space for Fine-Grained Expression Manipulation'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2021/tang2021eggan.png'
