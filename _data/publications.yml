@@ -13,7 +13,7 @@
       url:  http://www.xuequanlu.com/
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
-  publisher:  'IEEE Transactions on Affective Computing (TAFFC), 2021'
+  publisher:  'IEEE Transactions on Affective Computing, 2021'
   status:   '(CCF B, SCI Q2)'
   #place:   'in San Diego, USA'
   desc: 'We propose an end-to-end unconstrained facial AU detection framework based on domain adaptation, which transfers accurate AU labels from a constrained source domain to an unconstrained target domain by exploiting labels of AU-related facial landmarks. Specifically, we map a source image with label and a target image without label into a latent feature domain by combining source landmark-related feature with target landmark-free feature. Due to the combination of source AU-related information and target AU-free information, the latent feature domain with transferred source label can be learned by maximizing the target-domain AU detection performance. Moreover, we introduce a novel landmark adversarial loss to disentangle the landmark-free feature from the landmark-related feature by treating the adversarial learning as a multi-player minimax game.'
@@ -283,7 +283,7 @@
       url:  false
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'
-  publisher:  'IEEE Transactions on Affective Computing (TAFFC), 2019'
+  publisher:  'IEEE Transactions on Affective Computing, 2019'
   status:   '(CCF B, SCI Q2)'
   #place:   'in San Diego, USA'
   desc: 'We propose an end-to-end deep learning based attention and relation learning framework for AU detection with only AU labels, which has not been explored before. In particular, multi-scale features shared by each AU are learned firstly, and then both channel-wise and spatial attentions are adaptively learned to select and extract AU-related local features. Moreover, pixel-level relations for AUs are further captured to refine spatial attentions so as to extract more relevant local features. Without changing the network architecture, our framework can be easily extended for AU intensity estimation.'
