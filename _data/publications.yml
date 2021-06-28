@@ -13,7 +13,7 @@
       url:  http://www.xuequanlu.com/
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
-  publisher:  'IEEE Transactions on Affective Computing, 2021'
+  publisher:  'IEEE Transactions on Affective Computing (TAFFC), 2021'
   status:   '(CCF B, SCI Q2)'
   #place:   'in San Diego, USA'
   desc: 'We propose an end-to-end unconstrained facial AU detection framework based on domain adaptation, which transfers accurate AU labels from a constrained source domain to an unconstrained target domain by exploiting labels of AU-related facial landmarks. Specifically, we map a source image with label and a target image without label into a latent feature domain by combining source landmark-related feature with target landmark-free feature. Due to the combination of source AU-related information and target AU-free information, the latent feature domain with transferred source label can be learned by maximizing the target-domain AU detection performance. Moreover, we introduce a novel landmark adversarial loss to disentangle the landmark-free feature from the landmark-related feature by treating the adversarial learning as a multi-player minimax game.'
@@ -71,7 +71,7 @@
       url:  http://www.xuequanlu.com/
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
-  publisher:  'IEEE Transactions on Image Processing, 2021'
+  publisher:  'IEEE Transactions on Image Processing (TIP), 2021'
   status:   '(CCF A, SCI Q1)'
   #place:   'in San Diego, USA'
   desc: 'We propose to explicitly transfer facial expression by directly mapping two unpaired input images to two synthesized images with swapped expressions. Specifically, considering AUs semantically describe fine-grained expression details, we propose a novel multi-class adversarial training method to disentangle input images into two types of fine-grained representations: AU-related feature and AU-free feature. Then, we can synthesize new images with preserved identities and swapped expressions by combining AU-free features with swapped AU-related features. Moreover, to obtain reliable expression transfer results of the unpaired input, we introduce a swap consistency loss to make the synthesized images and self-reconstructed images indistinguishable.'
@@ -96,7 +96,7 @@
       url:  'https://zhiwenshao.github.io/'
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
-  publisher:  'IEEE Multimedia, 2021'
+  publisher:  'IEEE Multimedia (MM), 2021'
   status:   '(SCI Q2)'
   #place:   'in London, United Kingdom'
   desc: 'We propose an end-to-end expression-guided generative adversarial network (EGGAN), which synthesizes an image with expected expression given continuous expression label and structured latent code. In particular, an adversarial autoencoder is used to translate a source image into a structured latent space. The encoded latent code and the target expression label are input to a conditional GAN to synthesize an image with the target expression. Moreover, a perceptual loss and a multi-scale structural similarity loss are introduced to preserve facial identity and global shape during expression manipulation.'
@@ -123,7 +123,7 @@
       url:  'https://research.monash.edu/en/persons/jianfei-cai/'
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
-  publisher:  'International Journal of Computer Vision, 2021'
+  publisher:  'International Journal of Computer Vision (IJCV), 2021'
   status:   '(CCF A, SCI Q1)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel end-to-end deep learning framework for joint AU detection and face alignment, which has not been explored before. In particular, multi-scale shared feature is learned firstly, and high-level feature of face alignment is fed into AU detection. Moreover, to extract precise local features, we propose an adaptive attention learning module to refine the attention map of each AU adaptively. Finally, the assembled local features are integrated with face alignment feature and global feature for AU detection.'
@@ -229,7 +229,7 @@
       url:  'https://zhiwenshao.github.io/'
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'
-  publisher:  'Information Sciences, 2020'
+  publisher:  'Information Sciences (INS), 2020'
   status:   '(CCF B, SCI Q2)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel version of Gated Recurrent Unit (GRU), called Single-Tunnelled GRU for abnormality detection. Particularly, the Single-Tunnelled GRU discards the heavy-weighted reset gate from GRU cells that overlooks the importance of past content by only favouring current input to obtain an optimized single-gated-cell model. Moreover, we substitute the hyperbolic tangent activation in standard GRUs with sigmoid activation, as the former suffers from performance loss in deeper networks.'
@@ -283,7 +283,7 @@
       url:  false
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'
-  publisher:  'IEEE Transactions on Affective Computing, 2019'
+  publisher:  'IEEE Transactions on Affective Computing (TAFFC), 2019'
   status:   '(CCF B, SCI Q2)'
   #place:   'in San Diego, USA'
   desc: 'We propose an end-to-end deep learning based attention and relation learning framework for AU detection with only AU labels, which has not been explored before. In particular, multi-scale features shared by each AU are learned firstly, and then both channel-wise and spatial attentions are adaptively learned to select and extract AU-related local features. Moreover, pixel-level relations for AUs are further captured to refine spatial attentions so as to extract more relevant local features. Without changing the network architecture, our framework can be easily extended for AU intensity estimation.'
