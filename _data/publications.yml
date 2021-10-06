@@ -1,3 +1,34 @@
+- title: 'GeoConv: Geodesic Guided Convolution for Facial Action Unit Recognition'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2021/chen2021geoconv.png'
+  selected: true
+  authors:
+    - name: Yuedong Chen
+      url:  'https://donydchen.github.io/'
+    - name: Guoxian Song
+      url:  'https://guoxiansong.github.io/homepage/index.html'
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Jianfei Cai
+      url:  'https://research.monash.edu/en/persons/jianfei-cai/'
+    - name: Tat-Jen Cham
+      url:  'https://personal.ntu.edu.sg/astjcham/index.html'  
+    - name: Jianmin Zheng
+      url:  'https://personal.ntu.edu.sg/asjmzheng/'
+  publisher:  'Pattern Recognition, 2021'
+  status:   '(CCF B, SCI Q2)'
+  #place:   'in San Diego, USA'
+  desc: 'We propose a novel geodesic guided convolution (GeoConv) for AU recognition by embedding 3D manifold information into 2D convolutions. Specifically, the kernel of GeoConv is weighted by our introduced geodesic weights, which are negatively correlated to geodesic distances on a coarsely reconstructed 3D morphable face model. Moreover, based on GeoConv, we further develop an end-to-end trainable framework named GeoCNN for AU recognition.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2003.03055'
+    #- name: 'code'
+    #  url:  'https://github.com/ZhiwenShao/ADLD'  
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'Unconstrained Facial Action Unit Detection via Latent Feature Domain'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2021/shao2021unconstrained.png'
@@ -10,7 +41,7 @@
     - name: Tat-Jen Cham
       url:  'https://personal.ntu.edu.sg/astjcham/index.html'  
     - name: Xuequan Lu
-      url:  http://www.xuequanlu.com/
+      url:  'http://www.xuequanlu.com/'
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'IEEE Transactions on Affective Computing, 2021'
@@ -68,7 +99,7 @@
     - name: Junshu Tang
       url:  false
     - name: Xuequan Lu
-      url:  http://www.xuequanlu.com/
+      url:  'http://www.xuequanlu.com/'
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'IEEE Transactions on Image Processing (TIP), 2021'
