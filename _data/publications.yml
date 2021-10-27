@@ -71,7 +71,7 @@
       url:  'https://zhiwenshao.github.io/'
     - name: Xin Tan
       url:  false
-    - name: Lizhuang Ma
+    - name: Lizhuang Ma*
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'The Visual Computer (TVC), 2021'
   status:   '(CCF C, SCI Q4)'
@@ -125,7 +125,7 @@
       url:  false
     - name: <strong>Zhiwen Shao*</strong>
       url:  'https://zhiwenshao.github.io/'
-    - name: Lizhuang Ma
+    - name: Lizhuang Ma*
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'IEEE Multimedia (MM), 2021'
   status:   '(SCI Q2)'
@@ -179,7 +179,7 @@
       url:  'https://zhiwenshao.github.io/'
     - name: Wencai Zhong
       url:  false
-    - name: Lizhuang Ma
+    - name: Lizhuang Ma*
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'ICONIP 2020'
   status:   '(CCF C)'
@@ -204,7 +204,7 @@
       url:  false
     - name: <strong>Zhiwen Shao*</strong>
       url:  'https://zhiwenshao.github.io/'
-    - name: Lizhuang Ma
+    - name: Lizhuang Ma*
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'CGI 2020'
   status:   '(CCF C, oral)'
@@ -258,7 +258,7 @@
       url:  false
     - name: <strong>Zhiwen Shao*</strong>
       url:  'https://zhiwenshao.github.io/'
-    - name: Lizhuang Ma
+    - name: Lizhuang Ma*
       url:  'http://dmcv.sjtu.edu.cn/people'
   publisher:  'Information Sciences (INS), 2020'
   status:   '(CCF B, SCI Q2)'
@@ -283,7 +283,7 @@
       url:  false
     - name: <strong>Zhiwen Shao*</strong>
       url:  'https://zhiwenshao.github.io/'
-    - name: Lizhuang Ma
+    - name: Lizhuang Ma*
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'ICME 2020'
   status:   '(CCF B, oral)'
