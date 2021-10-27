@@ -195,7 +195,7 @@
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
 
-- title: '"Forget" the Forget Gate: Estimating Anomalies in Videos using Self-contained Long Short-Term Memory Networks'
+- title: '"Forget" the Forget Gate: Estimating Anomalies in Videos Using Self-Contained Long Short-Term Memory Networks'
   date:  'Oct. 2020'
   imgurl: '/images/projects/2020/fanta2020forget.png'
   selected: true
