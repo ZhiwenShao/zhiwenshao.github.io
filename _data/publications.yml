@@ -12,7 +12,7 @@
     - name: Yong Zhou
       url:  false
     - name: Rui Yao
-      url:  false
+      url:  'https://ruiyao.bitbucket.io/'
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Jiaqi Zhao
@@ -61,6 +61,29 @@
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
+- title: 'Survey of Expression Action Unit Recognition Based on Deep Learning'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2021/shao2021survey.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yong Zhou
+      url:  false  
+    - name: Xin Tan
+      url:  false
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'    
+    - name: Bing Liu
+      url:  false
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+  publisher:  'Acta Electronica Sinica, 2021'
+  status:   '(CCF Chinese A)'
+  #place:   'in San Diego, USA'
+  desc: 'Expression action unit (AU) recognition based on deep learning is a hot topic in the fields of computer vision and affective computing. Each AU describes a facial local expression action, and the combinations of AUs can quantitatively represent any expression. Current AU recognition mainly faces three challenging factors: scarcity of labels, difficulty of feature capture, and imbalance of labels. On the basis of this, this paper categorizes the existing researches into transfer learning based, region learning based, and relation learning based methods, and comments and summarizes each category of representative methods. Finally, this paper compares and analyzes different methods, and further discusses the future research directions of AU recognition.'
+  tags:  
     
 - title: 'Unconstrained Facial Action Unit Detection via Latent Feature Domain'
   #date:  'Jul. 2018'
