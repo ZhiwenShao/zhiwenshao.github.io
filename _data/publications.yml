@@ -1,3 +1,36 @@
+- title: 'Show, Deconfound and Tell: Image Captioning with Causal Inference'
+  date:  'Jun. 2022'
+  imgurl: '/images/projects/2022/liu2022show.png'
+  selected: true
+  authors:
+    - name: Bing Liu
+      url:  false
+    - name: Dong Wang
+      url:  false
+    - name: Xu Yang
+      url:  false
+    - name: Yong Zhou
+      url:  false
+    - name: Rui Yao
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Jiaqi Zhao
+      url:  false
+  publisher:  'CVPR 2022'
+  status:   '(CCF A)'
+  place:   'in New Orleans, USA'
+  desc: 'We first use Structural Causal Models (SCMs) to show how two confounders damage the image captioning. Then we apply the backdoor adjustment to propose a novel causal inference based image captioning (CIIC) framework, which consists of an interventional object detector (IOD) and an interventional transformer decoder (ITD) to jointly confront both confounders. In the encoding stage, the IOD is able to disentangle the region-based visual features by deconfounding the visual confounder. In the decoding stage, the ITD introduces causal intervention into the transform decoder and deconfounds the visual and linguistic confounders simultaneously. Two modules collaborate with each other to eliminate the spurious correlations caused by the unobserved confounders.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/1803.05588'
+    #- name: 'pdf'
+    #  url:  'http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhiwen_Shao_Deep_Adaptive_Attention_ECCV_2018_paper.pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/ZhiwenShao/JAANet'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'GeoConv: Geodesic Guided Convolution for Facial Action Unit Recognition'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2021/chen2021geoconv.png'
@@ -15,7 +48,7 @@
       url:  'https://personal.ntu.edu.sg/astjcham/index.html'  
     - name: Jianmin Zheng
       url:  'https://personal.ntu.edu.sg/asjmzheng/'
-  publisher:  'Pattern Recognition, 2021'
+  publisher:  'Pattern Recognition, 2022'
   status:   '(CCF B, SCI Q2)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel geodesic guided convolution (GeoConv) for AU recognition by embedding 3D manifold information into 2D convolutions. Specifically, the kernel of GeoConv is weighted by our introduced geodesic weights, which are negatively correlated to geodesic distances on a coarsely reconstructed 3D morphable face model. Moreover, based on GeoConv, we further develop an end-to-end trainable framework named GeoCNN for AU recognition.'
