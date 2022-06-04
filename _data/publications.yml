@@ -1,3 +1,86 @@
+- title: 'Facial Action Unit Detection via Hybrid Relational Reasoning'
+  #date:  'Jul. 2020'
+  imgurl: '/images/projects/2022/shao2022facial.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao*</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yong Zhou
+      url:  false 
+    - name: Bing Liu
+      url:  false
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'    
+    - name: Wen-Liang Du
+      url:  false
+    - name: Jiaqi Zhao
+      url:  false
+  publisher:  'The Visual Computer (TVC), 2022'
+  status:   '(CCF C, SCI Q4)'
+  #place:   'in London, United Kingdom'
+  desc: 'We propose a novel hybrid relational reasoning (HRR) framework for AU detection. In particular, we propose to adaptively reason pixel-level correlations of each AU, under the constraint of predefined regional correlations by facial landmarks, as well as the supervision of AU detection. Moreover, we propose to adaptively reason AU-level correlations using a graph convolutional network, by considering both predefined AU relationships and learnable relationship weights. Our framework is beneficial for integrating the advantages of correlation predefinition and correlation learning.' 
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/junshutang/EGGAN'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
+- title: 'Survey of Expression Action Unit Recognition Based on Deep Learning'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2021/shao2021survey.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yong Zhou
+      url:  false  
+    - name: Xin Tan
+      url:  false
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'    
+    - name: Bing Liu
+      url:  false
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+  publisher:  'Acta Electronica Sinica, 2022'
+  status:   '(CCF Chinese A)'
+  #place:   'in San Diego, USA'
+  desc: 'Expression action unit (AU) recognition based on deep learning is a hot topic in the fields of computer vision and affective computing. Each AU describes a facial local expression action, and the combinations of AUs can quantitatively represent any expression. Current AU recognition mainly faces three challenging factors: scarcity of labels, difficulty of feature capture, and imbalance of labels. On the basis of this, this paper categorizes the existing researches into transfer learning based, region learning based, and relation learning based methods, and comments and summarizes each category of representative methods. Finally, this paper compares and analyzes different methods, and further discusses the future research directions of AU recognition.'
+  tags:  
+    
+- title: 'Unconstrained Facial Action Unit Detection via Latent Feature Domain'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2021/shao2021unconstrained.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Jianfei Cai
+      url:  'https://research.monash.edu/en/persons/jianfei-cai/'
+    - name: Tat-Jen Cham
+      url:  'https://personal.ntu.edu.sg/astjcham/index.html'  
+    - name: Xuequan Lu
+      url:  'http://www.xuequanlu.com/'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'  
+  publisher:  'IEEE Transactions on Affective Computing, 2022'
+  status:   '(CCF B, SCI Q2)'
+  #place:   'in San Diego, USA'
+  desc: 'We propose an end-to-end unconstrained facial AU detection framework based on domain adaptation, which transfers accurate AU labels from a constrained source domain to an unconstrained target domain by exploiting labels of AU-related facial landmarks. Specifically, we map a source image with label and a target image without label into a latent feature domain by combining source landmark-related feature with target landmark-free feature. Due to the combination of source AU-related information and target AU-free information, the latent feature domain with transferred source label can be learned by maximizing the target-domain AU detection performance. Moreover, we introduce a novel landmark adversarial loss to disentangle the landmark-free feature from the landmark-related feature by treating the adversarial learning as a multi-player minimax game.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/1903.10143'
+    - name: 'code'
+      url:  'https://github.com/ZhiwenShao/ADLD'  
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'Show, Deconfound and Tell: Image Captioning with Causal Inference'
   date:  'Jun. 2022'
   imgurl: '/images/projects/2022/liu2022show.png'
@@ -57,58 +140,6 @@
       url:  'https://arxiv.org/abs/2003.03055'
     #- name: 'code'
     #  url:  'https://github.com/ZhiwenShao/ADLD'  
-    #- name: 'pdf'
-    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
-    #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
-    
-- title: 'Survey of Expression Action Unit Recognition Based on Deep Learning'
-  #date:  'Jul. 2018'
-  imgurl: '/images/projects/2021/shao2021survey.png'
-  selected: true
-  authors:
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/'
-    - name: Yong Zhou
-      url:  false  
-    - name: Xin Tan
-      url:  false
-    - name: Lizhuang Ma
-      url:  'http://dmcv.sjtu.edu.cn/people'    
-    - name: Bing Liu
-      url:  false
-    - name: Rui Yao
-      url:  'https://ruiyao.bitbucket.io/'
-  publisher:  'Acta Electronica Sinica, 2021'
-  status:   '(CCF Chinese A)'
-  #place:   'in San Diego, USA'
-  desc: 'Expression action unit (AU) recognition based on deep learning is a hot topic in the fields of computer vision and affective computing. Each AU describes a facial local expression action, and the combinations of AUs can quantitatively represent any expression. Current AU recognition mainly faces three challenging factors: scarcity of labels, difficulty of feature capture, and imbalance of labels. On the basis of this, this paper categorizes the existing researches into transfer learning based, region learning based, and relation learning based methods, and comments and summarizes each category of representative methods. Finally, this paper compares and analyzes different methods, and further discusses the future research directions of AU recognition.'
-  tags:  
-    
-- title: 'Unconstrained Facial Action Unit Detection via Latent Feature Domain'
-  #date:  'Jul. 2018'
-  imgurl: '/images/projects/2021/shao2021unconstrained.png'
-  selected: true
-  authors:
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/'
-    - name: Jianfei Cai
-      url:  'https://research.monash.edu/en/persons/jianfei-cai/'
-    - name: Tat-Jen Cham
-      url:  'https://personal.ntu.edu.sg/astjcham/index.html'  
-    - name: Xuequan Lu
-      url:  'http://www.xuequanlu.com/'
-    - name: Lizhuang Ma
-      url:  'http://dmcv.sjtu.edu.cn/people'  
-  publisher:  'IEEE Transactions on Affective Computing, 2021'
-  status:   '(CCF B, SCI Q2)'
-  #place:   'in San Diego, USA'
-  desc: 'We propose an end-to-end unconstrained facial AU detection framework based on domain adaptation, which transfers accurate AU labels from a constrained source domain to an unconstrained target domain by exploiting labels of AU-related facial landmarks. Specifically, we map a source image with label and a target image without label into a latent feature domain by combining source landmark-related feature with target landmark-free feature. Due to the combination of source AU-related information and target AU-free information, the latent feature domain with transferred source label can be learned by maximizing the target-domain AU detection performance. Moreover, we introduce a novel landmark adversarial loss to disentangle the landmark-free feature from the landmark-related feature by treating the adversarial learning as a multi-player minimax game.'
-  tags:
-    - name: 'arXiv'
-      url:  'https://arxiv.org/abs/1903.10143'
-    - name: 'code'
-      url:  'https://github.com/ZhiwenShao/ADLD'  
     #- name: 'pdf'
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
     #- name: 'site'
