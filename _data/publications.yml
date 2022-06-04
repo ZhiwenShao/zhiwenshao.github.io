@@ -3,7 +3,7 @@
   imgurl: '/images/projects/2022/shao2022facial.png'
   selected: true
   authors:
-    - name: <strong>Zhiwen Shao*</strong>
+    - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Yong Zhou
       url:  false 
