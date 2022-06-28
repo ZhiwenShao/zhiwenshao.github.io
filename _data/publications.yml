@@ -1,3 +1,36 @@
+- title: 'TextDCT: Arbitrary-Shaped Text Detection via Discrete Cosine Transform Mask'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2022/su2022textdct.png'
+  selected: true
+  authors:
+    - name: Yuchen Su†
+      url:  false 
+    - name: <strong>Zhiwen Shao†*</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yong Zhou
+      url:  false 
+    - name: Fanrong Meng
+      url:  false  
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'      
+    - name: Bing Liu
+      url:  false
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+  publisher:  'IEEE Transactions on Multimedia, 2022'
+  status:   '(CCF B, SCI Q2)'
+  #place:   'in San Diego, USA'
+  desc: 'We propose a novel light-weight anchor-free text detection framework called TextDCT, which adopts the discrete cosine transform (DCT) to encode the text masks as compact vectors. Further, considering the imbalanced number of training samples among pyramid layers, we only employ a single-level head for top-down prediction. To model the multi-scale texts in a single-level head, we introduce a novel positive sampling strategy by treating the shrunk text region as positive samples, and design a feature awareness module (FAM) for spatial-awareness and scale-awareness by fusing rich contextual information and focusing on more significant features. Moreover, we propose a segmented non-maximum suppression (S-NMS) method that can filter low-quality mask regressions.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2206.13381'
+    #- name: 'code'
+    #  url:  'https://github.com/ZhiwenShao/ADLD'  
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+
 - title: 'Facial Action Unit Detection via Hybrid Relational Reasoning'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2022/shao2022facial.png'
