@@ -585,6 +585,37 @@
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
 
+- title: 'ARET-IQA: An Aspect-Ratio-Embedded Transformer for Image Quality Assessment'
+  #date:  'Jul. 2020'
+  imgurl: '/images/projects/2022/zhu2022ARET-IQA.png'
+  selected: false
+  authors:
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'    
+    - name: Yong Zhou
+      url:  false 
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Wen-Liang Du
+      url:  false
+    - name: Jiaqi Zhao
+      url:  false
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'  
+  publisher:  'Electronics, 2022'
+  status:   '(SCI Q4)'
+  #place:   'in London, United Kingdom'
+  desc: 'This paper proposes an aspect-ratio-embedded Transformer-based image quality assessment method, which can implant the adaptive aspect ratios of input images into the multihead self-attention module of the Swin Transformer. In this way, the proposed IQA model can not only relieve the variety of perceptual quality caused by size changes in input images but also leverage more global content correlations to infer image perceptual quality. Furthermore, to comprehensively capture the impact of low-level and high-level features on image quality, the proposed IQA model combines the output features of multistage Transformer blocks for jointly inferring image quality.' 
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    - name: 'pdf'
+      url:  'https://www.mdpi.com/2079-9292/11/14/2132/pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/junshutang/EGGAN'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'Feedback Cascade Regression Model for Face Alignment'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2019/hao2019feedback.png'
