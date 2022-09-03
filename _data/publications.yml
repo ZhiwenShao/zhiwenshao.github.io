@@ -1,3 +1,32 @@
+- title: 'Facial Action Unit Detection Using Attention and Relation Learning'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2019/shao2019facial.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Zhilei Liu
+      url:  'http://cic.tju.edu.cn/faculty/zhileiliu/'
+    - name: Jianfei Cai
+      url:  'https://research.monash.edu/en/persons/jianfei-cai/'
+    - name: Yunsheng Wu
+      url:  false
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'
+  publisher:  'IEEE Transactions on Affective Computing (TAFFC), 2022'
+  status:   '(CCF B, SCI Q2)'
+  #place:   'in San Diego, USA'
+  desc: 'We propose an end-to-end deep learning based attention and relation learning framework for AU detection with only AU labels, which has not been explored before. In particular, multi-scale features shared by each AU are learned firstly, and then both channel-wise and spatial attentions are adaptively learned to select and extract AU-related local features. Moreover, pixel-level relations for AUs are further captured to refine spatial attentions so as to extract more relevant local features. Without changing the network architecture, our framework can be easily extended for AU intensity estimation.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/1808.03457'
+    - name: 'code'
+      url:  'https://github.com/ZhiwenShao/ARL'  
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'TextDCT: Arbitrary-Shaped Text Detection via Discrete Cosine Transform Mask'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2022/su2022textdct.png'
@@ -416,35 +445,6 @@
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
     - name: 'code'
       url:  'https://github.com/junshutang/EGGAN'
-    #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
-        
-- title: 'Facial Action Unit Detection Using Attention and Relation Learning'
-  #date:  'Jul. 2018'
-  imgurl: '/images/projects/2019/shao2019facial.png'
-  selected: true
-  authors:
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/'
-    - name: Zhilei Liu
-      url:  'http://cic.tju.edu.cn/faculty/zhileiliu/'
-    - name: Jianfei Cai
-      url:  'https://research.monash.edu/en/persons/jianfei-cai/'
-    - name: Yunsheng Wu
-      url:  false
-    - name: Lizhuang Ma
-      url:  'http://dmcv.sjtu.edu.cn/people'
-  publisher:  'IEEE Transactions on Affective Computing (TAFFC), 2019'
-  status:   '(CCF B, SCI Q2)'
-  #place:   'in San Diego, USA'
-  desc: 'We propose an end-to-end deep learning based attention and relation learning framework for AU detection with only AU labels, which has not been explored before. In particular, multi-scale features shared by each AU are learned firstly, and then both channel-wise and spatial attentions are adaptively learned to select and extract AU-related local features. Moreover, pixel-level relations for AUs are further captured to refine spatial attentions so as to extract more relevant local features. Without changing the network architecture, our framework can be easily extended for AU intensity estimation.'
-  tags:
-    - name: 'arXiv'
-      url:  'https://arxiv.org/abs/1808.03457'
-    - name: 'code'
-      url:  'https://github.com/ZhiwenShao/ARL'  
-    #- name: 'pdf'
-    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
     
