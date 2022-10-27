@@ -113,7 +113,7 @@
   #place:   'in San Diego, USA'
   desc: 'Expression action unit (AU) recognition based on deep learning is a hot topic in the fields of computer vision and affective computing. Each AU describes a facial local expression action, and the combinations of AUs can quantitatively represent any expression. Current AU recognition mainly faces three challenging factors: scarcity of labels, difficulty of feature capture, and imbalance of labels. On the basis of this, this paper categorizes the existing researches into transfer learning based, region learning based, and relation learning based methods, and comments and summarizes each category of representative methods. Finally, this paper compares and analyzes different methods, and further discusses the future research directions of AU recognition.'
   tags:  
-    - name: 'website'
+    - name: 'site'
       url:  'https://www.ejournal.org.cn/EN/Y2022/V50/I8/2003'
     
 - title: 'Unconstrained Facial Action Unit Detection via Latent Feature Domain'
@@ -177,6 +177,35 @@
     #  url:  'https://github.com/ZhiwenShao/JAANet'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
+- title: 'Incremental Learning with Neural Networks for Computer Vision: a Survey'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2022/liu2022incremental.jpg'
+  selected: true
+  authors:
+    - name: Hao Liu
+      url:  false
+    - name: Yong Zhou
+      url:  false
+    - name: Bing Liu
+      url:  false
+    - name: Jiaqi Zhao
+      url:  false
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'  
+  publisher:  'Artificial Intelligence Review, 2022'
+  status:   '(SCI Q2)'
+  #place:   'in San Diego, USA'
+  desc: 'We systematically review the current development of incremental learning and give the overall taxonomy of the incremental learning methods. Specifically, three kinds of mainstream methods, i.e., parameter regularization-based approaches, knowledge distillation-based approaches, and dynamic architecture-based approaches, are surveyed, summarized, and discussed in detail. Furthermore, we comprehensively analyze the performance of data-permuted incremental learning, class-incremental learning, and multi-modal incremental learning on widely used datasets, covering a broad of incremental learning scenarios for image classification and semantic segmentation. Lastly, we point out some possible research directions and inspiring suggestions for incremental learning in the field of computer vision.'
+  tags:
+    #- name: 'code'
+    #  url:  'https://github.com/ZhiwenShao/ADLD'  
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
+    - name: 'site'
+      url:  'https://link.springer.com/article/10.1007/s10462-022-10294-2'    
     
 - title: 'GeoConv: Geodesic Guided Convolution for Facial Action Unit Recognition'
   #date:  'Jul. 2018'
