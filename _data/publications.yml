@@ -177,6 +177,33 @@
     #  url:  'https://github.com/ZhiwenShao/JAANet'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+
+- title: 'Personality Modeling from Image Aesthetic Attribute-Aware Graph Representation Learning'
+  #date:  'Jul. 2020'
+  imgurl: '/images/projects/2022/zhu2022personality.png'
+  selected: false
+  authors:
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'    
+    - name: Yong Zhou
+      url:  false
+    - name: Qiaoyue Li
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+  publisher:  'Journal of Visual Communication and Image Representation, 2022'
+  status:   '(SCI Q3)'
+  #place:   'in London, United Kingdom'
+  desc: 'This paper proposes a personality modeling approach based on image aesthetic attribute-aware graph representation learning, which can leverage aesthetic attributes to refine the liked images that are consistent with users’ personality traits. Specifically, we first utilize a Convolutional Neural Network (CNN) to train an aesthetic attribute prediction module. Then, attribute-aware graph representation learning is introduced to refine the images with similar aesthetic attributes from users’ liked images. Finally, the aesthetic attributes of all refined images are combined to predict personality traits through a Multi-Layer Perceptron (MLP).'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    #- name: 'pdf'
+    #  url:  'https://www.mdpi.com/2079-9292/11/19/3047/pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/junshutang/EGGAN'
+    - name: 'site'
+      url:  'https://www.sciencedirect.com/science/article/pii/S104732032200195X'  
     
 - title: 'Incremental Learning with Neural Networks for Computer Vision: a Survey'
   #date:  'Jul. 2018'
