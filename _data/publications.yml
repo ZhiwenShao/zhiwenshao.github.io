@@ -709,6 +709,37 @@
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
 
+- title: 'Personalized Image Aesthetics Assessment via Multi-Attribute Interactive Reasoning'
+  #date:  'Jul. 2020'
+  imgurl: '/images/projects/2022/zhu2022personalized2.png'
+  selected: false
+  authors:
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'    
+    - name: Yong Zhou
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Wen-Liang Du
+      url:  false
+    - name: Guangcheng Wang
+      url:  false
+    - name: Qiaoyue Li
+      url:  false
+  publisher:  'Mathematics, 2022'
+  status:   '(SCI Q4)'
+  #place:   'in London, United Kingdom'
+  desc: 'This paper proposes a personalized image aesthetics assessment method via multi-attribute interactive reasoning. Different from existing PIAA models, the multi-attribute interaction constructed from both images and users is used as more effective prior knowledge. First, we designed a generic aesthetics extraction module from the perspective of images to obtain the aesthetic score distribution and multiple objective attributes of images rated by most users. Then, we propose a multi-attribute interactive reasoning network from the perspective of users. By interacting multiple subjective attributes of users with multiple objective attributes of images, we fused the obtained multi-attribute interactive features and aesthetic score distribution to predict personalized aesthetic scores.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    - name: 'pdf'
+      url:  'https://mdpi-res.com/d_attachment/mathematics/mathematics-10-04181/article_deploy/mathematics-10-04181.pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/junshutang/EGGAN'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'ARET-IQA: An Aspect-Ratio-Embedded Transformer for Image Quality Assessment'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2022/zhu2022ARET-IQA.png'
