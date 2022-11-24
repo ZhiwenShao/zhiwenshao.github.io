@@ -203,8 +203,39 @@
     #- name: 'code'
     #  url:  'https://github.com/junshutang/EGGAN'
     - name: 'site'
-      url:  'https://www.sciencedirect.com/science/article/pii/S104732032200195X'  
-
+      url:  'https://www.sciencedirect.com/science/article/pii/S104732032200195X'
+      
+- title: 'A Semi-Supervised Image-to-Image Translation Framework for SAR-Optical Image Matching'
+  #date:  'Jul. 2020'
+  imgurl: '/images/projects/2022/du2022semi.png'
+  selected: true
+  authors:
+    - name: Wen-Liang Du
+      url:  false
+    - name: Yong Zhou
+      url:  false  
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'    
+    - name: Jiaqi Zhao
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Xiaolin Tian
+      url:  false
+  publisher:  'IEEE Geoscience and Remote Sensing Letters, 2022'
+  status:   '(SCI Q2)'
+  #place:   'in London, United Kingdom'
+  desc: 'We investigate the applicability of semi-supervised image-to-image translation for SAR-optical image matching such that both aligned and unaligned SAR-optical images could be used. To this end, we combine the benefits of both supervised and unsupervised well-known image-to-image translation methods, i.e., Pix2pix and CycleGAN, and propose a simple yet effective semi-supervised image-to-image translation framework.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    #- name: 'pdf'
+    #  url:  'https://www.mdpi.com/2079-9292/11/19/3047/pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/junshutang/EGGAN'
+    - name: 'site'
+      url:  'https://ieeexplore.ieee.org/abstract/document/9955555'  
+      
 - title: 'Semi-Supervised Transformable Architecture Search for Feature Distillation'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2022/zhang2022semi.png'
