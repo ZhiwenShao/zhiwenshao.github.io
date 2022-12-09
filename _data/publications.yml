@@ -483,7 +483,7 @@
   status:   '(CCF C, oral)'
   place:   'in Geneva, Switzerland'
   desc: 'We introduce a bi-gated, light LSTM cell by discarding the forget gate and introducing sigmoid activation. Specifically, the proposed LSTM architecture fully sustains content from previous hidden state thereby enabling the trained model to be robust and make context-independent decision during evaluation. Removing the forget gate results in a simplified and undemanding LSTM cell with improved performance and computational efficiency.'
-  #tags:
+  tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/2004.09769'
     #- name: 'pdf'
