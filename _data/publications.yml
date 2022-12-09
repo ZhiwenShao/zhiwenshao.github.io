@@ -458,7 +458,7 @@
   status:   '(CCF C)'
   place:   'in Bangkok, Thailand'
   desc: 'We introduce the Expectation-Maximization Attention module, to find the critical subset points and cluster the other points around them. Moreover, we explore a point cloud sampling strategy to sample points based on the critical subset.'
-  #tags:
+  tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/2004.09769'
     #- name: 'pdf'
