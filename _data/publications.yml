@@ -88,8 +88,8 @@
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
     #- name: 'code'
     #  url:  'https://github.com/junshutang/EGGAN'
-    #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    - name: 'site'
+      url:  'https://link.springer.com/article/10.1007/s00371-022-02527-w'
     
 - title: 'Survey of Expression Action Unit Recognition Based on Deep Learning'
   #date:  'Jul. 2018'
@@ -171,8 +171,8 @@
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1803.05588'
-    #- name: 'pdf'
-    #  url:  'http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhiwen_Shao_Deep_Adaptive_Attention_ECCV_2018_paper.pdf'
+    - name: 'pdf'
+      url:  'https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Show_Deconfound_and_Tell_Image_Captioning_With_Causal_Inference_CVPR_2022_paper.pdf'
     #- name: 'code'
     #  url:  'https://github.com/ZhiwenShao/JAANet'
     #- name: 'site'
@@ -346,7 +346,7 @@
       url:  false
     - name: Lizhuang Ma*
       url:  'http://dmcv.sjtu.edu.cn/people'  
-  publisher:  'The Visual Computer (TVC), 2021'
+  publisher:  'The Visual Computer (TVC), 2022'
   status:   '(CCF C, SCI Q4)'
   #place:   'in London, United Kingdom'
   desc: 'We propose a two-stage sketch-to-photo generative adversarial network for face generation. In the first stage, we propose a semantic loss to maintain semantic consistency. In the second stage, we define the similar connected component and propose a color refinement loss to generate fine-grained details. Moreover, we introduce a multi-scale discriminator and design a patch-level local discriminator. We also propose a texture loss to enhance the local fidelity of synthesized images.'
@@ -357,8 +357,8 @@
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
     #- name: 'code'
     #  url:  'https://github.com/junshutang/EGGAN'
-    #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    - name: 'site'
+      url:  'https://link.springer.com/article/10.1007/s00371-021-02188-1'
 
 - title: 'Explicit Facial Expression Transfer via Fine-Grained Representations'
   #date:  'Jul. 2018'
@@ -465,8 +465,8 @@
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
     #- name: 'code'
     #  url:  'https://github.com/ZhiwenShao/MCNet'
-    #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    - name: 'site'
+      url:  'https://link.springer.com/chapter/10.1007/978-3-030-63820-7_37'
 
 - title: '"Forget" the Forget Gate: Estimating Anomalies in Videos Using Self-Contained Long Short-Term Memory Networks'
   date:  'Oct. 2020'
@@ -490,8 +490,8 @@
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
     #- name: 'code'
     #  url:  'https://github.com/ZhiwenShao/MCNet'
-    #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    - name: 'site'
+      url:  'https://dl.acm.org/doi/abs/10.1007/978-3-030-61864-3_15'
     
 - title: 'Deep Multi-Center Learning for Face Alignment'
   #date:  'Jul. 2018'
