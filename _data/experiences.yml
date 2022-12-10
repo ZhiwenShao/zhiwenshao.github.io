@@ -1,10 +1,14 @@
 - date:  "Dec. 2022 -"
   title: "Postdoctoral Fellow @ SJTU"
   desc:  "Fine-Grained Visual Affective Analysis"
+  host:
+    name: "<a href='http://dmcv.sjtu.edu.cn/people'>Prof. Lizhuang Ma</a>"
+    role: "Advisor"
   brief: true
 - date:  "Aug. 2020 -"
   title: "Tenure-Track Associate Professor @ CUMT"
   desc:  "Computer Vision, Deep Learning"
+  host:  false
   brief: true
 - date:  "Nov. 2017 - Nov. 2018 "
   title: "Research Assistant @ NTU"
