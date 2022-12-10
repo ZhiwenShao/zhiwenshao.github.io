@@ -69,6 +69,20 @@ layout: home
   </div>
 </div>
 
+<div id="awards" class="awards">
+  <h1 class="md-heading text-center">
+    <i class="fa fa-product-hunt" aria-hidden="true"></i>
+    Awards
+  </h1>
+  <div class="awards-body">
+    {% for award in site.data.awards %}
+    <p>
+      {{ award.normal.content }}
+    </p>
+    {% endfor %}
+  </div>
+</div>
+
 <div id="projects" class="projects">
   <h1 class="md-heading text-center">
     <i class="fa fa-product-hunt" aria-hidden="true"></i>
@@ -78,6 +92,20 @@ layout: home
     {% for project in site.data.projects %}
     <p>
       {{ project.normal.content }}
+    </p>
+    {% endfor %}
+  </div>
+</div>
+
+<div id="patents" class="patents">
+  <h1 class="md-heading text-center">
+    <i class="fa fa-product-hunt" aria-hidden="true"></i>
+    Selected Patents
+  </h1>
+  <div class="patents-body">
+    {% for patent in site.data.patents %}
+    <p>
+      {{ patent.normal.content }}
     </p>
     {% endfor %}
   </div>
