@@ -97,48 +97,6 @@ layout: home
   </div>
 </div>
 
-<div id="teachings" class="teachings">
-  <h1 class="md-heading text-center">
-    <i class="fa fa-eraser" aria-hidden="true"></i>
-    Teaching Experiences
-  </h1>
-  <div class="teachings-body">
-    {% for teaching in site.data.teachings %}
-    <p>
-      {{ teaching.normal.content }}
-    </p>
-    {% endfor %}
-  </div>
-</div>
-
-<div id="services" class="services">
-  <h1 class="md-heading text-center">
-    <i class="fa fa-telegram" aria-hidden="true"></i>
-    Academic Services
-  </h1>
-  <div class="services-body">
-    {% for service in site.data.services %}
-    <p>
-      {{ service.normal.content }}
-    </p>
-    {% endfor %}
-  </div>
-</div>
-
-<div id="patents" class="patents">
-  <h1 class="md-heading text-center">
-    <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>
-    Granted Patents
-  </h1>
-  <div class="patents-body">
-    {% for patent in site.data.patents %}
-    <p>
-      {{ patent.normal.content }}
-    </p>
-    {% endfor %}
-  </div>
-</div>
-
 <div id="publications" class="publications">
   <h1 class="md-heading text-center">
     <i class="fa fa-file" aria-hidden="true"></i>
@@ -201,6 +159,48 @@ layout: home
         <i class="fa fa-info-circle"></i> More Publications
       </a>
     </h1>
+  </div>
+</div>
+
+<div id="patents" class="patents">
+  <h1 class="md-heading text-center">
+    <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>
+    Granted Patents
+  </h1>
+  <div class="patents-body">
+    {% for patent in site.data.patents %}
+    <p>
+      {{ patent.normal.content }}
+    </p>
+    {% endfor %}
+  </div>
+</div>
+
+<div id="teachings" class="teachings">
+  <h1 class="md-heading text-center">
+    <i class="fa fa-eraser" aria-hidden="true"></i>
+    Teaching Experiences
+  </h1>
+  <div class="teachings-body">
+    {% for teaching in site.data.teachings %}
+    <p>
+      {{ teaching.normal.content }}
+    </p>
+    {% endfor %}
+  </div>
+</div>
+
+<div id="services" class="services">
+  <h1 class="md-heading text-center">
+    <i class="fa fa-telegram" aria-hidden="true"></i>
+    Academic Services
+  </h1>
+  <div class="services-body">
+    {% for service in site.data.services %}
+    <p>
+      {{ service.normal.content }}
+    </p>
+    {% endfor %}
   </div>
 </div>
 
