@@ -181,7 +181,7 @@
 - title: 'Personality Modeling from Image Aesthetic Attribute-Aware Graph Representation Learning'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2022/zhu2022personality.png'
-  selected: true
+  selected: false
   authors:
     - name: Hancheng Zhu
       url:  'https://zhuhancheng.github.io/'    
@@ -192,7 +192,7 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
   publisher:  'Journal of Visual Communication and Image Representation, 2022'
-  status:   '(SCI Q3)'
+  status:   '(CCF C, SCI Q3)'
   #place:   'in London, United Kingdom'
   desc: 'This paper proposes a personality modeling approach based on image aesthetic attribute-aware graph representation learning, which can leverage aesthetic attributes to refine the liked images that are consistent with users’ personality traits. Specifically, we first utilize a Convolutional Neural Network (CNN) to train an aesthetic attribute prediction module. Then, attribute-aware graph representation learning is introduced to refine the images with similar aesthetic attributes from users’ liked images. Finally, the aesthetic attributes of all refined images are combined to predict personality traits through a Multi-Layer Perceptron (MLP).'
   tags:
@@ -208,7 +208,7 @@
 - title: 'A Semi-Supervised Image-to-Image Translation Framework for SAR-Optical Image Matching'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2022/du2022semi.png'
-  selected: true
+  selected: false
   authors:
     - name: Wen-Liang Du
       url:  false
@@ -223,7 +223,7 @@
     - name: Xiaolin Tian
       url:  false
   publisher:  'IEEE Geoscience and Remote Sensing Letters, 2022'
-  status:   '(SCI Q2)'
+  status:   '(CCF C, SCI Q2)'
   #place:   'in London, United Kingdom'
   desc: 'We investigate the applicability of semi-supervised image-to-image translation for SAR-optical image matching such that both aligned and unaligned SAR-optical images could be used. To this end, we combine the benefits of both supervised and unsupervised well-known image-to-image translation methods, i.e., Pix2pix and CycleGAN, and propose a simple yet effective semi-supervised image-to-image translation framework.'
   tags:
@@ -239,7 +239,7 @@
 - title: 'Semi-Supervised Transformable Architecture Search for Feature Distillation'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2022/zhang2022semi.png'
-  selected: true
+  selected: false
   authors:
     - name: Man Zhang
       url:  false
@@ -274,7 +274,7 @@
 - title: 'Incremental Learning with Neural Networks for Computer Vision: a Survey'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2022/liu2022incremental.jpg'
-  selected: true
+  selected: false
   authors:
     - name: Hao Liu
       url:  false
@@ -334,7 +334,7 @@
 - title: 'Sketch-to-Photo Face Generation Based on Semantic Consistency Preserving and Similar Connected Component Refinement'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2021/li2021sketch.png'
-  selected: true
+  selected: false
   authors:
     - name: Luying Li
       url:  false
@@ -444,7 +444,7 @@
 - title: 'CPCS: Critical Points Guided Clustering and Sampling for Point Cloud Analysis'
   date:  'Nov. 2020'
   imgurl: '/images/projects/2020/wang2020cpcs.png'
-  selected: true
+  selected: false
   authors:
     - name: Wei Wang
       url:  false
@@ -471,7 +471,7 @@
 - title: '"Forget" the Forget Gate: Estimating Anomalies in Videos Using Self-Contained Long Short-Term Memory Networks'
   date:  'Oct. 2020'
   imgurl: '/images/projects/2020/fanta2020forget.png'
-  selected: true
+  selected: false
   authors:
     - name: Habtamu Fanta
       url:  false
@@ -631,7 +631,7 @@
 - title: 'Learning Deep Representation from Coarse to Fine for Face Alignment'
   date:  'Jul. 2016'
   imgurl: '/images/projects/2016/shao2016learning.png'
-  selected: true
+  selected: false
   authors:
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
