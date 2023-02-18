@@ -1,3 +1,34 @@
+- title: 'Identity-Invariant Representation and Transformer-Style Relation for Micro-Expression Recognition'
+  #date:  'Jul. 2020'
+  imgurl: '/images/projects/2022/shao2023identity.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Feiran Li
+      url:  false   
+    - name: Yong Zhou
+      url:  false
+    - name: Hao Chen
+      url:  false  
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'    
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'  
+  publisher:  'Applied Intelligence, 2023'
+  status:   '(SCI Q2)'
+  #place:   'in London, United Kingdom'
+  desc: 'We propose a novel MER method by identity-invariant representation learning and transformer-style relational modeling. Specifically, we propose to disentangle the identity information from the input via an adversarial training strategy. Considering the coherent relationships between AUs and MEs, we further employ AU recognition as an auxiliary task to learn AU representations with ME information captured. Moreover, we introduce a transformer to achieve MER by modeling the correlations among AUs. MER and AU recognition are jointly trained, in which the two correlated tasks can contribute to each other.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    #- name: 'pdf'
+    #  url:  'https://www.mdpi.com/2079-9292/11/19/3047/pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/junshutang/EGGAN'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
+    
 - title: 'Facial Action Unit Detection Using Attention and Relation Learning'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2019/shao2019facial.png'
@@ -177,6 +208,39 @@
     #  url:  'https://github.com/ZhiwenShao/JAANet'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
+- title: 'Weakly Supervised Few-Shot Semantic Segmentation via Pseudo Mask Enhancement and Meta Learning'
+  #date:  'Jul. 2020'
+  imgurl: '/images/projects/2022/zhang2022weakly.png'
+  selected: false
+  authors:
+    - name: Man Zhang
+      url:  false
+    - name: Yong Zhou
+      url:  false
+    - name: Bing Liu
+      url:  false
+    - name: Jiaqi Zhao
+      url:  false
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'  
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'    
+  publisher:  'IEEE Transactions on Multimedia (TMM), 2022'
+  status:   '(CCF B, SCI Q2)'
+  #place:   'in London, United Kingdom'
+  desc: 'We propose a weakly supervised few-shot semantic segmentation model based on the meta learning framework, which utilizes prior knowledge and adjusts itself according to new tasks. Thereupon then, the proposed network is capable of both high efficiency and generalization ability to new tasks. In the pseudo mask generation stage, we develop a WRCAM method with the channel-spatial attention mechanism to refine the coverage size of targets in pseudo masks. In the few-shot semantic segmentation stage, the optimization based meta learning method is used to realize few-shot semantic segmentation by virtue of the refined pseudo masks.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    #- name: 'pdf'
+    #  url:  'https://www.mdpi.com/2079-9292/11/19/3047/pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/junshutang/EGGAN'
+    - name: 'site'
+      url:  'https://ieeexplore.ieee.org/document/9999056'      
 
 - title: 'Personality Modeling from Image Aesthetic Attribute-Aware Graph Representation Learning'
   #date:  'Jul. 2020'
