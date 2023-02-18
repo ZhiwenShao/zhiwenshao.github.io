@@ -212,7 +212,7 @@
 - title: 'Weakly Supervised Few-Shot Semantic Segmentation via Pseudo Mask Enhancement and Meta Learning'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2022/zhang2022weakly.png'
-  selected: false
+  selected: true
   authors:
     - name: Man Zhang
       url:  false
