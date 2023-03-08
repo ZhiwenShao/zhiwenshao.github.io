@@ -355,7 +355,7 @@
     - name: Hao Chen
       url:  false
   publisher:  'Pattern Analysis and Applications, 2022'
-  status:   '(SCI Q4)'
+  status:   '(CCF C, SCI Q4)'
   #place:   'in London, United Kingdom'
   desc: 'We explained how to use only a few of labels, design a more flexible network architecture and combine feature distillation method to improve model efficiency while ensuring high accuracy. Specifically, we integrate different network structures into independent individuals to make the use of network structures more flexible. Based on knowledge distillation, we extract the channel features and establish a feature distillation connection from the teacher network to the student network.'
   tags:
