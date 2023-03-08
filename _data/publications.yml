@@ -1,3 +1,34 @@
+- title: 'IterativePFN: True Iterative Point Cloud Filtering'
+  date:  'Jun. 2022'
+  imgurl: '/images/projects/2023/edirimuni2023iterativepfn.png'
+  selected: true
+  authors:
+    - name: Dasith de Silva Edirimuni
+      url:  false
+    - name: Xuequan Lu
+      url:  'http://www.xuequanlu.com/'
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Gang Li
+      url:  false
+    - name: Antonio Robles-Kelly
+      url:  false
+    - name: Ying He
+      url:  'https://personal.ntu.edu.sg/yhe/'
+  publisher:  'CVPR 2023'
+  status:   '(CCF A)'
+  place:   'in Vancouver, Canada'
+  desc: 'We propose IterativePFN (iterative point cloud filtering network), which consists of multiple IterationModules that model the true iterative filtering process internally, within a single network. We train our IterativePFN network using a novel loss function that utilizes an adaptive ground truth target at each iteration to capture the relationship between intermediate filtering results during training. This ensures filtered results converge faster to the clean surfaces.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/1803.05588'
+    #- name: 'pdf'
+    #  url:  'https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Show_Deconfound_and_Tell_Image_Captioning_With_Causal_Inference_CVPR_2022_paper.pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/ZhiwenShao/JAANet'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'Identity-Invariant Representation and Transformer-Style Relation for Micro-Expression Recognition'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2023/shao2023identity.png'
