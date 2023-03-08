@@ -46,7 +46,7 @@
       url:  'https://zhuhancheng.github.io/'    
     - name: Rui Yao
       url:  'https://ruiyao.bitbucket.io/'  
-  publisher:  'Applied Intelligence, 2023'
+  publisher:  'Applied Intelligence (APIN), 2023'
   status:   '(CCF C, SCI Q2)'
   #place:   'in London, United Kingdom'
   desc: 'We propose a novel MER method by identity-invariant representation learning and transformer-style relational modeling. Specifically, we propose to disentangle the identity information from the input via an adversarial training strategy. Considering the coherent relationships between AUs and MEs, we further employ AU recognition as an auxiliary task to learn AU representations with ME information captured. Moreover, we introduce a transformer to achieve MER by modeling the correlations among AUs. MER and AU recognition are jointly trained, in which the two correlated tasks can contribute to each other.'
