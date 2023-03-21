@@ -57,8 +57,8 @@
     #  url:  'https://www.mdpi.com/2079-9292/11/19/3047/pdf'
     #- name: 'code'
     #  url:  'https://github.com/junshutang/EGGAN'
-    #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
+    - name: 'site'
+      url:  'https://link.springer.com/article/10.1007/s10489-023-04533-4'    
     
 - title: 'Facial Action Unit Detection Using Attention and Relation Learning'
   #date:  'Jul. 2018'
