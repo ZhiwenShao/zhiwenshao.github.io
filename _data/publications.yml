@@ -1,3 +1,32 @@
+- title: 'Facial Action Unit Detection via Adaptive Attention and Relation'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2023/shao2023facial.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yong Zhou
+      url:  false
+    - name: Jianfei Cai
+      url:  'https://research.monash.edu/en/persons/jianfei-cai/'  
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'    
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+  publisher:  'IEEE Transactions on Image Processing (TIP), 2023'
+  status:   '(CCF A, SCI Q1)'
+  #place:   'in San Diego, USA'
+  desc: 'We propose a novel adaptive attention and relation (AAR) framework for facial AU detection. Specifically, we propose an adaptive attention regression network to regress the global attention map of each AU under the constraint of attention predefinition and the guidance of AU detection, which is beneficial for capturing both specified dependencies by landmarks in strongly correlated regions and facial globally distributed dependencies in weakly correlated regions. Moreover, considering the diversity and dynamics of AUs, we propose an adaptive spatio-temporal graph convolutional network to simultaneously reason the independent pattern of each AU, the inter-dependencies among AUs, as well as the temporal dependencies.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2001.01168'
+    #- name: 'code'
+    #  url:  'https://github.com/ZhiwenShao/PyTorch-JAANet'  
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
+    #- name: 'site'
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
+    
 - title: 'IterativePFN: True Iterative Point Cloud Filtering'
   date:  'Jun. 2022'
   imgurl: '/images/projects/2023/edirimuni2023iterativepfn.png'
