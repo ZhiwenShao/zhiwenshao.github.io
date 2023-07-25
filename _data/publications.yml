@@ -166,7 +166,7 @@
     - name: Rui Yao
       url:  'https://ruiyao.bitbucket.io/'
   publisher:  'IEEE Transactions on Multimedia (TMM), 2022'
-  status:   '(CCF B, SCI Q2)'
+  status:   '(CCF B, SCI Q1)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel light-weight anchor-free text detection framework called TextDCT, which adopts the discrete cosine transform (DCT) to encode the text masks as compact vectors. Further, considering the imbalanced number of training samples among pyramid layers, we only employ a single-level head for top-down prediction. To model the multi-scale texts in a single-level head, we introduce a novel positive sampling strategy by treating the shrunk text region as positive samples, and design a feature awareness module (FAM) for spatial-awareness and scale-awareness by fusing rich contextual information and focusing on more significant features. Moreover, we propose a segmented non-maximum suppression (S-NMS) method that can filter low-quality mask regressions.'
   tags:
@@ -317,7 +317,7 @@
     - name: Hancheng Zhu
       url:  'https://zhuhancheng.github.io/'    
   publisher:  'IEEE Transactions on Multimedia (TMM), 2022'
-  status:   '(CCF B, SCI Q2)'
+  status:   '(CCF B, SCI Q1)'
   #place:   'in London, United Kingdom'
   desc: 'We propose a weakly supervised few-shot semantic segmentation model based on the meta learning framework, which utilizes prior knowledge and adjusts itself according to new tasks. Thereupon then, the proposed network is capable of both high efficiency and generalization ability to new tasks. In the pseudo mask generation stage, we develop a WRCAM method with the channel-spatial attention mechanism to refine the coverage size of targets in pseudo masks. In the few-shot semantic segmentation stage, the optimization based meta learning method is used to realize few-shot semantic segmentation by virtue of the refined pseudo masks.'
   tags:
@@ -503,7 +503,7 @@
     - name: Jianmin Zheng
       url:  'https://personal.ntu.edu.sg/asjmzheng/'
   publisher:  'Pattern Recognition (PR), 2022'
-  status:   '(CCF B, SCI Q2)'
+  status:   '(CCF B, SCI Q1)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel geodesic guided convolution (GeoConv) for AU recognition by embedding 3D manifold information into 2D convolutions. Specifically, the kernel of GeoConv is weighted by our introduced geodesic weights, which are negatively correlated to geodesic distances on a coarsely reconstructed 3D morphable face model. Moreover, based on GeoConv, we further develop an end-to-end trainable framework named GeoCNN for AU recognition.'
   tags:
@@ -719,7 +719,7 @@
     - name: Lizhuang Ma*
       url:  'http://dmcv.sjtu.edu.cn/people'
   publisher:  'Information Sciences (INS), 2020'
-  status:   '(CCF B, SCI Q2)'
+  status:   '(CCF B, SCI Q1)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel version of Gated Recurrent Unit (GRU), called Single-Tunnelled GRU for abnormality detection. Particularly, the Single-Tunnelled GRU discards the heavy-weighted reset gate from GRU cells that overlooks the importance of past content by only favouring current input to obtain an optimized single-gated-cell model. Moreover, we substitute the hyperbolic tangent activation in standard GRUs with sigmoid activation, as the former suffers from performance loss in deeper networks.'
   tags:
