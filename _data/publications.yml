@@ -21,7 +21,7 @@
   status:   '(CCF B, SCI Q1)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel arbitrary-shaped scene text detection framework named CT-Net by progressive contour regression with contour transformers. Specifically, we first employ a contour initialization module that generates coarse text contours without any post-processing. Then, we adopt contour refinement modules to adaptively refine text contours in an iterative manner, which are beneficial for context information capturing and progressive global contour deformation. Besides, we propose an adaptive training strategy to enable the contour transformers to learn more potential deformation paths, and introduce a re-score mechanism that can effectively suppress false positives.'
-  tags:
+  #tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/2001.01168'
     
