@@ -21,10 +21,40 @@
   status:   '(CCF B, SCI Q1)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel arbitrary-shaped scene text detection framework named CT-Net by progressive contour regression with contour transformers. Specifically, we first employ a contour initialization module that generates coarse text contours without any post-processing. Then, we adopt contour refinement modules to adaptively refine text contours in an iterative manner, which are beneficial for context information capturing and progressive global contour deformation. Besides, we propose an adaptive training strategy to enable the contour transformers to learn more potential deformation paths, and introduce a re-score mechanism that can effectively suppress false positives.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2307.13310'
+      
+- title: 'Personalized Image Aesthetics Assessment with Attribute-guided Fine-grained Feature Representation'
+  #date:  'Jul. 2020'
+  imgurl: '/images/projects/2023/zhu2023personalized.png'
+  selected: true
+  authors:
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'    
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'  
+    - name: Yong Zhou
+      url:  false
+    - name: Guangcheng Wang
+      url:  false
+    - name: Pengfei Chen
+      url:  false
+    - name: Leida Li
+      url:  'https://web.xidian.edu.cn/ldli/en/index.html'
+  publisher:  'ACM MM 2023'
+  status:   '(CCF A)'
+  #place:   'in London, United Kingdom'
+  desc: 'We first build a fine-grained feature extraction (FFE) module to obtain the refined local features of image attributes to compensate for holistic features. The FFE module is then used to generate user-level features, which are combined with the image-level features to obtain user-preferred fine-grained feature representations. By training extensive users' PIAA tasks, the aesthetic distribution of most users can be transferred to the personalized scores of individual users. To enable our proposed model to learn more generalizable aesthetics among individual users, we incorporate the degree of dispersion between users' personalized scores and image aesthetic distribution as a coefficient in the loss function during model training.'
   #tags:
     #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/2001.01168'
-    
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    #- name: 'pdf'
+    #  url:  'https://www.mdpi.com/2079-9292/11/19/3047/pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/junshutang/EGGAN'
+    #- name: 'site'
+    #  url:  'https://www.sciencedirect.com/science/article/pii/S104732032200195X'
     
 - title: 'Facial Action Unit Detection via Adaptive Attention and Relation'
   #date:  'Jul. 2018'
