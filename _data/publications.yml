@@ -45,7 +45,7 @@
   publisher:  'ACM MM 2023'
   status:   '(CCF A)'
   place:   'in Ottawa, Canada'
-  desc: 'We first build a fine-grained feature extraction (FFE) module to obtain the refined local features of image attributes to compensate for holistic features. The FFE module is then used to generate user-level features, which are combined with the image-level features to obtain user-preferred fine-grained feature representations. By training extensive PIAA tasks, the aesthetic distribution of most users can be transferred to the personalized scores of individual users. To enable our proposed model to learn more generalizable aesthetics among individual users, we incorporate the degree of dispersion between users' personalized scores and image aesthetic distribution as a coefficient in the loss function during model training.'
+  desc: 'We first build a fine-grained feature extraction (FFE) module to obtain the refined local features of image attributes to compensate for holistic features. The FFE module is then used to generate user-level features, which are combined with the image-level features to obtain user-preferred fine-grained feature representations. By training extensive PIAA tasks, the aesthetic distribution of most users can be transferred to the personalized scores of individual users. To enable our proposed model to learn more generalizable aesthetics among individual users, we incorporate the degree of dispersion between personalized scores and image aesthetic distribution as a coefficient in the loss function during model training.'
   #tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1803.05588'
