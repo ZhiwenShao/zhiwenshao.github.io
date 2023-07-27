@@ -5,10 +5,10 @@ title: Alumni
 
 <div id="alumni" class="alumni">
   <h1 class="heading">Alumni</h1>
-  <div class="projects-body">
-    {% for project in site.data.projects %}
+  <div class="alumni-body">
+    {% for alumni in site.data.alumni %}
     <p>
-      {{ project.normal.content }}
+      {{ alumni.normal.content }}
     </p>
     {% endfor %}
   </div>
