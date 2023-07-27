@@ -16,7 +16,7 @@ url: "https://zhiwenshao.github.io/"
 
 # Paginationœ
 paginate: 6
-paginate_path: "/posts/page/:num/"
+paginate_path: "/alumni/page/:num/"
 
 # Build settings
 markdown: kramdown
