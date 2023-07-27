@@ -1,0 +1,15 @@
+---
+layout: home
+title: Alumni
+---
+
+<div id="alumni" class="alumni">
+  <h1 class="heading">Alumni</h1>
+  <div class="projects-body">
+    {% for project in site.data.projects %}
+    <p>
+      {{ project.normal.content }}
+    </p>
+    {% endfor %}
+  </div>
+</div>
