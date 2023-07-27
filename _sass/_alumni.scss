@@ -1,4 +1,4 @@
-.posts {
+.alumni {
   max-width:        -webkit-calc(96% - (#{$spacing-unit} / 2));
   max-width:        calc(96% - (#{$spacing-unit} / 2));
   margin-top:       #{$spacing-unit};
@@ -10,7 +10,7 @@
   }
 }
 
-.post-list {
+.alumni-list {
   margin-left: 0;
   list-style: none;
 
@@ -19,16 +19,16 @@
   }
 }
 
-.post-item {
+.alumni-item {
   border-top: thin solid #c0c0c0;
 }
 
-.post-meta {
+.alumni-meta {
   font-size: $small-font-size;
   color: $grey-color;
 }
 
-.post-link {
+.alumni-link {
   display: block;
   font-size: 24px;
 }
@@ -36,13 +36,13 @@
 
 
 /**
-* Posts
+* Alumni
 */
-.post-header {
+.alumni-header {
   margin-bottom: $spacing-unit;
 }
 
-.post-title {
+.alumni-title {
   font-size: 42px;
   letter-spacing: -1px;
   line-height: 1;
@@ -52,7 +52,7 @@
   }
 }
 
-.post-content {
+.alumni-content {
   margin-bottom: $spacing-unit;
 
   h2 {
