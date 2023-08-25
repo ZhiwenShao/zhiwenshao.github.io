@@ -15,7 +15,7 @@
       url:  'https://ruiyao.bitbucket.io/'
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'    
-  publisher:  'ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023'
+  publisher:  'ACM TOMM, 2023'
   status:   '(CCF B)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose a novel Conditional Variational Autoencoder (DCL-CVAE) framework for diverse image captioning by seamlessly integrating sequential variational autoencoder with contrastive learning. In the encoding stage, we first build conditional variational autoencoders to separately learn the sequential latent spaces for a pair of captions. Then, we introduce contrastive learning in the sequential latent spaces to enhance the discriminability of latent representations for both image-caption pairs and mismatched pairs. In the decoding stage, we leverage the captions sampled from the pre-trained Long Short-Term Memory (LSTM), LSTM decoder as the negative examples and perform contrastive learning with the greedily sampled positive examples, which can restrain the generation of common words and phrases induced by the cross entropy loss. By virtue of dual constrastive learning, DCL-CVAE is capable of encouraging the discriminability and facilitating the diversity, while promoting the accuracy of the generated captions.'
