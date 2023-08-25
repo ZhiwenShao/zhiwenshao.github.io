@@ -138,7 +138,7 @@
 - title: 'Identity-Invariant Representation and Transformer-Style Relation for Micro-Expression Recognition'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2023/shao2023identity.png'
-  selected: true
+  selected: false
   authors:
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
@@ -231,7 +231,7 @@
 - title: 'Facial Action Unit Detection via Hybrid Relational Reasoning'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2022/shao2022facial.png'
-  selected: true
+  selected: false
   authors:
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
@@ -382,7 +382,7 @@
 - title: 'Unsupervised RGB-T Object Tracking with Attentional Multi-Modal Feature Fusion'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2023/li2023unsupervised.png'
-  selected: true
+  selected: false
   authors:
     - name: Shenglan Li
       url:  false   
