@@ -626,7 +626,7 @@
 - title: 'EGGAN: Learning Latent Space for Fine-Grained Expression Manipulation'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2021/tang2021eggan.png'
-  selected: true
+  selected: false
   authors:
     - name: Junshu Tang
       url:  false
@@ -730,7 +730,7 @@
 - title: 'Deep Multi-Center Learning for Face Alignment'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2018/shao2018deepmulti.png'
-  selected: true
+  selected: false
   authors:
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
@@ -759,7 +759,7 @@
 - title: 'SiTGRU: Single-Tunnelled Gated Recurrent Unit for Abnormality Detection'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2020/fanta2020sitgru.png'
-  selected: true
+  selected: false
   authors:
     - name: Habtamu Fanta
       url:  false
@@ -784,7 +784,7 @@
 - title: 'Fine-Grained Expression Manipulation via Structured Latent Space'
   date:  'Jul. 2020'
   imgurl: '/images/projects/2020/tang2020finegrained.png'
-  selected: true
+  selected: false
   authors:
     - name: Junshu Tang
       url:  false
@@ -836,7 +836,7 @@
 - title: 'Learning a Multi-Center Convolutional Network for Unconstrained Face Alignment'
   date:  'Jul. 2017'
   imgurl: '/images/projects/2017/shao2017learning.png'
-  selected: true
+  selected: false
   authors:
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
@@ -894,7 +894,7 @@
 - title: 'Face Alignment by Deep Convolutional Network with Adaptive Learning Rate'
   date:  'Mar. 2016'
   imgurl: '/images/projects/2016/shao2016face.png'
-  selected: true
+  selected: false
   authors:
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
