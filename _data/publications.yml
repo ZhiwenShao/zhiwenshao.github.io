@@ -1,3 +1,30 @@
+- title: 'Attention-guided Adversarial Attack for Video Object Segmentation'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2023/yao2023attention.png'
+  selected: false
+  authors:
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+    - name: Ying Chen
+      url:  false
+    - name: Yong Zhou
+      url:  false
+    - name: Fuyuan Hu
+      url:  false
+    - name: Jiaqi Zhao
+      url:  false  
+    - name: Bing Liu
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'    
+  publisher:  'ACM Transactions on Intelligent Systems and Technology (TIST), 2023'
+  status:   '(SCI Q2)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose an attention-guided adversarial attack method, which uses spatial attention blocks to capture features with global dependencies to construct correlations between consecutive video frames, and performs multipath aggregation to effectively integrate spatial-temporal perturbation, thereby guiding the deconvolution network to generate adversarial example with strong attack capability. Specifically, the class loss function is designed to enable the deconvolution network to better activate noise in other regions and suppress the activation related to the object class based on the enhanced feature map of the object class. At the same time, attentional feature loss is designed to enhance the transferability against attack.'
+  tags:
+    - name: 'pdf'
+      url:  'https://dl.acm.org/doi/pdf/10.1145/3617067'
+      
 - title: 'Diverse Image Captioning via Conditional Variational Autoencoder and Dual Contrastive Learning'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2023/xu2023diverse.png'
