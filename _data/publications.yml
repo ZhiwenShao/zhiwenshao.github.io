@@ -1,3 +1,28 @@
+- title: 'Unsupervised Cycle-Consistent Adversarial Attacks for Visual Object Tracking'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2023/yao2023unsupervised.png'
+  selected: false
+  authors:
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+    - name: Xiangbin Zhu
+      url:  false
+    - name: Yong Zhou
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'    
+    - name: Fuyuan Hu
+      url:  false
+    - name: Yanning Zhang
+      url:  false      
+  publisher:  'Displays, 2023'
+  status:   '(SCI Q1)'
+  #place:   'in Ottawa, Canada'
+  desc: 'This paper presents an unsupervised attack methodology against visual object tracking models. The approach employs the cycle consistency principle of object tracking models to maximize the inconsistency between forward and backward tracking, thereby providing effective countermeasures. Additionally, this paper introduces a contextual attack method, leveraging the information from the attack object’s region and its surrounding contextual regions. This strategy attacks the object region and its surrounding context regions simultaneously, aiming to decrease its response score to the attack. The proposed attack method is assessed across various types of deep learning-based object trackers.'
+  tags:
+    - name: 'site'
+      url:  'https://www.sciencedirect.com/science/article/pii/S0141938223001658'
+      
 - title: 'Attention-guided Adversarial Attack for Video Object Segmentation'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2023/yao2023attention.png'
