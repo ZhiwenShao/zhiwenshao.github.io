@@ -16,7 +16,7 @@
     - name: Yanning Zhang
       url:  false      
   publisher:  'Displays, 2023'
-  status:   '(SCI Q1)'
+  status:   '(SCI Q2)'
   #place:   'in Ottawa, Canada'
   desc: 'This paper presents an unsupervised attack methodology against visual object tracking models. The approach employs the cycle consistency principle of object tracking models to maximize the inconsistency between forward and backward tracking, thereby providing effective countermeasures. Additionally, this paper introduces a contextual attack method, leveraging the information from the attack object’s region and its surrounding contextual regions. This strategy attacks the object region and its surrounding context regions simultaneously, aiming to decrease its response score to the attack. The proposed attack method is assessed across various types of deep learning-based object trackers.'
   tags:
@@ -43,7 +43,7 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'    
   publisher:  'ACM Transactions on Intelligent Systems and Technology (TIST), 2023'
-  status:   '(SCI Q2)'
+  status:   '(SCI Q3)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose an attention-guided adversarial attack method, which uses spatial attention blocks to capture features with global dependencies to construct correlations between consecutive video frames, and performs multipath aggregation to effectively integrate spatial-temporal perturbation, thereby guiding the deconvolution network to generate adversarial example with strong attack capability. Specifically, the class loss function is designed to enable the deconvolution network to better activate noise in other regions and suppress the activation related to the object class based on the enhanced feature map of the object class. At the same time, attentional feature loss is designed to enhance the transferability against attack.'
   tags:
