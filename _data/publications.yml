@@ -1,3 +1,32 @@
+- title: 'LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2024/su2024lranet.png'
+  selected: true
+  authors:
+    - name: Yuchen Su
+      url:  false
+    - name: Zhineng Chen
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yuning Du
+      url:  false
+    - name: Zhilong Ji
+      url:  false
+    - name: Jinfeng Bai
+      url:  false  
+    - name: Yong Zhou
+      url:  false
+    - name: Yu-Gang Jiang
+      url:  false  
+  publisher:  'AAAI 2024'
+  status:   '(CCF A)'
+  place:   'in Vancouver, Canada'
+  desc: 'We first propose a novel parameterized text shape method based on low-rank approximation. Unlike other shape representation methods that employ data-irrelevant parameterization, our approach utilizes singular value decomposition and reconstructs the text shape using a few eigenvectors learned from labeled text contours. By exploring the shape correlation among different text contours, our method achieves consistency, compactness, simplicity, and robustness in shape representation. Next, we propose a dual assignment scheme for speed acceleration. It adopts a sparse assignment branch to accelerate the inference speed, and meanwhile, provides ample supervised signals for training through a dense assignment branch. Building upon these designs, we implement an accurate and efficient arbitrary-shaped text detector named LRANet.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2306.15142'
+      
 - title: 'Unsupervised Cycle-Consistent Adversarial Attacks for Visual Object Tracking'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2023/yao2023unsupervised.png'
