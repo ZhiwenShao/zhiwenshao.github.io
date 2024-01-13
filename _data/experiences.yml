@@ -31,7 +31,7 @@
   brief: true  
 - date:  "Sept. 2015 - Aug. 2020"
   title: "Ph.D. candidate @ SJTU"
-  desc:  "Face Analysis, Deep Learning"
+  desc:  "Fine-Grained Facial Expression Analysis"
   host:
     name: "<a href='http://dmcv.sjtu.edu.cn/people'>Prof. Lizhuang Ma</a>"
     role: "Advisor"
@@ -43,7 +43,7 @@
   brief: true
 - date:  "Sept. 2011 - July 2015"
   title: "Undergraduate student @ NPU"
-  desc:  "B.Eng. in Computer Science and Technology"
+  desc:  "B.Eng. degree in Computer Science and Technology"
   host:
     name: "<a href='http://www.npu-aslp.org/dmJiang/'>Prof. Dongmei Jiang</a>"
     role: "Thesis Advisor"
