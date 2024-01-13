@@ -3,6 +3,13 @@
   desc:  "Computer Vision, Deep Learning"
   host:  false
   brief: true
+- date:  "Jan. 2024 -"
+  title: "Postdoctoral Fellow @ HKUST"
+  desc:  "Vision Based Forecasting"
+  host:
+    name: "<a href='https://sites.google.com/view/dyyeung'>Prof. Dit-Yan Yeung</a>"
+    role: "Advisor"
+  brief: true  
 - date:  "Dec. 2022 -"
   title: "Postdoctoral Fellow @ SJTU"
   desc:  "Fine-Grained Visual Affective Analysis"
