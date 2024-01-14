@@ -279,7 +279,40 @@
     #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/zhu2017better.pdf'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
-    
+
+- title: 'Weakly Supervised Few-Shot Semantic Segmentation via Pseudo Mask Enhancement and Meta Learning'
+  #date:  'Jul. 2020'
+  imgurl: '/images/projects/2022/zhang2022weakly.png'
+  selected: true
+  authors:
+    - name: Man Zhang
+      url:  false
+    - name: Yong Zhou
+      url:  false
+    - name: Bing Liu
+      url:  false
+    - name: Jiaqi Zhao
+      url:  false
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'  
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'    
+  publisher:  'IEEE Transactions on Multimedia (TMM), 2023'
+  status:   '(CCF B, SCI Q1)'
+  #place:   'in London, United Kingdom'
+  desc: 'We propose a weakly supervised few-shot semantic segmentation model based on the meta learning framework, which utilizes prior knowledge and adjusts itself according to new tasks. Thereupon then, the proposed network is capable of both high efficiency and generalization ability to new tasks. In the pseudo mask generation stage, we develop a WRCAM method with the channel-spatial attention mechanism to refine the coverage size of targets in pseudo masks. In the few-shot semantic segmentation stage, the optimization based meta learning method is used to realize few-shot semantic segmentation by virtue of the refined pseudo masks.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    #- name: 'pdf'
+    #  url:  'https://www.mdpi.com/2079-9292/11/19/3047/pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/junshutang/EGGAN'
+    - name: 'site'
+      url:  'https://ieeexplore.ieee.org/document/9999056'  
+      
 - title: 'Facial Action Unit Detection Using Attention and Relation Learning'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2019/shao2019facial.png'
@@ -425,40 +458,7 @@
     #- name: 'code'
     #  url:  'https://github.com/ZhiwenShao/JAANet'
     #- name: 'site'
-    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'
-    
-- title: 'Weakly Supervised Few-Shot Semantic Segmentation via Pseudo Mask Enhancement and Meta Learning'
-  #date:  'Jul. 2020'
-  imgurl: '/images/projects/2022/zhang2022weakly.png'
-  selected: true
-  authors:
-    - name: Man Zhang
-      url:  false
-    - name: Yong Zhou
-      url:  false
-    - name: Bing Liu
-      url:  false
-    - name: Jiaqi Zhao
-      url:  false
-    - name: Rui Yao
-      url:  'https://ruiyao.bitbucket.io/'
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/'  
-    - name: Hancheng Zhu
-      url:  'https://zhuhancheng.github.io/'    
-  publisher:  'IEEE Transactions on Multimedia (TMM), 2022'
-  status:   '(CCF B, SCI Q1)'
-  #place:   'in London, United Kingdom'
-  desc: 'We propose a weakly supervised few-shot semantic segmentation model based on the meta learning framework, which utilizes prior knowledge and adjusts itself according to new tasks. Thereupon then, the proposed network is capable of both high efficiency and generalization ability to new tasks. In the pseudo mask generation stage, we develop a WRCAM method with the channel-spatial attention mechanism to refine the coverage size of targets in pseudo masks. In the few-shot semantic segmentation stage, the optimization based meta learning method is used to realize few-shot semantic segmentation by virtue of the refined pseudo masks.'
-  tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/2004.09769'
-    #- name: 'pdf'
-    #  url:  'https://www.mdpi.com/2079-9292/11/19/3047/pdf'
-    #- name: 'code'
-    #  url:  'https://github.com/junshutang/EGGAN'
-    - name: 'site'
-      url:  'https://ieeexplore.ieee.org/document/9999056'      
+    #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
 
 - title: 'Unsupervised RGB-T Object Tracking with Attentional Multi-Modal Feature Fusion'
   #date:  'Jul. 2020'
