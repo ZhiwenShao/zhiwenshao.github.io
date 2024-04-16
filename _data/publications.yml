@@ -48,7 +48,7 @@
   desc: 'We address these two critical issues by introducing a novel RGBT tracking framework centered on multimodal hierarchical relationship modeling.  Through the incorporation of multiple Transformer encoders and the deployment of self-attention mechanisms, we progressively aggregate and fuse multimodal image features at various stages of image feature learning.  Throughout the process of multimodal interaction within the network, we employ a dynamic component feature fusion module at the patch-level to dynamically assess the relevance of visible information within each region of the tracking scene.'
   tags:
     - name: 'site'
-      url:  'https://www.sciencedirect.com/science/article/pii/S0141938223001658'
+      url:  'https://www.ias-iss.org/ojs/IAS/article/view/3124/1201'
       
 - title: 'Semantic Segmentation Method on Nighttime Road Scene Based on Trans-NightSeg'
   #date:  'Jul. 2018'
