@@ -13,7 +13,7 @@
       url:  'https://zhuhancheng.github.io/'      
     - name: Bing Liu
       url:  false
-  publisher:  'Pattern Recognition Letters, 2024'
+  publisher:  'Pattern Recognition Letters (PRL), 2024'
   status:   '(CCF C, SCI Q3)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose a novel end-to-end joint framework of AU recognition and optical flow estimation, in which the two tasks contribute to each other. Moreover, due to the lack of optical flow annotations in AU datasets, we propose to estimate optical flow in a self-supervised manner. To regularize the self-supervised estimation of optical flow, we propose an identical mapping constraint for the optical flow guided image warping process, in which the estimated optical flow between two same images is required to not change the image during warping.'
@@ -42,7 +42,7 @@
       url:  false  
     - name: Hancheng Zhu
       url:  'https://zhuhancheng.github.io/'     
-  publisher:  'Image Analysis & Stereology, 2024'
+  publisher:  'Image Analysis & Stereology (IAS), 2024'
   status:   '(SCI Q4)'
   #place:   'in Ottawa, Canada'
   desc: 'We address these two critical issues by introducing a novel RGBT tracking framework centered on multimodal hierarchical relationship modeling.  Through the incorporation of multiple Transformer encoders and the deployment of self-attention mechanisms, we progressively aggregate and fuse multimodal image features at various stages of image feature learning.  Throughout the process of multimodal interaction within the network, we employ a dynamic component feature fusion module at the patch-level to dynamically assess the relevance of visible information within each region of the tracking scene.'
