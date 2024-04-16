@@ -1,3 +1,29 @@
+- title: 'Joint Facial Action Unit Recognition and Self-Supervised Optical Flow Estimation'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2024/shao2024joint.png'
+  selected: false
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yong Zhou
+      url:  false 
+    - name: Feiran Li
+      url:  false  
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'      
+    - name: Bing Liu
+      url:  false
+  publisher:  'Pattern Recognition Letters, 2024'
+  status:   '(CCF C, SCI Q3)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose a novel end-to-end joint framework of AU recognition and optical flow estimation, in which the two tasks contribute to each other. Moreover, due to the lack of optical flow annotations in AU datasets, we propose to estimate optical flow in a self-supervised manner. To regularize the self-supervised estimation of optical flow, we propose an identical mapping constraint for the optical flow guided image warping process, in which the estimated optical flow between two same images is required to not change the image during warping.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2307.13310'
+    - name: 'site'
+      url:  'https://www.sciencedirect.com/science/article/pii/S0167865524000928'    
+      
+      
 - title: 'LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/su2024lranet.png'
