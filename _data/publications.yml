@@ -988,7 +988,7 @@
 - title: 'Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignment'
   date:  'Sept. 2018'
   imgurl: '/images/projects/2018/shao2018deep.png'
-  selected: true
+  selected: false
   authors:
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
