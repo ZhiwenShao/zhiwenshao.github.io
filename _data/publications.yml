@@ -45,6 +45,29 @@
   tags:  
     - name: 'site'
       url:  'https://www.zjujournals.com/eng/CN/10.3785/j.issn.1008-973X.2024.02.008'
+
+- title: 'Dynamic Sampling Dual Deformable Network for Online Video Instance Segmentation'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2024/song2024dynamic.png'
+  selected: true
+  authors:
+    - name: Yiran Song
+      url:  false
+    - name: Qianyu Zhou
+      url:  'https://qianyuzqy.github.io/'
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Ran Yi
+      url:  'https://yiranran.github.io/'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'    
+  publisher:  'Journal of Zhejiang University (Engineering Science), 2024'
+  status:   '(EI)'
+  #place:   'in San Diego, USA'
+  desc: 'The dynamic sampling dual deformable network (DSDDN) was proposed in order to enhance the inference speed of video instance segmentation by better using temporal information within video frames. A dynamic sampling strategy was employed, which adjusted the sampling policy based on the similarity between consecutive frames. The inference process for the current frame was skipped for frames with high similarity by utilizing only segmentation results from the preceding frame for straightforward transfer computation. Frames with a larger temporal span were dynamically aggregated for frames with low similarity in order to enhance information for the current frame. Two deformable operations were additionally incorporated within the Transformer structure to circumvent the exponential computational cost associated with attention-based methods. The complex network was optimized through carefully designed tracking heads and loss functions.'
+  tags:  
+    - name: 'site'
+      url:  'https://www.zjujournals.com/eng/CN/10.3785/j.issn.1008-973X.2024.02.003'
       
 - title: 'LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network'
   #date:  'Jul. 2018'
