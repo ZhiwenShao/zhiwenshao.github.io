@@ -53,7 +53,7 @@
 - title: 'Semantic Segmentation Method on Nighttime Road Scene Based on Trans-NightSeg'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/li2024semantic.png'
-  selected: true
+  selected: false
   authors:
     - name: Canlin Li
       url:  false
@@ -76,7 +76,7 @@
 - title: 'Dynamic Sampling Dual Deformable Network for Online Video Instance Segmentation'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/song2024dynamic.png'
-  selected: true
+  selected: false
   authors:
     - name: Yiran Song
       url:  false
