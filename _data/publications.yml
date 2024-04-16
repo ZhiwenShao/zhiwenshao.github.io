@@ -23,6 +23,28 @@
     - name: 'site'
       url:  'https://www.sciencedirect.com/science/article/pii/S0167865524000928'    
       
+- title: 'Semantic Segmentation Method on Nighttime Road Scene Based on Trans-NightSeg'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2024/li2024semantic.png'
+  selected: true
+  authors:
+    - name: Canlin Li
+      url:  false
+    - name: Wenjiao Zhang
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'    
+    - name: Xinyue Wang
+      url:  false
+  publisher:  'Journal of Zhejiang University (Engineering Science), 2024'
+  status:   '(EI)'
+  #place:   'in San Diego, USA'
+  desc: 'The semantic segmentation method Trans-nightSeg was proposed aiming at the issues of low brightness and lack of annotated semantic segmentation dataset in nighttime road scenes. The annotated daytime road scene semantic segmentation dataset Cityscapes was converted into low-light road scene images by TransCartoonGAN, which shared the same semantic segmentation annotation, thereby enriching the nighttime road scene dataset. The result together with the real road scene dataset was used as input of N-Refinenet. The N-Refinenet network introduced a low-light image adaptive enhancement network to improve the semantic segmentation performance of the nighttime road scene. Depth-separable convolution was used instead of normal convolution in order to reduce the computational complexity.'
+  tags:  
+    - name: 'site'
+      url:  'https://www.zjujournals.com/eng/CN/10.3785/j.issn.1008-973X.2024.02.008'
       
 - title: 'LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network'
   #date:  'Jul. 2018'
