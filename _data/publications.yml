@@ -125,6 +125,27 @@
     - name: 'arXiv'
       url:  'https://arxiv.org/abs/2306.15142'
 
+- title: 'Boundary-Aware Small Object Detection with Attention and Interaction'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2023/feng2023boundary.png'
+  selected: false
+  authors:
+    - name: Qihan Feng
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Zhixiao Wang
+      url:  false
+  publisher:  'The Visual Computer (TVC), 2023'
+  status:   '(CCF C, SCI Q3)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose an effective boundary-aware network with attention refinement and spatial interaction to tackle the above challenges. Specifically, we first present a highly effective yet simple boundary-aware detection head (BAH), which directly guides representation learning of object structure semantics in the prediction layer to preserve object-related boundary semantics. Additionally, the attentional feature parallel fusion (AFPF) module offers multi-scale feature encoding capability in a parallel triple fusion fashion and adaptively selects features appropriate for objects of certain scales. Furthermore, we design a spatial interactive module (SIM) to preserve fine spatial detail through cross-spatial feature association.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2307.13310'
+    - name: 'site'
+      url:  'https://link.springer.com/article/10.1007/s00371-023-03144-x'  
+      
 - title: 'CT-Net: Arbitrary-Shaped Text Detection via Contour Transformer'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2023/shao2023ctnet.png'
@@ -458,7 +479,7 @@
     - name: Jiaqi Zhao
       url:  false
   publisher:  'The Visual Computer (TVC), 2022'
-  status:   '(CCF C, SCI Q4)'
+  status:   '(CCF C, SCI Q3)'
   #place:   'in London, United Kingdom'
   desc: 'We propose a novel hybrid relational reasoning (HRR) framework for AU detection. In particular, we propose to adaptively reason pixel-level correlations of each AU, under the constraint of predefined regional correlations by facial landmarks, as well as the supervision of AU detection. Moreover, we propose to adaptively reason AU-level correlations using a graph convolutional network, by considering both predefined AU relationships and learnable relationship weights. Our framework is beneficial for integrating the advantages of correlation predefinition and correlation learning.' 
   tags:
@@ -760,7 +781,7 @@
     - name: Lizhuang Ma*
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'The Visual Computer (TVC), 2022'
-  status:   '(CCF C, SCI Q4)'
+  status:   '(CCF C, SCI Q3)'
   #place:   'in London, United Kingdom'
   desc: 'We propose a two-stage sketch-to-photo generative adversarial network for face generation. In the first stage, we propose a semantic loss to maintain semantic consistency. In the second stage, we define the similar connected component and propose a color refinement loss to generate fine-grained details. Moreover, we introduce a multi-scale discriminator and design a patch-level local discriminator. We also propose a texture loss to enhance the local fidelity of synthesized images.'
   tags:
