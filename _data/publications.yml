@@ -24,6 +24,31 @@
   tags:
     - name: 'site'
       url:  'https://dl.acm.org/doi/10.1145/3664647.3681175'
+
+- title: 'Causal Intervention for Unbiased Facial Action Unit Recognition'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2024/shao2024causal.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Bikuan Chen
+      url:  false
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'  
+    - name: Yong Zhou
+      url:  false  
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'    
+  publisher:  'Acta Electronica Sinica, 2024'
+  status:   '(CCF Chinese A)'
+  #place:   'in San Diego, USA'
+  desc: 'By introducing causal inference theory, we propose an unbiased AU recognition method CIU (Causal Intervention for Unbiased facial action unit recognition), which adjusts the empirical risks in both the imbalanced and balanced but invisible domains to achieve model unbiasedness.'
+  tags:  
+    - name: 'site'
+      url:  'https://www.ejournal.org.cn/EN/10.12263/DZXB.20240279'      
       
 - title: 'Joint Facial Action Unit Recognition and Self-Supervised Optical Flow Estimation'
   #date:  'Jul. 2018'
