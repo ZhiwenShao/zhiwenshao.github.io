@@ -124,6 +124,29 @@
   tags:
     - name: 'site'
       url:  'https://www.ias-iss.org/ojs/IAS/article/view/3124/1201'
+
+- title: 'Image cartoonization incorporating attention mechanism and structural line extraction'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2024/li2024image.png'
+  selected: false
+  authors:
+    - name: Canlin Li
+      url:  false
+    - name: Xinyue Wang
+      url:  false  
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people' 
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'  
+    - name: Wenjiao Zhang
+      url:  false
+  publisher:  'Journal of Zhejiang University (Engineering Science), 2024'
+  status:   '(EI)'
+  #place:   'in San Diego, USA'
+  desc: 'An image cartoonization method that incorporated attention mechanism and structural line extraction was proposed in order to address the problem that image cartoonization does not highlight important feature information in the image and insufficient edge processing. The generator network with fused attention mechanism was constructed, which extracted more important and richer image information from different features by fusing the connections between features in space and channels. A line extraction region processing module (LERM) in parallel with the global one was designed to perform adversarial training on the edge regions of cartoon textures in order to better learn cartoon textures.'
+  tags:  
+    - name: 'site'
+      url:  'https://www.zjujournals.com/eng/article/2024/1008-973X/20240819.shtml'      
       
 - title: 'Semantic Segmentation Method on Nighttime Road Scene Based on Trans-NightSeg'
   #date:  'Jul. 2018'
