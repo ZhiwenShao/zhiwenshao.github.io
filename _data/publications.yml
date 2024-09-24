@@ -1,3 +1,30 @@
+- title: 'Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2024/shao2024facial.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'
+    - name: Yong Zhou
+      url:  false  
+    - name: Xiang Xiang
+      url:  'https://sites.google.com/view/xxiang'
+    - name: Bing Liu
+      url:  false  
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'    
+  publisher:  'International Journal of Computer Vision (IJCV), 2024'
+  status:   '(CCF A, SCI Q1)'
+  #place:   'in San Diego, USA'
+  desc: 'We propose a novel AU detection framework called AC2D by adaptively constraining self-attention weight distribution and causally deconfounding the sample confounder. Specifically, we explore the mechanism of self-attention weight distribution, in which the self-attention weight distribution of each AU is regarded as spatial distribution and is adaptively learned under the constraint of location-predefined attention and the guidance of AU detection. Moreover, we propose a causal intervention module for each AU, in which the bias caused by training samples and the interference from irrelevant AUs are both suppressed.'
+  tags:
+    #- name: 'site'
+    #  url:  'https://www.ejournal.org.cn/EN/10.12263/DZXB.20240279'     
+    
 - title: 'Attribute-Driven Multimodal Hierarchical Prompts for Image Aesthetic Quality Assessment'
   #date:  'Sept. 2018'
   imgurl: '/images/projects/2024/zhu2024attribute.png'
