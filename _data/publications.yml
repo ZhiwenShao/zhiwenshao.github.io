@@ -24,6 +24,33 @@
   tags:
     #- name: 'site'
     #  url:  'https://www.ejournal.org.cn/EN/10.12263/DZXB.20240279'     
+
+- title: 'Motion-Aware Self-Supervised RGBT Tracking with Multi-modality Hierarchical Transformers'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2024/li2024motion.png'
+  selected: true
+  authors:
+    - name: Shenglan Li
+      url:  false
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+    - name: Yong Zhou
+      url:  false
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'
+    - name: Jiaqi Zhao
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Abdulmotaleb El Saddik
+      url:  'https://mcrlab.net/'
+  publisher:  'ACM TOMM, 2024'
+  status:   '(CCF B)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose a self-supervised RGBT object tracking method (S2OTFormer) to bridge the gap between tracking methods supervised under pseudo-labels and ground truth labels. Firstly, to provide more robust appearance features for motion cues, we introduce a Multi-Modal Hierarchical Transformer module (MHT) for feature fusion. This module allocates weights to both modalities and strengthens the expressive capability of the MHT module through multiple nonlinear layers to fully utilize the complementary information of the two modalities. Secondly, in order to solve the problems of motion blur caused by camera motion and inaccurate appearance information caused by pseudo-labels, we introduce a Motion-Aware Mechanism (MAM). The MAM extracts the average motion vectors from the previous multi-frame search frame features and constructs the consistency loss with the motion vectors of the current search frame features. The motion vectors of inter-frame objects are obtained by reusing the inter-frame attention map to predict coordinate positions. Finally, to further reduce the effect of inaccurate pseudo-labels, we propose an Attention-Based Multi-Scale Enhancement Module. By introducing cross-attention to achieve more precise and accurate object tracking, this module overcomes the receptive field limitations of traditional CNN tracking heads.'
+  tags:
+    #- name: 'site'
+    #  url:  'https://dl.acm.org/doi/10.1145/3614435'
     
 - title: 'Attribute-Driven Multimodal Hierarchical Prompts for Image Aesthetic Quality Assessment'
   #date:  'Sept. 2018'
