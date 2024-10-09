@@ -27,6 +27,35 @@
     - name: 'code'
       url:  'https://github.com/ZhiwenShao/AC2D' 
 
+- title: 'High-Level LoRA and Hierarchical Fusion for Enhanced Micro-Expression Recognition'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2024/cheng2024high.png'
+  selected: false
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yifan Cheng
+      url:  false
+    - name: Yong Zhou
+      url:  false
+    - name: Xiang Xiang
+      url:  'https://sites.google.com/view/xxiang'
+    - name: Jian Li
+      url:  false
+    - name: Bing Liu
+      url:  false
+    - name: Dit-Yan Yeung
+      url:  'https://sites.google.com/view/dyyeung'    
+  publisher:  'The Visual Computer (TVC), 2024'
+  status:   '(CCF C, SCI Q3)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose HLoRA-MER, a novel framework that combines high-level low-rank adaptation (HLoRA) and a hierarchical fusion module (HFM). HLoRA fine-tunes the high-level layers of a VFM to capture facial muscle movement information, while HFM aggregates inter-frame and spatio-temporal features.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2307.13310'
+    - name: 'site'
+      url:  'https://link.springer.com/article/10.1007/s00371-024-03676-w'
+
 - title: 'Motion-Aware Self-Supervised RGBT Tracking with Multi-modality Hierarchical Transformers'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/li2024motion.png'
