@@ -27,6 +27,37 @@
     - name: 'code'
       url:  'https://github.com/ZhiwenShao/AC2D' 
 
+- title: 'MGScoliosis: Multi-Grained Scoliosis Detection with Joint Ordinal Regression from Natural Image'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2024/zhu2024mgscoliosis.png'
+  selected: false
+  authors:
+    - name: Xiaojia Zhu
+      url:  false
+    - name: Rui Chen
+      url:  false
+    - name: <strong>Zhiwen Shao*</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Ming Zhang
+      url:  false
+    - name: Yuhu Dai
+      url:  false
+    - name: Wenzhi Zhang
+      url:  false
+    - name: Chuandong Lang
+      url:  false
+  publisher:  'Alexandria Engineering Journal (AEJ), 2024'
+  status:   '(SCI Q2)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose a multi-grained scoliosis detection framework by jointly estimating severity level and Cobb angle level of scoliosis from a natural image instead of a radiographic image, which has not been explored before. Specifically, we regard scoliosis estimation as an ordinal regression problem, and transform it into a series of binary classification sub-problems. Besides, we adopt the visual attention network with large kernel attention as the backbone for feature learning, which can model local and global correlations with efficient computations. The feature learning and the ordinal regression is put into an end-to-end framework, in which the two tasks of scoliosis severity level estimation and scoliosis angle level estimation are jointly learned and can contribute to each other.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2307.13310'
+    #- name: 'site'
+    #  url:  'https://link.springer.com/article/10.1007/s00371-024-03676-w'
+    - name: 'code'
+      url:  'https://github.com/RuiChen-stack/MGScoliosis'
+      
 - title: 'High-Level LoRA and Hierarchical Fusion for Enhanced Micro-Expression Recognition'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/cheng2024high.png'
