@@ -36,7 +36,7 @@
       url:  false
     - name: Rui Chen
       url:  false
-    - name: <strong>Zhiwen Shao*</strong>
+    - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
     - name: Ming Zhang
       url:  false
@@ -53,8 +53,8 @@
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/2307.13310'
-    #- name: 'site'
-    #  url:  'https://link.springer.com/article/10.1007/s00371-024-03676-w'
+    - name: 'site'
+      url:  'https://doi.org/10.1016/j.aej.2024.10.066'
     - name: 'code'
       url:  'https://github.com/RuiChen-stack/MGScoliosis'
       
