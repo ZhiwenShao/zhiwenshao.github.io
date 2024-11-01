@@ -340,27 +340,6 @@
   tags:
     - name: 'arXiv'
       url:  'https://arxiv.org/abs/2306.15142'
-
-- title: 'Boundary-Aware Small Object Detection with Attention and Interaction'
-  #date:  'Jul. 2018'
-  imgurl: '/images/projects/2023/feng2023boundary.png'
-  selected: false
-  authors:
-    - name: Qihan Feng
-      url:  false
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/'
-    - name: Zhixiao Wang
-      url:  false
-  publisher:  'The Visual Computer (TVC), 2023'
-  status:   '(CCF C, SCI Q3)'
-  #place:   'in Ottawa, Canada'
-  desc: 'We propose an effective boundary-aware network with attention refinement and spatial interaction to tackle the above challenges. Specifically, we first present a highly effective yet simple boundary-aware detection head (BAH), which directly guides representation learning of object structure semantics in the prediction layer to preserve object-related boundary semantics. Additionally, the attentional feature parallel fusion (AFPF) module offers multi-scale feature encoding capability in a parallel triple fusion fashion and adaptively selects features appropriate for objects of certain scales. Furthermore, we design a spatial interactive module (SIM) to preserve fine spatial detail through cross-spatial feature association.'
-  tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/2307.13310'
-    - name: 'site'
-      url:  'https://link.springer.com/article/10.1007/s00371-023-03144-x'  
       
 - title: 'CT-Net: Arbitrary-Shaped Text Detection via Contour Transformer'
   #date:  'Jul. 2018'
@@ -388,6 +367,27 @@
   tags:
     - name: 'arXiv'
       url:  'https://arxiv.org/abs/2307.13310'
+
+- title: 'Boundary-Aware Small Object Detection with Attention and Interaction'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2023/feng2023boundary.png'
+  selected: false
+  authors:
+    - name: Qihan Feng
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Zhixiao Wang
+      url:  false
+  publisher:  'The Visual Computer (TVC), 2023'
+  status:   '(CCF C, SCI Q3)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose an effective boundary-aware network with attention refinement and spatial interaction to tackle the above challenges. Specifically, we first present a highly effective yet simple boundary-aware detection head (BAH), which directly guides representation learning of object structure semantics in the prediction layer to preserve object-related boundary semantics. Additionally, the attentional feature parallel fusion (AFPF) module offers multi-scale feature encoding capability in a parallel triple fusion fashion and adaptively selects features appropriate for objects of certain scales. Furthermore, we design a spatial interactive module (SIM) to preserve fine spatial detail through cross-spatial feature association.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2307.13310'
+    - name: 'site'
+      url:  'https://link.springer.com/article/10.1007/s00371-023-03144-x'  
       
 - title: 'Unsupervised Cycle-Consistent Adversarial Attacks for Visual Object Tracking'
   #date:  'Jul. 2018'
