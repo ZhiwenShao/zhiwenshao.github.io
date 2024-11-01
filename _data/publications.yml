@@ -647,6 +647,39 @@
     #  url:  'https://github.com/junshutang/EGGAN'
     - name: 'site'
       url:  'https://ieeexplore.ieee.org/document/9999056'  
+
+- title: 'Unsupervised RGB-T Object Tracking with Attentional Multi-Modal Feature Fusion'
+  #date:  'Jul. 2020'
+  imgurl: '/images/projects/2023/li2023unsupervised.png'
+  selected: false
+  authors:
+    - name: Shenglan Li
+      url:  false   
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+    - name: Yong Zhou
+      url:  false
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'
+    - name: Bing Liu
+      url:  false
+    - name: Jiaqi Zhao
+      url:  false  
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/' 
+  publisher:  'Multimedia Tools and Applications, 2023'
+  status:   '(CCF C, SCI Q4)'
+  #place:   'in London, United Kingdom'
+  desc: 'We propose a framework for visual tracking based on the attention mechanism fusion of multi-modal and multi-level features. This fusion method can give full play to the advantages of multi-level and multi-modal information. Specificly, we use a feature fusion module to fuse these features from different levels and different modalities at the same time. We use cycle consistency based on a correlation filter to implement unsupervised training of the model to reduce the cost of annotated data.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    #- name: 'pdf'
+    #  url:  'https://www.mdpi.com/2079-9292/11/19/3047/pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/junshutang/EGGAN'
+    - name: 'site'
+      url:  'https://link.springer.com/article/10.1007/s11042-023-14362-9'    
       
 - title: 'Facial Action Unit Detection Using Attention and Relation Learning'
   #date:  'Jul. 2018'
@@ -794,39 +827,6 @@
     #  url:  'https://github.com/ZhiwenShao/JAANet'
     #- name: 'site'
     #  url:  'http://www.sfu.ca/~zhiweid/projects/SIF_project.html'    
-
-- title: 'Unsupervised RGB-T Object Tracking with Attentional Multi-Modal Feature Fusion'
-  #date:  'Jul. 2020'
-  imgurl: '/images/projects/2023/li2023unsupervised.png'
-  selected: false
-  authors:
-    - name: Shenglan Li
-      url:  false   
-    - name: Rui Yao
-      url:  'https://ruiyao.bitbucket.io/'
-    - name: Yong Zhou
-      url:  false
-    - name: Hancheng Zhu
-      url:  'https://zhuhancheng.github.io/'
-    - name: Bing Liu
-      url:  false
-    - name: Jiaqi Zhao
-      url:  false  
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/' 
-  publisher:  'Multimedia Tools and Applications, 2023'
-  status:   '(CCF C, SCI Q4)'
-  #place:   'in London, United Kingdom'
-  desc: 'We propose a framework for visual tracking based on the attention mechanism fusion of multi-modal and multi-level features. This fusion method can give full play to the advantages of multi-level and multi-modal information. Specificly, we use a feature fusion module to fuse these features from different levels and different modalities at the same time. We use cycle consistency based on a correlation filter to implement unsupervised training of the model to reduce the cost of annotated data.'
-  tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/2004.09769'
-    #- name: 'pdf'
-    #  url:  'https://www.mdpi.com/2079-9292/11/19/3047/pdf'
-    #- name: 'code'
-    #  url:  'https://github.com/junshutang/EGGAN'
-    - name: 'site'
-      url:  'https://link.springer.com/article/10.1007/s11042-023-14362-9'    
     
 - title: 'Personality Modeling from Image Aesthetic Attribute-Aware Graph Representation Learning'
   #date:  'Jul. 2020'
