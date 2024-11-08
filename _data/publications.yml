@@ -27,6 +27,39 @@
     - name: 'code'
       url:  'https://github.com/ZhiwenShao/AC2D' 
 
+- title: 'Symmetric Perception and Ordinal Regression for Detecting Scoliosis Natural Image'
+  #date:  'Jul. 2020'
+  imgurl: '/images/projects/2024/zhu2024symmetric.png'
+  selected: false
+  authors:
+    - name: Xiaojia Zhu
+      url:  false
+    - name: Rui Chen
+      url:  false
+    - name: Xiaoqi Guo
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'  
+    - name: Yuhu Dai
+      url:  false
+    - name: Ming Zhang
+      url:  false
+    - name: Chuandong Lang
+      url:  false
+  publisher:  'Applied Intelligence (APIN), 2024'
+  status:   '(CCF C, SCI Q2)'
+  #place:   'in London, United Kingdom'
+  desc: 'We notice that the human back has a certain degree of symmetry, and asymmetrical human backs are usually caused by spinal lesions. Besides, scoliosis severity levels have ordinal relationships. Taking inspiration from this, we propose a dual-path scoliosis detection network with two main modules: symmetric feature matching module (SFMM) and ordinal regression head (ORH). Specifically, we first adopt a backbone to extract features from both the input image and its horizontally flipped image. Then, we feed the two extracted features into the SFMM to capture symmetric relationships. Finally, we use the ORH to transform the ordinal regression problem into a series of binary classification sub-problems.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    #- name: 'pdf'
+    #  url:  'https://www.mdpi.com/2079-9292/11/19/3047/pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/junshutang/EGGAN'
+    #- name: 'site'
+    #  url:  'https://link.springer.com/article/10.1007/s10489-023-04533-4'    
+      
 - title: 'MGScoliosis: Multi-Grained Scoliosis Detection with Joint Ordinal Regression from Natural Image'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/zhu2024mgscoliosis.png'
