@@ -57,8 +57,8 @@
     #  url:  'https://www.mdpi.com/2079-9292/11/19/3047/pdf'
     #- name: 'code'
     #  url:  'https://github.com/junshutang/EGGAN'
-    #- name: 'site'
-    #  url:  'https://link.springer.com/article/10.1007/s10489-023-04533-4'    
+    - name: 'site'
+      url:  'https://doi.org/10.1007/s10489-024-05849-5'    
       
 - title: 'MGScoliosis: Multi-Grained Scoliosis Detection with Joint Ordinal Regression from Natural Image'
   #date:  'Jul. 2018'
