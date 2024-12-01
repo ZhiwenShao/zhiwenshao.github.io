@@ -59,6 +59,37 @@
     #  url:  'https://github.com/junshutang/EGGAN'
     - name: 'site'
       url:  'https://doi.org/10.1007/s10489-024-05849-5'    
+
+- title: 'Facial Action Unit Recognition with Micro-Action-Aware Transformer'
+  #date:  'Sept. 2018'
+  imgurl: '/images/projects/2024/yuan2024facial.png'
+  selected: true
+  authors:
+    - name: Yichen Yuan
+      url:  false
+    - name: Yifan Cheng
+      url:  false
+    - name: <strong>Zhiwen Shao*</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Qianwen Dang
+      url:  false
+    - name: Rui Chen
+      url:  false
+    - name: Mingjian Fu
+      url:  false
+    - name: Shengtian Jiang
+      url:  false
+    - name: Chunyu Li
+      url:  false
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'  
+  publisher:  'CEI 2024'
+  status:   '(EI)'
+  place:   'in Nanjing, China'
+  desc: 'We propose a novel micro-action-aware transformer to integrate local and global feature extractions, which effectively captures subtle AU details while maintaining the global relational modeling capacity of transformers. Besides, we jointly train facial AU recognition and facial landmark detection, in which the two correlated tasks contribute to each other and further facilitate the learning of local-global AU-related feature.'
+  tags:
+    #- name: 'site'
+    #  url:  'https://dl.acm.org/doi/10.1145/3664647.3681175'
       
 - title: 'MGScoliosis: Multi-Grained Scoliosis Detection with Joint Ordinal Regression from Natural Image'
   #date:  'Jul. 2018'
