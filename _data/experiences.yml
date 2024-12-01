@@ -24,7 +24,7 @@
   brief: true
 - date:  "Nov. 2017 - Nov. 2018 "
   title: "Research Assistant @ NTU"
-  desc:  "Facial Action Unit Recognition, Face Alignment"
+  desc:  "Joint Facial Action Unit Recognition and Face Alignment"
   host:
     name:  "<a href='https://research.monash.edu/en/persons/jianfei-cai/'>Prof. Jianfei Cai</a>"
     role: "Advisor"
@@ -38,7 +38,7 @@
   brief: true  
 - date:  "Mar. 2015 - Sept. 2016"
   title: "Intern @ Tencent YouTu Lab"
-  desc:  "Face Analysis, Deep Learning"
+  desc:  "Face Analysis Based on Deep Learning"
   host:  false
   brief: true
 - date:  "Sept. 2011 - July 2015"
