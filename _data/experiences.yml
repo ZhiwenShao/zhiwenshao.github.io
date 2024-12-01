@@ -1,11 +1,11 @@
 - date:  "Jan. 2023 -"
   title: "Tenured Associate Professor @ CUMT"
-  desc:  "Computer Vision, Deep Learning"
+  desc:  "Interdisciplinary Fields of Computer Vision"
   host:  false
   brief: true
 - date:  "Jan. 2024 -"
   title: "Postdoctoral Fellow @ HKUST"
-  desc:  "Vision Based Forecasting"
+  desc:  "Vision Based Weather Forecasting"
   host:
     name: "<a href='https://sites.google.com/view/dyyeung'>Prof. Dit-Yan Yeung</a>"
     role: "Advisor"
@@ -19,7 +19,7 @@
   brief: true
 - date:  "Aug. 2020 - Dec. 2022"
   title: "Tenure-Track Associate Professor @ CUMT"
-  desc:  "Computer Vision, Deep Learning"
+  desc:  "Interdisciplinary Fields of Computer Vision"
   host:  false
   brief: true
 - date:  "Nov. 2017 - Nov. 2018 "
