@@ -84,7 +84,7 @@
     - name: Lizhuang Ma*
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'CEI 2024'
-  status:   '(EI)'
+  status:   '(EI, Best Student Paper Award)'
   place:   'in Nanjing, China'
   desc: 'We propose a novel micro-action-aware transformer to integrate local and global feature extractions, which effectively captures subtle AU details while maintaining the global relational modeling capacity of transformers. Besides, we jointly train facial AU recognition and facial landmark detection, in which the two correlated tasks contribute to each other and further facilitate the learning of local-global AU-related feature.'
   tags:
@@ -761,7 +761,7 @@
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'
   publisher:  'IEEE Transactions on Affective Computing (TAFFC), 2022'
-  status:   '(CCF B, SCI Q2)'
+  status:   '(CCF B, SCI Q2, ESI Highly Cited Paper)'
   #place:   'in San Diego, USA'
   desc: 'We propose an end-to-end deep learning based attention and relation learning framework for AU detection with only AU labels, which has not been explored before. In particular, multi-scale features shared by each AU are learned firstly, and then both channel-wise and spatial attentions are adaptively learned to select and extract AU-related local features. Moreover, pixel-level relations for AUs are further captured to refine spatial attentions so as to extract more relevant local features. Without changing the network architecture, our framework can be easily extended for AU intensity estimation.'
   tags:
