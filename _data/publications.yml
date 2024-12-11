@@ -1,3 +1,24 @@
+- title: 'G-VEval: A Versatile Metric for Evaluating Image and Video Captions Using GPT-4o'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/tony2025gveval.png'
+  selected: true
+  authors:
+    - name: Tony Cheng Tong
+      url:  false
+    - name: Sirui He
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Dit-Yan Yeung
+      url:  'https://sites.google.com/view/dyyeung' 
+  publisher:  'AAAI 2025'
+  status:   '(CCF A)'
+  place:   'in Philadelphia, USA'
+  desc: 'We introduce G-VEval, a novel metric inspired by G-Eval and powered by the new GPT-4o. G-VEval uses chain-of-thought reasoning in large multimodal models and supports three modes: reference-free, reference-only, and combined, accommodating both video and image inputs. We also propose MSVD-Eval, a new dataset for video captioning evaluation, to establish a more transparent and consistent framework for both human experts and evaluation metrics. It is designed to address the lack of clear criteria in existing datasets by introducing distinct dimensions of Accuracy, Completeness, Conciseness, and Relevance (ACCR).'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2306.15142'
+      
 - title: 'Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/shao2024facial.png'
