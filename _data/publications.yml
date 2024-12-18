@@ -489,7 +489,7 @@
       url:  'https://zhiwenshao.github.io/'
     - name: Zhixiao Wang
       url:  false
-  publisher:  'The Visual Computer (TVC), 2023'
+  publisher:  'The Visual Computer (TVC), 2024'
   status:   '(CCF C)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose an effective boundary-aware network with attention refinement and spatial interaction to tackle the above challenges. Specifically, we first present a highly effective yet simple boundary-aware detection head (BAH), which directly guides representation learning of object structure semantics in the prediction layer to preserve object-related boundary semantics. Additionally, the attentional feature parallel fusion (AFPF) module offers multi-scale feature encoding capability in a parallel triple fusion fashion and adaptively selects features appropriate for objects of certain scales. Furthermore, we design a spatial interactive module (SIM) to preserve fine spatial detail through cross-spatial feature association.'
