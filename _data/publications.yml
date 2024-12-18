@@ -48,6 +48,31 @@
     - name: 'code'
       url:  'https://github.com/ZhiwenShao/AC2D' 
 
+ title: 'Hyperspectral Object Tracking with Dual-Stream Prompt'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2024/yao2024hyperspectral.png'
+  selected: true
+  authors:
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+    - name: Lu Zhang
+      url:  false
+    - name: Yong Zhou
+      url:  false
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'
+    - name: Jiaqi Zhao
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+  publisher:  'IEEE Transactions on Geoscience and Remote Sensing, 2024'
+  status:   '(CCF B)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose a unified spectral-spatiotemporal multimodal dual-stream prompt hyperspectral object tracking, named HDSP. We design a density clustering-based band selection module to preserve spectral prompt information efficiently. Using the generated bands and temporal data as multimodal prompts, a dual-stream visual prompter is proposed. Designed Multimodal Dual-stream Visual Prompter (MDVP) transform the multimodal input into a single modality, enhancing the foundational modality’s representation capabilities for hyperspectral tracking.'
+  tags:
+    - name: 'site'
+      url:  'https://ieeexplore.ieee.org/document/10798510'
+    
 - title: 'Symmetric Perception and Ordinal Regression for Detecting Scoliosis Natural Image'
   #date:  'Jul. 2020'
   imgurl: '/images/projects/2024/zhu2024symmetric.png'
