@@ -39,7 +39,7 @@
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'    
   publisher:  'International Journal of Computer Vision (IJCV), 2024'
-  status:   '(CCF A, SCI Q1)'
+  status:   '(CCF A)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel AU detection framework called AC2D by adaptively constraining self-attention weight distribution and causally deconfounding the sample confounder. Specifically, we explore the mechanism of self-attention weight distribution, in which the self-attention weight distribution of each AU is regarded as spatial distribution and is adaptively learned under the constraint of location-predefined attention and the guidance of AU detection. Moreover, we propose a causal intervention module for each AU, in which the bias caused by training samples and the interference from irrelevant AUs are both suppressed.'
   tags:
@@ -93,7 +93,7 @@
     - name: Chuandong Lang*
       url:  false
   publisher:  'Applied Intelligence (APIN), 2024'
-  status:   '(CCF C, SCI Q2)'
+  status:   '(CCF C)'
   #place:   'in London, United Kingdom'
   desc: 'We notice that the human back has a certain degree of symmetry, and asymmetrical human backs are usually caused by spinal lesions. Besides, scoliosis severity levels have ordinal relationships. Taking inspiration from this, we propose a dual-path scoliosis detection network with two main modules: symmetric feature matching module (SFMM) and ordinal regression head (ORH). Specifically, we first adopt a backbone to extract features from both the input image and its horizontally flipped image. Then, we feed the two extracted features into the SFMM to capture symmetric relationships. Finally, we use the ORH to transform the ordinal regression problem into a series of binary classification sub-problems.'
   tags:
@@ -188,7 +188,7 @@
     - name: Dit-Yan Yeung
       url:  'https://sites.google.com/view/dyyeung'    
   publisher:  'The Visual Computer (TVC), 2024'
-  status:   '(CCF C, SCI Q3)'
+  status:   '(CCF C)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose HLoRA-MER, a novel framework that combines high-level low-rank adaptation (HLoRA) and a hierarchical fusion module (HFM). HLoRA fine-tunes the high-level layers of a VFM to capture facial muscle movement information, while HFM aggregates inter-frame and spatio-temporal features.'
   tags:
@@ -294,7 +294,7 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
   publisher:  'IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024'
-  status:   '(CCF A, SCI Q1)'
+  status:   '(CCF A)'
   #place:   'in Ottawa, Canada'
   desc: 'In this paper, we propose a scene-aware foveated neural radiance fields method to synthesize high-quality foveated images in complex VR scenes at high frame rates. Firstly, we construct a multi-ellipsoidal neural representation to enhance the neural radiance fields representation capability in salient regions of complex VR scenes based on the scene content. Then, we introduce a uniform sampling based foveated neural radiance fields framework to improve the foveated image synthesis performance with one-pass color inference, and improve the synthesis quality by leveraging the foveated scene-aware objective function.'
   tags:
@@ -317,7 +317,7 @@
     - name: Bing Liu
       url:  false
   publisher:  'Pattern Recognition Letters (PRL), 2024'
-  status:   '(CCF C, SCI Q3)'
+  status:   '(CCF C)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose a novel end-to-end joint framework of AU recognition and optical flow estimation, in which the two tasks contribute to each other. Moreover, due to the lack of optical flow annotations in AU datasets, we propose to estimate optical flow in a self-supervised manner. To regularize the self-supervised estimation of optical flow, we propose an identical mapping constraint for the optical flow guided image warping process, in which the estimated optical flow between two same images is required to not change the image during warping.'
   tags:
@@ -471,7 +471,7 @@
     - name: Rui Yao
       url:  'https://ruiyao.bitbucket.io/'
   publisher:  'IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024'
-  status:   '(CCF B, SCI Q1)'
+  status:   '(CCF B)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose a novel arbitrary-shaped scene text detection framework named CT-Net by progressive contour regression with contour transformers. Specifically, we first employ a contour initialization module that generates coarse text contours without any post-processing. Then, we adopt contour refinement modules to adaptively refine text contours in an iterative manner, which are beneficial for context information capturing and progressive global contour deformation. Besides, we propose an adaptive training strategy to enable the contour transformers to learn more potential deformation paths, and introduce a re-score mechanism that can effectively suppress false positives.'
   tags:
@@ -490,7 +490,7 @@
     - name: Zhixiao Wang
       url:  false
   publisher:  'The Visual Computer (TVC), 2023'
-  status:   '(CCF C, SCI Q3)'
+  status:   '(CCF C)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose an effective boundary-aware network with attention refinement and spatial interaction to tackle the above challenges. Specifically, we first present a highly effective yet simple boundary-aware detection head (BAH), which directly guides representation learning of object structure semantics in the prediction layer to preserve object-related boundary semantics. Additionally, the attentional feature parallel fusion (AFPF) module offers multi-scale feature encoding capability in a parallel triple fusion fashion and adaptively selects features appropriate for objects of certain scales. Furthermore, we design a spatial interactive module (SIM) to preserve fine spatial detail through cross-spatial feature association.'
   tags:
@@ -617,7 +617,7 @@
     - name: Rui Yao
       url:  'https://ruiyao.bitbucket.io/'
   publisher:  'IEEE Transactions on Image Processing (TIP), 2023'
-  status:   '(CCF A, SCI Q1)'
+  status:   '(CCF A)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel adaptive attention and relation (AAR) framework for facial AU detection. Specifically, we propose an adaptive attention regression network to regress the global attention map of each AU under the constraint of attention predefinition and the guidance of AU detection, which is beneficial for capturing both specified dependencies by landmarks in strongly correlated regions and facial globally distributed dependencies in weakly correlated regions. Moreover, considering the diversity and dynamics of AUs, we propose an adaptive spatio-temporal graph convolutional network to simultaneously reason the independent pattern of each AU, the inter-dependencies among AUs, as well as the temporal dependencies.'
   tags:
@@ -679,7 +679,7 @@
     - name: Rui Yao
       url:  'https://ruiyao.bitbucket.io/'  
   publisher:  'Applied Intelligence (APIN), 2023'
-  status:   '(CCF C, SCI Q2)'
+  status:   '(CCF C)'
   #place:   'in London, United Kingdom'
   desc: 'We propose a novel MER method by identity-invariant representation learning and transformer-style relational modeling. Specifically, we propose to disentangle the identity information from the input via an adversarial training strategy. Considering the coherent relationships between AUs and MEs, we further employ AU recognition as an auxiliary task to learn AU representations with ME information captured. Moreover, we introduce a transformer to achieve MER by modeling the correlations among AUs. MER and AU recognition are jointly trained, in which the two correlated tasks can contribute to each other.'
   tags:
@@ -712,7 +712,7 @@
     - name: Rui Yao
       url:  'https://ruiyao.bitbucket.io/'
   publisher:  'IEEE Transactions on Multimedia (TMM), 2023'
-  status:   '(CCF B, SCI Q1)'
+  status:   '(CCF B)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel light-weight anchor-free text detection framework called TextDCT, which adopts the discrete cosine transform (DCT) to encode the text masks as compact vectors. Further, considering the imbalanced number of training samples among pyramid layers, we only employ a single-level head for top-down prediction. To model the multi-scale texts in a single-level head, we introduce a novel positive sampling strategy by treating the shrunk text region as positive samples, and design a feature awareness module (FAM) for spatial-awareness and scale-awareness by fusing rich contextual information and focusing on more significant features. Moreover, we propose a segmented non-maximum suppression (S-NMS) method that can filter low-quality mask regressions.'
   tags:
@@ -745,7 +745,7 @@
     - name: Hancheng Zhu
       url:  'https://zhuhancheng.github.io/'    
   publisher:  'IEEE Transactions on Multimedia (TMM), 2023'
-  status:   '(CCF B, SCI Q1)'
+  status:   '(CCF B)'
   #place:   'in London, United Kingdom'
   desc: 'We propose a weakly supervised few-shot semantic segmentation model based on the meta learning framework, which utilizes prior knowledge and adjusts itself according to new tasks. Thereupon then, the proposed network is capable of both high efficiency and generalization ability to new tasks. In the pseudo mask generation stage, we develop a WRCAM method with the channel-spatial attention mechanism to refine the coverage size of targets in pseudo masks. In the few-shot semantic segmentation stage, the optimization based meta learning method is used to realize few-shot semantic segmentation by virtue of the refined pseudo masks.'
   tags:
@@ -778,7 +778,7 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/' 
   publisher:  'Multimedia Tools and Applications, 2023'
-  status:   '(CCF C, SCI Q4)'
+  status:   '(CCF C)'
   #place:   'in London, United Kingdom'
   desc: 'We propose a framework for visual tracking based on the attention mechanism fusion of multi-modal and multi-level features. This fusion method can give full play to the advantages of multi-level and multi-modal information. Specificly, we use a feature fusion module to fuse these features from different levels and different modalities at the same time. We use cycle consistency based on a correlation filter to implement unsupervised training of the model to reduce the cost of annotated data.'
   tags:
@@ -807,7 +807,7 @@
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'
   publisher:  'IEEE Transactions on Affective Computing (TAFFC), 2022'
-  status:   '(CCF B, SCI Q2, ESI Highly Cited Paper)'
+  status:   '(CCF B, ESI Highly Cited Paper)'
   #place:   'in San Diego, USA'
   desc: 'We propose an end-to-end deep learning based attention and relation learning framework for AU detection with only AU labels, which has not been explored before. In particular, multi-scale features shared by each AU are learned firstly, and then both channel-wise and spatial attentions are adaptively learned to select and extract AU-related local features. Moreover, pixel-level relations for AUs are further captured to refine spatial attentions so as to extract more relevant local features. Without changing the network architecture, our framework can be easily extended for AU intensity estimation.'
   tags:
@@ -838,7 +838,7 @@
     - name: Jiaqi Zhao
       url:  false
   publisher:  'The Visual Computer (TVC), 2022'
-  status:   '(CCF C, SCI Q3)'
+  status:   '(CCF C)'
   #place:   'in London, United Kingdom'
   desc: 'We propose a novel hybrid relational reasoning (HRR) framework for AU detection. In particular, we propose to adaptively reason pixel-level correlations of each AU, under the constraint of predefined regional correlations by facial landmarks, as well as the supervision of AU detection. Moreover, we propose to adaptively reason AU-level correlations using a graph convolutional network, by considering both predefined AU relationships and learnable relationship weights. Our framework is beneficial for integrating the advantages of correlation predefinition and correlation learning.' 
   tags:
@@ -892,7 +892,7 @@
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'IEEE Transactions on Affective Computing (TAFFC), 2022'
-  status:   '(CCF B, SCI Q2)'
+  status:   '(CCF B)'
   #place:   'in San Diego, USA'
   desc: 'We propose an end-to-end unconstrained facial AU detection framework based on domain adaptation, which transfers accurate AU labels from a constrained source domain to an unconstrained target domain by exploiting labels of AU-related facial landmarks. Specifically, we map a source image with label and a target image without label into a latent feature domain by combining source landmark-related feature with target landmark-free feature. Due to the combination of source AU-related information and target AU-free information, the latent feature domain with transferred source label can be learned by maximizing the target-domain AU detection performance. Moreover, we introduce a novel landmark adversarial loss to disentangle the landmark-free feature from the landmark-related feature by treating the adversarial learning as a multi-player minimax game.'
   tags:
@@ -952,7 +952,7 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
   publisher:  'Journal of Visual Communication and Image Representation, 2022'
-  status:   '(CCF C, SCI Q3)'
+  status:   '(CCF C)'
   #place:   'in London, United Kingdom'
   desc: 'This paper proposes a personality modeling approach based on image aesthetic attribute-aware graph representation learning, which can leverage aesthetic attributes to refine the liked images that are consistent with users’ personality traits. Specifically, we first utilize a Convolutional Neural Network (CNN) to train an aesthetic attribute prediction module. Then, attribute-aware graph representation learning is introduced to refine the images with similar aesthetic attributes from users’ liked images. Finally, the aesthetic attributes of all refined images are combined to predict personality traits through a Multi-Layer Perceptron (MLP).'
   tags:
@@ -983,7 +983,7 @@
     - name: Xiaolin Tian
       url:  false
   publisher:  'IEEE Geoscience and Remote Sensing Letters, 2022'
-  status:   '(CCF C, SCI Q2)'
+  status:   '(CCF C)'
   #place:   'in London, United Kingdom'
   desc: 'We investigate the applicability of semi-supervised image-to-image translation for SAR-optical image matching such that both aligned and unaligned SAR-optical images could be used. To this end, we combine the benefits of both supervised and unsupervised well-known image-to-image translation methods, i.e., Pix2pix and CycleGAN, and propose a simple yet effective semi-supervised image-to-image translation framework.'
   tags:
@@ -1018,7 +1018,7 @@
     - name: Hao Chen
       url:  false
   publisher:  'Pattern Analysis and Applications, 2022'
-  status:   '(CCF C, SCI Q4)'
+  status:   '(CCF C)'
   #place:   'in London, United Kingdom'
   desc: 'We explained how to use only a few of labels, design a more flexible network architecture and combine feature distillation method to improve model efficiency while ensuring high accuracy. Specifically, we integrate different network structures into independent individuals to make the use of network structures more flexible. Based on knowledge distillation, we extract the channel features and establish a feature distillation connection from the teacher network to the student network.'
   tags:
@@ -1078,7 +1078,7 @@
     - name: Jianmin Zheng
       url:  'https://personal.ntu.edu.sg/asjmzheng/'
   publisher:  'Pattern Recognition (PR), 2022'
-  status:   '(CCF B, SCI Q1)'
+  status:   '(CCF B)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel geodesic guided convolution (GeoConv) for AU recognition by embedding 3D manifold information into 2D convolutions. Specifically, the kernel of GeoConv is weighted by our introduced geodesic weights, which are negatively correlated to geodesic distances on a coarsely reconstructed 3D morphable face model. Moreover, based on GeoConv, we further develop an end-to-end trainable framework named GeoCNN for AU recognition.'
   tags:
@@ -1107,7 +1107,7 @@
     - name: Lizhuang Ma*
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'The Visual Computer (TVC), 2022'
-  status:   '(CCF C, SCI Q3)'
+  status:   '(CCF C)'
   #place:   'in London, United Kingdom'
   desc: 'We propose a two-stage sketch-to-photo generative adversarial network for face generation. In the first stage, we propose a semantic loss to maintain semantic consistency. In the second stage, we define the similar connected component and propose a color refinement loss to generate fine-grained details. Moreover, we introduce a multi-scale discriminator and design a patch-level local discriminator. We also propose a texture loss to enhance the local fidelity of synthesized images.'
   tags:
@@ -1229,7 +1229,7 @@
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'IEEE Transactions on Image Processing (TIP), 2021'
-  status:   '(CCF A, SCI Q1)'
+  status:   '(CCF A)'
   #place:   'in San Diego, USA'
   desc: 'We propose to explicitly transfer facial expression by directly mapping two unpaired input images to two synthesized images with swapped expressions. Specifically, considering AUs semantically describe fine-grained expression details, we propose a novel multi-class adversarial training method to disentangle input images into two types of fine-grained representations: AU-related feature and AU-free feature. Then, we can synthesize new images with preserved identities and swapped expressions by combining AU-free features with swapped AU-related features. Moreover, to obtain reliable expression transfer results of the unpaired input, we introduce a swap consistency loss to make the synthesized images and self-reconstructed images indistinguishable.'
   tags:
@@ -1281,7 +1281,7 @@
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'International Journal of Computer Vision (IJCV), 2021'
-  status:   '(CCF A, SCI Q1)'
+  status:   '(CCF A)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel end-to-end deep learning framework for joint AU detection and face alignment, which has not been explored before. In particular, multi-scale shared feature is learned firstly, and high-level feature of face alignment is fed into AU detection. Moreover, to extract precise local features, we propose an adaptive attention learning module to refine the attention map of each AU adaptively. Finally, the assembled local features are integrated with face alignment feature and global feature for AU detection.'
   tags:
@@ -1362,7 +1362,7 @@
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'Neurocomputing, 2020'
-  status:   '(CCF C, SCI Q2)'
+  status:   '(CCF C)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel deep learning framework named Multi-Center Learning with multiple shape prediction layers for face alignment. In particular, each shape prediction layer emphasizes on the detection of a certain cluster of semantically relevant landmarks respectively. Challenging landmarks are focused firstly, and each cluster of landmarks is further optimized respectively. Moreover, to reduce the model complexity, we propose a model assembling method to integrate multiple shape prediction layers into one shape prediction layer.'
   tags:
@@ -1387,7 +1387,7 @@
     - name: Lizhuang Ma*
       url:  'http://dmcv.sjtu.edu.cn/people'
   publisher:  'Information Sciences (INS), 2020'
-  status:   '(CCF B, SCI Q1)'
+  status:   '(CCF B)'
   #place:   'in San Diego, USA'
   desc: 'We propose a novel version of Gated Recurrent Unit (GRU), called Single-Tunnelled GRU for abnormality detection. Particularly, the Single-Tunnelled GRU discards the heavy-weighted reset gate from GRU cells that overlooks the importance of past content by only favouring current input to obtain an optimized single-gated-cell model. Moreover, we substitute the hyperbolic tangent activation in standard GRUs with sigmoid activation, as the former suffers from performance loss in deeper networks.'
   tags:
@@ -1464,7 +1464,7 @@
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'IET Computer Vision (CV), 2019'
-  status:   '(CCF C, SCI Q4)'
+  status:   '(CCF C)'
   #place:   'in San Diego, USA'
   desc: 'We propose a new pipeline of salient-to-inner-to-all to progressively compute the locations of landmarks. Additionally, a feedback process is utilised to improve the robustness of regression. They bring out a pose-invariant shape retrieval method to generate the discriminative initialisation.'
   tags:
@@ -1522,7 +1522,7 @@
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'Computers & Graphics (C&G), 2018'
-  status:   '(CCF C, SCI Q4)'
+  status:   '(CCF C)'
   #place:   'in San Diego, USA'
   desc: 'We discuss how to improve initialization by studying a neighborhood representation prior, leveraging neighboring faces to obtain a high-quality initial shape. In order to further improve the estimation precision of each facial landmark, we propose a face-like landmark adjustment algorithm to refine the face shape.'
   tags:
