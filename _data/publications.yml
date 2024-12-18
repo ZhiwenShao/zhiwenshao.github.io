@@ -48,7 +48,7 @@
     - name: 'code'
       url:  'https://github.com/ZhiwenShao/AC2D' 
 
- title: 'Hyperspectral Object Tracking with Dual-Stream Prompt'
+- title: 'Hyperspectral Object Tracking with Dual-Stream Prompt'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/yao2024hyperspectral.png'
   selected: true
