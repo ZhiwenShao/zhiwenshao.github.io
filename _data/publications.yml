@@ -278,7 +278,7 @@
     - name: 'site'
       url:  'https://www.ejournal.org.cn/EN/10.12263/DZXB.20240279'      
 
-- title: 'Scene-aware Foveated Neural Radiance Fields'
+- title: 'Scene-Aware Foveated Neural Radiance Fields'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/shi2024scene.png'
   selected: true
