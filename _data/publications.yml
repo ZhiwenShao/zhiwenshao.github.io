@@ -16,8 +16,10 @@
   place:   'in Philadelphia, USA'
   desc: 'We introduce G-VEval, a novel metric inspired by G-Eval and powered by the new GPT-4o. G-VEval uses chain-of-thought reasoning in large multimodal models and supports three modes: reference-free, reference-only, and combined, accommodating both video and image inputs. We also propose MSVD-Eval, a new dataset for video captioning evaluation, to establish a more transparent and consistent framework for both human experts and evaluation metrics. It is designed to address the lack of clear criteria in existing datasets by introducing distinct dimensions of Accuracy, Completeness, Conciseness, and Relevance (ACCR).'
   tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/2306.15142'
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2412.13647'
+    - name: 'code'
+      url:  'https://github.com/ztangaj/gveval'   
       
 - title: 'Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample'
   #date:  'Jul. 2018'
