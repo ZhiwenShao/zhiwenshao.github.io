@@ -97,14 +97,14 @@
   #place:   'in London, United Kingdom'
   desc: 'We notice that the human back has a certain degree of symmetry, and asymmetrical human backs are usually caused by spinal lesions. Besides, scoliosis severity levels have ordinal relationships. Taking inspiration from this, we propose a dual-path scoliosis detection network with two main modules: symmetric feature matching module (SFMM) and ordinal regression head (ORH). Specifically, we first adopt a backbone to extract features from both the input image and its horizontally flipped image. Then, we feed the two extracted features into the SFMM to capture symmetric relationships. Finally, we use the ORH to transform the ordinal regression problem into a series of binary classification sub-problems.'
   tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/2004.09769'
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2411.15799'
     #- name: 'pdf'
     #  url:  'https://www.mdpi.com/2079-9292/11/19/3047/pdf'
     #- name: 'code'
     #  url:  'https://github.com/junshutang/EGGAN'
-    - name: 'site'
-      url:  'https://doi.org/10.1007/s10489-024-05849-5'    
+    #- name: 'site'
+    #  url:  'https://doi.org/10.1007/s10489-024-05849-5'    
 
 - title: 'Facial Action Unit Recognition with Micro-Action-Aware Transformer'
   #date:  'Sept. 2018'
