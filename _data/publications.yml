@@ -1,3 +1,24 @@
+- title: 'Fast and Slow Streams for Online Time Series Forecasting Without Information Leakage'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/lau2025fast.png'
+  selected: true
+  authors:
+    - name: Ying-yee Ava Lau
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Dit-Yan Yeung
+      url:  'https://sites.google.com/view/dyyeung' 
+  publisher:  'ICLR 2025'
+  status:   '(Tsinghua A)'
+  place:   'in Singapore'
+  desc: 'This paper redefines online time series forecasting to focus on predicting unknown future steps and evaluates performance solely based on these predictions. Following this new setting, challenges arise in leveraging incomplete pairs of ground truth and prediction for backpropagation, as well as generalizing accurate information without overfitting to noises from recent data streams. To address these challenges, we propose a novel dual-stream framework for online forecasting (DSOF): a slow stream that updates with complete data using experience replay, and a fast stream that adapts to recent data through temporal difference learning. This dual-stream approach updates a teacher-student model learned through a residual learning strategy, generating predictions in a coarse-to-fine manner.'
+  tags:
+    - name: 'site'
+      url:  'https://openreview.net/forum?id=I0n3EyogMi'
+    #- name: 'code'
+    #  url:  'https://github.com/ztangaj/gveval'   
+    
 - title: 'G-VEval: A Versatile Metric for Evaluating Image and Video Captions Using GPT-4o'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/tony2025gveval.png'
