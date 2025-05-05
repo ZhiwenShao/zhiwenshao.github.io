@@ -77,7 +77,34 @@
     - name: 'arXiv'
       url:  'https://arxiv.org/abs/2410.01251'
     - name: 'code'
-      url:  'https://github.com/ZhiwenShao/AC2D' 
+      url:  'https://github.com/ZhiwenShao/AC2D'
+
+- title: 'Image Cropping with Content and Composition Attribute-aware Global Relation Reasoning'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/zhu2025image.png'
+  selected: true
+  authors:
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'
+    - name: Li Yan
+      url:  false
+    - name: Yong Zhou
+      url:  false
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'    
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Jiaqi Zhao
+      url:  false
+    - name: Leida Li
+      url:  'https://web.xidian.edu.cn/ldli/en/index.html'       
+  publisher:  'ACM TOMM, 2025'
+  status:   '(CCF B)'
+  #place:   'in San Diego, USA'
+  desc: 'To comprehensively introduce aesthetic information into image cropping, we capture feature representations reinforced by content and composition attributes simultaneously. The feature representations can strengthen the visual aesthetics of cropped sub-images. To make the cropped sub-images amply contain more global information, we introduce a global relation reasoning branch in the proposed cropping module, which can fully exploit the dependency relationship between the foreground and background in images.'
+  tags:
+    - name: 'site'
+      url:  'https://dl.acm.org/doi/10.1145/3719012'
       
 - title: 'Fast and Slow Streams for Online Time Series Forecasting Without Information Leakage'
   #date:  'Jul. 2018'
