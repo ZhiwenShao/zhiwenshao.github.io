@@ -24,6 +24,31 @@
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/2307.13310'
+
+- title: 'Progressively Generated Text-Assisted Image Aesthetic Quality Assessment'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/zhu2025progressively.png'
+  selected: true
+  authors:
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'
+    - name: Ju Shi*
+      url:  false
+    - name: <strong>Zhiwen Shao*</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'  
+    - name: Kunyang Sun
+      url:  false
+    - name: Leida Li
+      url:  'https://web.xidian.edu.cn/ldli/en/index.html'       
+  publisher:  'IEEE Transactions on Fuzzy Systems (TFUZZ), 2025'
+  status:   '(CCF B)'
+  #place:   'in San Diego, USA'
+  desc: 'This paper proposes a progressively generated text-assisted image aesthetic quality assessment method, aiming to address the lack of aesthetic comments and the fuzziness of aesthetic judgments in these comments. Specifically, we first adopt a Multimodal Large Language Model (MLLM) to generate aesthetic comments on images by simulating user perceptions and utilize the generated comments to characterize their aesthetic perception to assist in the pretraining of our multimodal-based IAQA model. Then, we design an attribute prediction module to determine the attribute levels of aesthetic judgments and utilize text template construction to further generate explicit descriptions of image aesthetics. Finally, we leverage the generated attribute descriptions to further assist in training our IAQA model. By progressively generating textual auxiliary descriptions of aesthetics for images, the proposed model can gradually determine the aesthetic quality of the images.'
+  tags:
+    - name: 'site'
+      url:  'https://ieeexplore.ieee.org/document/10981607'
       
 - title: 'Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample'
   #date:  'Jul. 2018'
