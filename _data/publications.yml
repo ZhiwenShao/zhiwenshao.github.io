@@ -140,7 +140,7 @@
       url:  false
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
-  publisher:  'IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024'
+  publisher:  'IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025'
   status:   '(CCF B)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose a unified spectral-spatiotemporal multimodal dual-stream prompt hyperspectral object tracking, named HDSP. We design a density clustering-based band selection module to preserve spectral prompt information efficiently. Using the generated bands and temporal data as multimodal prompts, a dual-stream visual prompter is proposed. Designed Multimodal Dual-stream Visual Prompter (MDVP) transform the multimodal input into a single modality, enhancing the foundational modality’s representation capabilities for hyperspectral tracking.'
@@ -167,7 +167,7 @@
       url:  false
     - name: Chuandong Lang*
       url:  false
-  publisher:  'Applied Intelligence (APIN), 2024'
+  publisher:  'Applied Intelligence (APIN), 2025'
   status:   '(CCF C)'
   #place:   'in London, United Kingdom'
   desc: 'We notice that the human back has a certain degree of symmetry, and asymmetrical human backs are usually caused by spinal lesions. Besides, scoliosis severity levels have ordinal relationships. Taking inspiration from this, we propose a dual-path scoliosis detection network with two main modules: symmetric feature matching module (SFMM) and ordinal regression head (ORH). Specifically, we first adopt a backbone to extract features from both the input image and its horizontally flipped image. Then, we feed the two extracted features into the SFMM to capture symmetric relationships. Finally, we use the ORH to transform the ordinal regression problem into a series of binary classification sub-problems.'
@@ -181,37 +181,6 @@
     #- name: 'site'
     #  url:  'https://doi.org/10.1007/s10489-024-05849-5'    
 
-- title: 'Facial Action Unit Recognition with Micro-Action-Aware Transformer'
-  #date:  'Sept. 2018'
-  imgurl: '/images/projects/2024/yuan2024facial.png'
-  selected: true
-  authors:
-    - name: Yichen Yuan
-      url:  false
-    - name: Yifan Cheng
-      url:  false
-    - name: <strong>Zhiwen Shao*</strong>
-      url:  'https://zhiwenshao.github.io/'
-    - name: Qianwen Dang
-      url:  false
-    - name: Rui Chen
-      url:  false
-    - name: Mingjian Fu
-      url:  false
-    - name: Shengtian Jiang
-      url:  false
-    - name: Chunyu Li
-      url:  false
-    - name: Lizhuang Ma*
-      url:  'http://dmcv.sjtu.edu.cn/people'  
-  publisher:  'CEI 2024'
-  status:   '(EI, Best Student Paper Award)'
-  place:   'in Nanjing, China'
-  desc: 'We propose a novel micro-action-aware transformer to integrate local and global feature extractions, which effectively captures subtle AU details while maintaining the global relational modeling capacity of transformers. Besides, we jointly train facial AU recognition and facial landmark detection, in which the two correlated tasks contribute to each other and further facilitate the learning of local-global AU-related feature.'
-  tags:
-    #- name: 'site'
-    #  url:  'https://dl.acm.org/doi/10.1145/3664647.3681175'
-      
 - title: 'MGScoliosis: Multi-Grained Scoliosis Detection with Joint Ordinal Regression from Natural Image'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/zhu2024mgscoliosis.png'
@@ -231,7 +200,7 @@
       url:  false
     - name: Chuandong Lang
       url:  false
-  publisher:  'Alexandria Engineering Journal (AEJ), 2024'
+  publisher:  'Alexandria Engineering Journal (AEJ), 2025'
   status:   '(SCI Q2)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose a multi-grained scoliosis detection framework by jointly estimating severity level and Cobb angle level of scoliosis from a natural image instead of a radiographic image, which has not been explored before. Specifically, we regard scoliosis estimation as an ordinal regression problem, and transform it into a series of binary classification sub-problems. Besides, we adopt the visual attention network with large kernel attention as the backbone for feature learning, which can model local and global correlations with efficient computations. The feature learning and the ordinal regression is put into an end-to-end framework, in which the two tasks of scoliosis severity level estimation and scoliosis angle level estimation are jointly learned and can contribute to each other.'
@@ -262,7 +231,7 @@
       url:  false
     - name: Dit-Yan Yeung
       url:  'https://sites.google.com/view/dyyeung'    
-  publisher:  'The Visual Computer (TVC), 2024'
+  publisher:  'The Visual Computer (TVC), 2025'
   status:   '(CCF C)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose HLoRA-MER, a novel framework that combines high-level low-rank adaptation (HLoRA) and a hierarchical fusion module (HFM). HLoRA fine-tunes the high-level layers of a VFM to capture facial muscle movement information, while HFM aggregates inter-frame and spatio-temporal features.'
@@ -273,6 +242,37 @@
       url:  'https://link.springer.com/article/10.1007/s00371-024-03676-w'
     - name: 'code'
       url:  'https://github.com/CYF-cuber/HLoRA_MER_dinov2'   
+      
+- title: 'Facial Action Unit Recognition with Micro-Action-Aware Transformer'
+  #date:  'Sept. 2018'
+  imgurl: '/images/projects/2024/yuan2024facial.png'
+  selected: true
+  authors:
+    - name: Yichen Yuan
+      url:  false
+    - name: Yifan Cheng
+      url:  false
+    - name: <strong>Zhiwen Shao*</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Qianwen Dang
+      url:  false
+    - name: Rui Chen
+      url:  false
+    - name: Mingjian Fu
+      url:  false
+    - name: Shengtian Jiang
+      url:  false
+    - name: Chunyu Li
+      url:  false
+    - name: Lizhuang Ma*
+      url:  'http://dmcv.sjtu.edu.cn/people'  
+  publisher:  'CEI 2024'
+  status:   '(EI, Best Student Paper Award)'
+  place:   'in Nanjing, China'
+  desc: 'We propose a novel micro-action-aware transformer to integrate local and global feature extractions, which effectively captures subtle AU details while maintaining the global relational modeling capacity of transformers. Besides, we jointly train facial AU recognition and facial landmark detection, in which the two correlated tasks contribute to each other and further facilitate the learning of local-global AU-related feature.'
+  tags:
+    #- name: 'site'
+    #  url:  'https://dl.acm.org/doi/10.1145/3664647.3681175'
 
 - title: 'Motion-Aware Self-Supervised RGBT Tracking with Multi-modality Hierarchical Transformers'
   #date:  'Jul. 2018'
