@@ -1,3 +1,30 @@
+- title: 'Mirror Detection via Multi-Directional Similarity Perception and Spectral Saliency Enhancement'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/shao2025mirror.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Rui Chen
+      url:  false 
+    - name: Xuehuai Shi
+      url:  false 
+    - name: Bing Liu
+      url:  false
+    - name: Canlin Li
+      url:  false  
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'   
+    - name: Dit-Yan Yeung
+      url:  'https://sites.google.com/view/dyyeung' 
+  publisher:  'IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025'
+  status:   '(CCF B)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose a novel mirror detection framework called S2MD including two main modules, multi-directional similarity perception module (MSPM) and spectral saliency enhancement decoder module (SSEDM). Specifically, we employ a backbone network to extract multi-scale global information from images using a dual-path approach. Then, we feed these high-level dual-path features into MSPMs to generate direction-sensitive similarity-consistent features. MSPM utilizes active rotating filters and oriented response pooling to model the similarity relations in different orientations. Moreover, the SSEDM is utilized to enhance the spatial contextual contrasted features using feature spectral residuals and fuse the dual-path features to obtain the final predicted mirror mask.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2307.13310'
+      
 - title: 'Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/shao2024facial.png'
