@@ -1,3 +1,30 @@
+- title: 'Constrained and Directional Ensemble Attention for Facial Action Unit Detection'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/shao2025constrained.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Bikuan Chen
+      url:  false
+    - name: Yong Zhou
+      url:  false
+    - name: Xuehuai Shi
+      url:  false   
+    - name: Canlin Li
+      url:  false 
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'   
+    - name: Dit-Yan Yeung
+      url:  'https://sites.google.com/view/dyyeung' 
+  publisher:  'Pattern Recognition (PR), 2025'
+  status:   '(CCF B)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose a local self-attention constraining (LSC) network, by regarding the self-attention distribution of each AU as a spatial distribution, and constraining it based on prior knowledge so as to capture AU-related local information. Moreover, to learn correlations among different AU regions, we propose a global dual-directional attention (GDA) network, which adaptively learns global attention map from both vertical and horizontal directions. Last but not least, the two networks from different views of capturing patterns are assembled to integrate both advantages.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2307.13310'
+    
 - title: 'Mirror Detection via Multi-Directional Similarity Perception and Spectral Saliency Enhancement'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/shao2025mirror.png'
