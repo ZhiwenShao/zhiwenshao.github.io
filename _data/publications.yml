@@ -24,6 +24,8 @@
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/2307.13310'
+    - name: 'code'
+      url:  'https://github.com/RuiChen-stack/M2SD'
 
 - title: 'Progressively Generated Text-Assisted Image Aesthetic Quality Assessment'
   #date:  'Jul. 2018'
