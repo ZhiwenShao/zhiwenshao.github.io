@@ -581,6 +581,8 @@
   tags:
     - name: 'arXiv'
       url:  'https://arxiv.org/abs/2306.15142'
+    - name: 'code'
+      url:  'https://github.com/ychensu/LRANet'     
       
 - title: 'CT-Net: Arbitrary-Shaped Text Detection via Contour Transformer'
   #date:  'Jul. 2018'
