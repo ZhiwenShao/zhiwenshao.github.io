@@ -22,8 +22,8 @@
   #place:   'in Ottawa, Canada'
   desc: 'We propose a local self-attention constraining (LSC) network, by regarding the self-attention distribution of each AU as a spatial distribution, and constraining it based on prior knowledge so as to capture AU-related local information. Moreover, to learn correlations among different AU regions, we propose a global dual-directional attention (GDA) network, which adaptively learns global attention map from both vertical and horizontal directions. Last but not least, the two networks from different views of capturing patterns are assembled to integrate both advantages.'
   tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/2307.13310'
+    - name: 'site'
+      url:  'https://doi.org/10.1016/j.patcog.2025.111904'
     
 - title: 'Mirror Detection via Multi-Directional Similarity Perception and Spectral Saliency Enhancement'
   #date:  'Jul. 2018'
@@ -49,8 +49,8 @@
   #place:   'in Ottawa, Canada'
   desc: 'We propose a novel mirror detection framework called S2MD including two main modules, multi-directional similarity perception module (MSPM) and spectral saliency enhancement decoder module (SSEDM). Specifically, we employ a backbone network to extract multi-scale global information from images using a dual-path approach. Then, we feed these high-level dual-path features into MSPMs to generate direction-sensitive similarity-consistent features. MSPM utilizes active rotating filters and oriented response pooling to model the similarity relations in different orientations. Moreover, the SSEDM is utilized to enhance the spatial contextual contrasted features using feature spectral residuals and fuse the dual-path features to obtain the final predicted mirror mask.'
   tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/2307.13310'
+    - name: 'site'
+      url:  'https://ieeexplore.ieee.org/document/10988826'
     - name: 'code'
       url:  'https://github.com/RuiChen-stack/M2SD'
 
