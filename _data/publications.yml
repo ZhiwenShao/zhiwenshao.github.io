@@ -1,3 +1,34 @@
+- title: 'Facial Action Unit Detection with Iterative Rank Reduction Adapter and Directional Attention'
+  date:  'July 2025'
+  imgurl: '/images/projects/2025/shao2025facial.png'
+  selected: false
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Chunyu Li
+      url:  false
+    - name: Fan Zhang
+      url:  false  
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+    - name: Bing Liu
+      url:  false
+  publisher:  'CGI 2025'
+  status:   '(CCF C)'
+  place:   'in Hong Kong'
+  desc: 'We propose a new iterative rank reduction adapter (IR2A) to fine-tune a VFM for AU detection. In particular, we freeze the pre-trained model parameters and introduce trainable rank decomposition matrices to top self-attention blocks. We set an initial rank for rank decomposition matrices, and then iteratively reduce the rank via principal component analysis. Moreover, we propose a directional attention to learn relevant features to each AU, in which important information in different directions are captured.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2004.09769'
+    #- name: 'pdf'
+    #  url:  'https://zhiwenshao.github.io/pdfs/projects/2017/shao2017learning.pdf'
+    #- name: 'code'
+    #  url:  'https://github.com/ZhiwenShao/MCNet'
+    #- name: 'site'
+    #  url:  'https://dl.acm.org/doi/abs/10.1007/978-3-030-61864-3_15'
+      
 - title: 'Constrained and Directional Ensemble Attention for Facial Action Unit Detection'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/shao2025constrained.png'
