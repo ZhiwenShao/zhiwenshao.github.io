@@ -24,6 +24,8 @@
   tags:
     - name: 'arXiv'
       url:  'https://arxiv.org/abs/2506.14511'
+    - name: 'code'
+      url:  'https://github.com/CYF-cuber/MOL'
       
 - title: 'Facial Action Unit Detection with Iterative Rank Reduction Adapter and Directional Attention'
   date:  'July 2025'
