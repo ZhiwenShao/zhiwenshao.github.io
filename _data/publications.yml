@@ -1,3 +1,30 @@
+- title: 'MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/shao2025mol.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yifan Cheng
+      url:  false
+    - name: Feiran Li
+      url:  false
+    - name: Yong Zhou
+      url:  false
+    - name: Xuequan Lu
+      url:  'http://www.xuequanlu.com/'
+    - name: Yuan Xie
+      url:  'https://faculty.ecnu.edu.cn/_s16/xy2_11342/main.psp'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'   
+  publisher:  'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025'
+  status:   '(CCF A)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose an end-to-end micro-action-aware deep learning framework with advantages from transformer, graph convolution, and vanilla convolution. In particular, we propose a novel F5C block composed of fully-connected convolution and channel correspondence convolution to directly extract local-global features from a sequence of raw frames, without the prior knowledge of key frames. The transformer-style fully-connected convolution is proposed to extract local features while maintaining global receptive fields, and the graph-style channel correspondence convolution is introduced to model the correlations among feature patterns. Moreover, MER, optical flow estimation, and facial landmark detection are jointly trained by sharing the local-global features. The two latter tasks contribute to capturing facial subtle action information for MER, which can alleviate the impact of insufficient training data.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2506.14511'
+      
 - title: 'Facial Action Unit Detection with Iterative Rank Reduction Adapter and Directional Attention'
   date:  'July 2025'
   imgurl: '/images/projects/2025/shao2025facial.png'
