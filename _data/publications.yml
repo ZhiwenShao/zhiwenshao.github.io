@@ -1,3 +1,30 @@
+- title: 'TextRSR: Enhanced Arbitrary-Shaped Scene Text Representation via Robust Subspace Recovery'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/shao2025textrsr.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Shengtian Jiang
+      url:  false
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'  
+    - name: Xuehuai Shi
+      url:  false   
+    - name: Canlin Li
+      url:  false 
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'   
+    - name: Dit-Yan Yeung
+      url:  'https://sites.google.com/view/dyyeung' 
+  publisher:  'IEEE Transactions on Multimedia (TMM), 2025'
+  status:   '(CCF B)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We first propose a novel text representation method based on robust subspace recovery, which robustly represents complex text shapes by combining orthogonal basis vectors learned from labeled text contours. These basis vectors capture basis contour patterns with distinct information, enabling clearer boundaries even in densely populated text scenarios. Moreover, we propose a dynamic sparse assignment scheme for positive samples that adaptively adjusts their weights during training, which not only accelerates inference speed by eliminating redundant predictions but also enhances feature learning by providing sufficient supervision signals. Building on these innovations, we present TextRSR, an accurate and efficient scene text detection network.'
+  tags:
+    #- name: 'site'
+    #  url:  'https://doi.org/10.1016/j.patcog.2025.111904'
+      
 - title: 'MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/shao2025mol.png'
