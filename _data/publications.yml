@@ -168,6 +168,33 @@
     - name: 'code'
       url:  'https://github.com/ZhiwenShao/AC2D'
 
+- title: 'Historical Object-Aware Prompt Learning for Universal Hyperspectral Object Tracking'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/zhang2025historical.jpg'
+  selected: true
+  authors:
+    - name: Lu Zhang
+      url:  false
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'      
+    - name: Yuhong Zhang
+      url:  false
+    - name: Yong Zhou
+      url:  false
+    - name: Fuyuan Hu
+      url:  false
+    - name: Jiaqi Zhao
+      url:  false  
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'     
+  publisher:  'ACM TOMM, 2025'
+  status:   '(CCF B)'
+  #place:   'in San Diego, USA'
+  desc: 'We propose a Historical Object-aware Prompt Learning (HOPL) method for universal hyperspectral object tracking. Initially, we transform hyperspectral image (N bands) into multiple sets of 3 bands with different combinations and feed them into a backbone network to generate base features. Subsequently, we introduce a historical object-aware prompter, where historical object-aware images are input to generate prompt features that enhance the representation of object information when combined with base features. Additionally, we design a band information fusion module to integrate the multiple sets of base features. By introducing historical object-aware prompts, HOPL significantly enhances tracking performance without retraining the backbone network.'
+  tags:
+    - name: 'site'
+      url:  'https://dl.acm.org/doi/10.1145/3736581'
+      
 - title: 'Image Cropping with Content and Composition Attribute-aware Global Relation Reasoning'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/zhu2025image.png'
