@@ -290,6 +290,29 @@
   tags:
     - name: 'site'
       url:  'https://ieeexplore.ieee.org/document/10798510'
+
+- title: 'UTCR-Dehaze: U-Net and transformer-based cycle-consistent generative adversarial network for unpaired remote sensing image dehazing'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/li2025utcr.png'
+  selected: false
+  authors:
+    - name: Canlin Li
+      url:  false
+    - name: Xiangfei Zhang
+      url:  false
+    - name: Hua Wang
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'    
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people' 
+  publisher:  'Engineering Applications of Artificial Intelligence (EAAI), 2025'
+  status:   '(CCF C)'
+  #place:   'in San Diego, USA'
+  desc: 'Considering that paired hazy images are difficult to obtain, a cycle-consistent generative adversarial network (CycleGAN) is used to achieve remote sensing image dehazing. Due to the multi-scale features of remote sensing images, U-Net is combined with Transformer as the generator of CycleGAN. The generator learns the relationship between low-frequency and high-frequency features of the image at multiple scales. The U-Net encoder–decoder processes the high-frequency features, and the transformer at the bottleneck of U-Net learns the low-frequency feature relationship to restore image details and structures. Secondly, to further improve the details and clarity of dehazed images, a Mixed Cascade Group Attention module (MCGA) is designed. MCGA captures the global information of the image through cascade group attention and focuses on local information through Dehaze input-dependent depthwise convolution, thus better learning image features. In addition, to reduce feature loss and color differences in dehazed images, a Cycle Perceptual Identity Consistency Loss is designed, which combines perceptual and identity losses to maintain the details of input images through cycle consistency.'
+  tags:  
+    - name: 'site'
+      url:  'https://doi.org/10.1016/j.engappai.2025.111385'      
     
 - title: 'Symmetric Perception and Ordinal Regression for Detecting Scoliosis Natural Image'
   #date:  'Jul. 2020'
