@@ -417,7 +417,7 @@
     - name: Chuandong Lang
       url:  false
   publisher:  'Alexandria Engineering Journal (AEJ), 2025'
-  status:   '(SCI Q2)'
+  status:   '(JCR Q1)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose a multi-grained scoliosis detection framework by jointly estimating severity level and Cobb angle level of scoliosis from a natural image instead of a radiographic image, which has not been explored before. Specifically, we regard scoliosis estimation as an ordinal regression problem, and transform it into a series of binary classification sub-problems. Besides, we adopt the visual attention network with large kernel attention as the backbone for feature learning, which can model local and global correlations with efficient computations. The feature learning and the ordinal regression is put into an end-to-end framework, in which the two tasks of scoliosis severity level estimation and scoliosis angle level estimation are jointly learned and can contribute to each other.'
   tags:
@@ -637,7 +637,7 @@
     - name: Hancheng Zhu
       url:  'https://zhuhancheng.github.io/'     
   publisher:  'Image Analysis & Stereology (IAS), 2024'
-  status:   '(SCI Q4)'
+  status:   '(JCR Q3)'
   #place:   'in Ottawa, Canada'
   desc: 'We address these two critical issues by introducing a novel RGBT tracking framework centered on multimodal hierarchical relationship modeling.  Through the incorporation of multiple Transformer encoders and the deployment of self-attention mechanisms, we progressively aggregate and fuse multimodal image features at various stages of image feature learning.  Throughout the process of multimodal interaction within the network, we employ a dynamic component feature fusion module at the patch-level to dynamically assess the relevance of visible information within each region of the tracking scene.'
   tags:
@@ -810,7 +810,7 @@
     - name: Yanning Zhang
       url:  false      
   publisher:  'Displays, 2023'
-  status:   '(SCI Q2)'
+  status:   '(JCR Q2)'
   #place:   'in Ottawa, Canada'
   desc: 'This paper presents an unsupervised attack methodology against visual object tracking models. The approach employs the cycle consistency principle of object tracking models to maximize the inconsistency between forward and backward tracking, thereby providing effective countermeasures. Additionally, this paper introduces a contextual attack method, leveraging the information from the attack object’s region and its surrounding contextual regions. This strategy attacks the object region and its surrounding context regions simultaneously, aiming to decrease its response score to the attack. The proposed attack method is assessed across various types of deep learning-based object trackers.'
   tags:
@@ -837,7 +837,7 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'    
   publisher:  'ACM Transactions on Intelligent Systems and Technology (TIST), 2023'
-  status:   '(SCI Q3)'
+  status:   '(JCR Q1)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose an attention-guided adversarial attack method, which uses spatial attention blocks to capture features with global dependencies to construct correlations between consecutive video frames, and performs multipath aggregation to effectively integrate spatial-temporal perturbation, thereby guiding the deconvolution network to generate adversarial example with strong attack capability. Specifically, the class loss function is designed to enable the deconvolution network to better activate noise in other regions and suppress the activation related to the object class based on the enhanced feature map of the object class. At the same time, attentional feature loss is designed to enhance the transferability against attack.'
   tags:
@@ -1342,7 +1342,7 @@
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'  
   publisher:  'Artificial Intelligence Review, 2022'
-  status:   '(SCI Q2)'
+  status:   '(JCR Q1)'
   #place:   'in San Diego, USA'
   desc: 'We systematically review the current development of incremental learning and give the overall taxonomy of the incremental learning methods. Specifically, three kinds of mainstream methods, i.e., parameter regularization-based approaches, knowledge distillation-based approaches, and dynamic architecture-based approaches, are surveyed, summarized, and discussed in detail. Furthermore, we comprehensively analyze the performance of data-permuted incremental learning, class-incremental learning, and multi-modal incremental learning on widely used datasets, covering a broad of incremental learning scenarios for image classification and semantic segmentation. Lastly, we point out some possible research directions and inspiring suggestions for incremental learning in the field of computer vision.'
   tags:
@@ -1431,7 +1431,7 @@
     - name: Hao Chen
       url:  false
   publisher:  'Electronics, 2022'
-  status:   '(SCI Q4)'
+  status:   '(JCR Q2)'
   #place:   'in London, United Kingdom'
   desc: 'We propose a novel AU recognition method by prior and adaptive attention. Specifically, we predefine a mask for each AU, in which the locations farther away from the AU centers specified by prior knowledge have lower weights. A learnable parameter is adopted to control the importance of different locations. Then, we element-wise multiply the mask by a learnable attention map, and use the new attention map to extract the AU-related feature, in which AU recognition can supervise the adaptive learning of a new attention map.' 
   tags:
@@ -1462,7 +1462,7 @@
     - name: Qiaoyue Li
       url:  false
   publisher:  'Mathematics, 2022'
-  status:   '(SCI Q4)'
+  status:   '(JCR Q1)'
   #place:   'in London, United Kingdom'
   desc: 'This paper proposes a personalized image aesthetics assessment method via multi-attribute interactive reasoning. Different from existing PIAA models, the multi-attribute interaction constructed from both images and users is used as more effective prior knowledge. First, we designed a generic aesthetics extraction module from the perspective of images to obtain the aesthetic score distribution and multiple objective attributes of images rated by most users. Then, we propose a multi-attribute interactive reasoning network from the perspective of users. By interacting multiple subjective attributes of users with multiple objective attributes of images, we fused the obtained multi-attribute interactive features and aesthetic score distribution to predict personalized aesthetic scores.'
   tags:
@@ -1493,7 +1493,7 @@
     - name: Rui Yao
       url:  'https://ruiyao.bitbucket.io/'  
   publisher:  'Electronics, 2022'
-  status:   '(SCI Q4)'
+  status:   '(JCR Q2)'
   #place:   'in London, United Kingdom'
   desc: 'This paper proposes an aspect-ratio-embedded Transformer-based image quality assessment method, which can implant the adaptive aspect ratios of input images into the multihead self-attention module of the Swin Transformer. In this way, the proposed IQA model can not only relieve the variety of perceptual quality caused by size changes in input images but also leverage more global content correlations to infer image perceptual quality. Furthermore, to comprehensively capture the impact of low-level and high-level features on image quality, the proposed IQA model combines the output features of multistage Transformer blocks for jointly inferring image quality.' 
   tags:
@@ -1547,7 +1547,7 @@
     - name: Lizhuang Ma*
       url:  'http://dmcv.sjtu.edu.cn/people'  
   publisher:  'IEEE Multimedia (MM), 2021'
-  status:   '(SCI Q2)'
+  status:   '(JCR Q2)'
   #place:   'in London, United Kingdom'
   desc: 'We propose an end-to-end expression-guided generative adversarial network (EGGAN), which synthesizes an image with expected expression given continuous expression label and structured latent code. In particular, an adversarial autoencoder is used to translate a source image into a structured latent space. The encoded latent code and the target expression label are input to a conditional GAN to synthesize an image with the target expression. Moreover, a perceptual loss and a multi-scale structural similarity loss are introduced to preserve facial identity and global shape during expression manipulation.'
   tags:
