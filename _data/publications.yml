@@ -1,3 +1,26 @@
+- title: 'Self-Similarity Guided Regression with Contrast Enhancement for Spine Segmentation'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/zhu2025self.png'
+  selected: false
+  authors:
+    - name: Xiaojia Zhu
+      url:  false
+    - name: Chunyu Li
+      url:  false
+    - name: Rui Chen
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+  publisher:  'Visual Informatics (VISINF), 2025'
+  status:   '(JCR Q1)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose SRNet, a pure segmentation network that produces binary masks of each vertebra. SRNet integrates two novel components, a Self-similarity Guided Dynamic Convolution (SGDC) module and a Contrast-Enhanced Boundary Decoder (CEBD). SGDC exploits the repetitive structure of vertebrae by leveraging non-local attention to compute self-similarity across feature maps and dynamic convolution to combine multiple convolution kernels adaptively. CEBD sharpens segmentation boundaries via a reverse-attention mechanism that erases the coarse prediction and focuses on missing edge details, combined with a spectral-residual filter that amplifies high-frequency edge information.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2307.13310'
+    - name: 'site'
+      url:  'https://doi.org/10.1016/j.visinf.2025.100268'
+      
 - title: 'TextRSR: Enhanced Arbitrary-Shaped Scene Text Representation via Robust Subspace Recovery'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/shao2025textrsr.png'
