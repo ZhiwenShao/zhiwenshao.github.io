@@ -10,7 +10,7 @@
     - name: Fan Zhang
       url:  false
     - name: Xuehuai Shi
-      url:  false 
+      url:  'https://xuehuai.net/'
     - name: Canlin Li
       url:  'http://www.xuequanlu.com/'
     - name: Lizhuang Ma
@@ -62,7 +62,7 @@
     - name: Hancheng Zhu
       url:  'https://zhuhancheng.github.io/'  
     - name: Xuehuai Shi
-      url:  false   
+      url:  'https://xuehuai.net/'
     - name: Canlin Li
       url:  false 
     - name: Lizhuang Ma
@@ -149,7 +149,7 @@
     - name: Yong Zhou
       url:  false
     - name: Xuehuai Shi
-      url:  false   
+      url:  'https://xuehuai.net/'
     - name: Canlin Li
       url:  false 
     - name: Lizhuang Ma
@@ -174,7 +174,7 @@
     - name: Rui Chen
       url:  false 
     - name: Xuehuai Shi
-      url:  false 
+      url:  'https://xuehuai.net/'
     - name: Bing Liu
       url:  false
     - name: Canlin Li
