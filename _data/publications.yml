@@ -12,7 +12,7 @@
     - name: Xuehuai Shi
       url:  'https://xuehuai.net/'
     - name: Canlin Li
-      url:  'http://www.xuequanlu.com/'
+      url:  false
     - name: Lizhuang Ma
       url:  'http://dmcv.sjtu.edu.cn/people'
     - name: Dit-Yan Yeung
