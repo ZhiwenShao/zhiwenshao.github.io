@@ -1,4 +1,6 @@
 - normal:
+    content:  "<strong>Sept. 2025:</strong> Our paper <strong>Micro-Expression Recognition via Fine-Grained Dynamic Perception</strong> is accepted by <i>ACM TOMM</i>."
+- normal:
     content:  "<strong>July 2025:</strong> Our paper <strong>TextRSR: Enhanced Arbitrary-Shaped Scene Text Representation via Robust Subspace Recovery</strong> is accepted by <i>IEEE TMM</i>."
 - normal:
     content:  "<strong>June 2025:</strong> Our paper <strong>MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution</strong> is accepted by <i>IEEE TPAMI</i>."
