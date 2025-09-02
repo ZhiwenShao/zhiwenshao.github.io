@@ -1,3 +1,32 @@
+- title: 'Micro-Expression Recognition via Fine-Grained Dynamic Perception'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/shao2025micro.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yifan Cheng
+      url:  false
+    - name: Fan Zhang
+      url:  false
+    - name: Xuehuai Shi
+      url:  false 
+    - name: Canlin Li
+      url:  'http://www.xuequanlu.com/'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'
+    - name: Dit-Yan Yeung
+      url:  'https://sites.google.com/view/dyyeung'   
+  publisher:  'ACM TOMM, 2025'
+  status:   '(CCF B)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We develop a novel fine-grained dynamic perception (FDP) framework for MER. We propose to rank frame-level features of a sequence of raw frames in chronological order, in which the rank process encodes the dynamic information of both ME appearances and motions. Specifically, a novel local-global feature-aware transformer is proposed for frame representation learning. A rank scorer is further adopted to calculate rank scores of each frame-level feature. Afterwards, the rank features from rank scorer are pooled in temporal dimension to capture dynamic representation. Finally, the dynamic representation is shared by a MER module and a dynamic image construction module, in which the former predicts the ME category, and the latter uses an encoder-decoder structure to construct the dynamic image. The design of dynamic image construction task is beneficial for capturing facial subtle actions associated with MEs and alleviating the data scarcity issue.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2506.14511'
+    - name: 'code'
+      url:  'https://github.com/CYF-cuber/FDP'
+      
 - title: 'Self-Similarity Guided Regression with Contrast Enhancement for Spine Segmentation'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/zhu2025self.png'
