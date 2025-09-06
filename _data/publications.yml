@@ -516,9 +516,32 @@
   place:   'in Nanjing, China'
   desc: 'We propose a novel micro-action-aware transformer to integrate local and global feature extractions, which effectively captures subtle AU details while maintaining the global relational modeling capacity of transformers. Besides, we jointly train facial AU recognition and facial landmark detection, in which the two correlated tasks contribute to each other and further facilitate the learning of local-global AU-related feature.'
   tags:
-    #- name: 'site'
-    #  url:  'https://dl.acm.org/doi/10.1145/3664647.3681175'
+    - name: 'site'
+      url:  'https://link.springer.com/chapter/10.1007/978-981-96-5084-2_5'
 
+- title: 'Generative Text Prompts for Image Aesthetic Quality Assessment'
+  #date:  'Sept. 2018'
+  imgurl: '/images/projects/2024/shi2024generative.png'
+  selected: false
+  authors:
+    - name: Ju Shi
+      url:  false
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'  
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Leida Li
+      url:  'https://web.xidian.edu.cn/ldli/en/index.html'    
+  publisher:  'CEI 2024'
+  status:   '(EI)'
+  place:   'in Nanjing, China'
+  desc: 'This paper proposes an image aesthetic quality assessment method based on generative text prompts. The proposed method can generate aesthetics-related textual prompts for images that perform multimodal learning. Specifically, we first leverage the Multimodal Large Language Model (MLLM) to generate textual prompts describing the aesthetic aspects of images, which can effectively reflect the aesthetic experience that images bring to users. Secondly, we propose a novel cross-modal fusion strategy to facilitate the feature fusion between the generated text prompts and images, which can produce a multimodal-based image aesthetic quality assessment model even without aesthetic descriptions of images.'
+  tags:
+    - name: 'site'
+      url:  'https://link.springer.com/chapter/10.1007/978-981-96-5084-2_8'
+      
 - title: 'Motion-Aware Self-Supervised RGBT Tracking with Multi-modality Hierarchical Transformers'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/li2024motion.png'
