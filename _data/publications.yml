@@ -24,9 +24,12 @@
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/2506.14511'
+    - name: 'site'
+      url:  'https://dl.acm.org/doi/10.1145/3765901'
     - name: 'code'
       url:  'https://github.com/CYF-cuber/FDP'
-      
+
+
 - title: 'Self-Similarity Guided Regression with Contrast Enhancement for Spine Segmentation'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/zhu2025self.png'
@@ -999,8 +1002,8 @@
   tags:
     #- name: 'arXiv'
     #  url:  'https://arxiv.org/abs/1803.05588'
-    #- name: 'pdf'
-    #  url:  'https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Show_Deconfound_and_Tell_Image_Captioning_With_Causal_Inference_CVPR_2022_paper.pdf'
+    - name: 'pdf'
+      url:  'https://openaccess.thecvf.com/content/CVPR2023/papers/de_Silva_Edirimuni_IterativePFN_True_Iterative_Point_Cloud_Filtering_CVPR_2023_paper.pdf'
     #- name: 'code'
     #  url:  'https://github.com/ZhiwenShao/JAANet'
     #- name: 'site'
