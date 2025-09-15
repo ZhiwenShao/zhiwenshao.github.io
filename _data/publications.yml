@@ -22,10 +22,10 @@
   #place:   'in Ottawa, Canada'
   desc: 'We develop a novel fine-grained dynamic perception (FDP) framework for MER. We propose to rank frame-level features of a sequence of raw frames in chronological order, in which the rank process encodes the dynamic information of both ME appearances and motions. Specifically, a novel local-global feature-aware transformer is proposed for frame representation learning. A rank scorer is further adopted to calculate rank scores of each frame-level feature. Afterwards, the rank features from rank scorer are pooled in temporal dimension to capture dynamic representation. Finally, the dynamic representation is shared by a MER module and a dynamic image construction module, in which the former predicts the ME category, and the latter uses an encoder-decoder structure to construct the dynamic image. The design of dynamic image construction task is beneficial for capturing facial subtle actions associated with MEs and alleviating the data scarcity issue.'
   tags:
-    #- name: 'arXiv'
-    #  url:  'https://arxiv.org/abs/2506.14511'
-    - name: 'site'
-      url:  'https://dl.acm.org/doi/10.1145/3765901'
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2509.06015'
+    #- name: 'site'
+    #  url:  'https://dl.acm.org/doi/10.1145/3765901'
     - name: 'code'
       url:  'https://github.com/CYF-cuber/FDP'
 
