@@ -1,3 +1,28 @@
+- title: 'CurvNet: Latent Contour Representation and Iterative Data Engine for Curvature Angle Estimation'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/shao2025curvnet.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yichen Yuan
+      url:  false
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'   
+    - name: Xiaojia Zhu
+      url:  false
+  publisher:  'Pattern Recognition (PR), 2025'
+  status:   '(CCF B)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose a novel curvature angle estimation framework named CurvNet including latent contour representation based contour detection and iterative data engine based image self-generation. Specifically, we propose a parameterized spine contour representation in latent space, which enables eigen-spine decomposition and spine contour reconstruction. Latent contour coefficient regression is combined with anchor box classification to solve inaccurate predictions and mask connectivity issues. Moreover, we develop a data engine with image self-generation, automatic annotation, and automatic selection in an iterative manner. By our data engine, we generate a clean dataset named Spinal-AI2024 without privacy leaks, which is the largest released scoliosis X-ray dataset to our knowledge.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2411.12604'
+    #- name: 'site'
+    #  url:  'https://dl.acm.org/doi/10.1145/3765901'
+    - name: 'code'
+      url:  'https://github.com/Ernestchenchen/CurvNet'
+      
 - title: 'Micro-Expression Recognition via Fine-Grained Dynamic Perception'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/shao2025micro.png'
