@@ -24,8 +24,8 @@
   tags:
     #- name: 'arXiv'
     # url:  'https://arxiv.org/abs/2509.06015'
-    #- name: 'site'
-    #  url:  'https://dl.acm.org/doi/10.1145/3765901'
+    - name: 'site'
+      url:  'http://dx.doi.org/10.1145/3783994'
     #- name: 'code'
     #  url:  'https://github.com/CYF-cuber/FDP'
       
