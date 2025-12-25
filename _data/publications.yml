@@ -27,7 +27,7 @@
   selected: true
   authors:
     - name: Xuehuai Shi
-      url:  false
+      url:  'https://xuehuai.net/'
     - name: Yuhan Duan
       url:  false
     - name: Ziteng Wang
@@ -603,7 +603,7 @@
   selected: true
   authors:
     - name: Xuehuai Shi
-      url:  false
+      url:  'https://xuehuai.net/'
     - name: Lili Wang
       url:  'https://liliwang.net/'      
     - name: Xinda Liu
