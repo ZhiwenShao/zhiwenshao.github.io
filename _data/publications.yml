@@ -1,3 +1,26 @@
+- title: 'SU-SAM: A Simple Unified Framework for Adapting SAM in Underperformed Scene'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/song2025susam.png'
+  selected: false
+  authors:
+    - name: Yiran Song
+      url:  false
+    - name: Qianyu Zhou
+      url:  'https://qianyuzqy.github.io/'
+    - name: Xuequan Lu
+      url:  'http://www.xuequanlu.com/' 
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'    
+  publisher:  'ICME 2025'
+  status:   '(CCF B)'
+  place:   'in Nantes, France'
+  desc: 'We propose SU-SAM, a simple and unified framework that adapts SAM efficiently without task-specific designs, improving its adaptability to underperforming scenes. SU-SAM abstracts parameter-efficient modules into basic design elements, offering four variants: series, parallel, mixed, and LoRA structures.'
+  tags:  
+    - name: 'site'
+      url:  'https://ieeexplore.ieee.org/document/11209423'
+      
 - title: 'MOA: Efficient Scene-Aware Multi-object Arrangement in VR'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/shi2025moa.png'
@@ -21,7 +44,7 @@
   status:   '(CCF A)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose an efficient, scene-aware multi-object arrangement method (MOA) designed for fast, precise, and convenient object arrangement. First, MOA introduces an importance-driven multi-object initial selection algorithm that assigns higher spatiotemporally correlated object importance (IMP) to target objects, establishing a natural multi-object initial selection mode that enables quick and accurate selection of high-IMP objects. Subsequently, it presents an auxiliary-structure-guided multi-object manipulation algorithm that constructs an auxiliary manipulation structure to assist subsequent multi-object manipulation, alongside a multi-modal interaction mode that facilitates swift and natural manipulation.'
-tags:
+  tags:
     - name: 'site'
       url:  'https://ieeexplore.ieee.org/document/11267119'
       
