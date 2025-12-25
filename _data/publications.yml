@@ -252,6 +252,37 @@
     - name: 'code'
       url:  'https://github.com/RuiChen-stack/M2SD'
 
+- title: 'Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/li2025modality.png'
+  selected: true
+  authors:
+    - name: Shenglan Li
+      url:  false
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'      
+    - name: Yong Zhou
+      url:  false
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'
+    - name: Kunyang Sun
+      url:  false  
+    - name: Bing Liu
+      url:  false
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/' 
+    - name: Jiaqi Zhao
+      url:  false  
+  publisher:  'IJCAI 2025'
+  status:   '(CCF A)'
+  place:   'in Montreal, Canada'
+  desc: 'We propose GDSTrack, a novel approach that introduces dynamic graph fusion and temporal diffusion to address the above challenges in self-supervised RGB-T tracking. GDSTrack dynamically fuses the modalities of neighboring frames, treats them as distractor noise, and leverages the denoising capability of a generative model. Specifically, by constructing an adjacency matrix via an Adjacency Matrix Generator (AMG), the proposed Modality-guided Dynamic Graph Fusion (MDGF) module uses a dynamic adjacency matrix to guide graph attention, focusing on and fusing the object’s coherent regions. Temporal Graph-Informed Diffusion (TGID) models MDGF features from neighboring frames as interference, and thus improving robustness against similar-object noise.'
+  tags:
+    - name: 'site'
+      url:  'https://doi.org/10.24963/ijcai.2025/159'
+    - name: 'code'
+      url:  'https://github.com/LiShenglana/GDSTrack'  
+      
 - title: 'Progressively Generated Text-Assisted Image Aesthetic Quality Assessment'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/zhu2025progressively.png'
@@ -276,7 +307,7 @@
   tags:
     - name: 'site'
       url:  'https://ieeexplore.ieee.org/document/10981607'
-      
+          
 - title: 'Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/shao2024facial.png'
