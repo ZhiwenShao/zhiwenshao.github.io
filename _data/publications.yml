@@ -510,7 +510,7 @@
     - name: 'site'
       url:  'https://ieeexplore.ieee.org/document/10798510'
 
-- title: 'UTCR-Dehaze: U-Net and transformer-based cycle-consistent generative adversarial network for unpaired remote sensing image dehazing'
+- title: 'UTCR-Dehaze: U-Net and Transformer-Based Cycle-Consistent Generative Adversarial Network for Unpaired Remote Sensing Image Dehazing'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/li2025utcr.png'
   selected: false
