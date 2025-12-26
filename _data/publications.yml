@@ -830,7 +830,7 @@
   desc: 'By introducing causal inference theory, we propose an unbiased AU recognition method CIU (Causal Intervention for Unbiased facial action unit recognition), which adjusts the empirical risks in both the imbalanced and balanced but invisible domains to achieve model unbiasedness.'
   tags:  
     - name: 'site'
-      url:  'https://www.ejournal.org.cn/EN/10.12263/DZXB.20240279'      
+      url:  'https://dx.doi.org/10.12263/DZXB.20240279'
       
 - title: 'Joint Facial Action Unit Recognition and Self-Supervised Optical Flow Estimation'
   #date:  'Jul. 2018'
@@ -1407,7 +1407,7 @@
   desc: 'Expression action unit (AU) recognition based on deep learning is a hot topic in the fields of computer vision and affective computing. Each AU describes a facial local expression action, and the combinations of AUs can quantitatively represent any expression. Current AU recognition mainly faces three challenging factors: scarcity of labels, difficulty of feature capture, and imbalance of labels. On the basis of this, this paper categorizes the existing researches into transfer learning based, region learning based, and relation learning based methods, and comments and summarizes each category of representative methods. Finally, this paper compares and analyzes different methods, and further discusses the future research directions of AU recognition.'
   tags:  
     - name: 'site'
-      url:  'https://www.ejournal.org.cn/EN/Y2022/V50/I8/2003'
+      url:  'https://dx.doi.org/10.12263/DZXB.20210639'
     
 - title: 'Unconstrained Facial Action Unit Detection via Latent Feature Domain'
   #date:  'Jul. 2018'
