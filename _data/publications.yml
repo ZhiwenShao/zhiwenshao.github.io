@@ -597,6 +597,31 @@
     - name: 'code'
       url:  'https://github.com/RuiChen-stack/MGScoliosis'
 
+- title: 'Image Enhancement via Content Semantic-Aware Multimodal Fusion'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/zhu2025image.png'
+  selected: true
+  authors:
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'  
+    - name: Xinyu Liu
+      url:  false
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'  
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yong Zhou
+      url:  false
+    - name: Leida Li
+      url:  'https://web.xidian.edu.cn/ldli/en/index.html'    
+  publisher:  'Acta Electronica Sinica, 2025'
+  status:   '(CCF Chinese A)'
+  #place:   'in San Diego, USA'
+  desc: 'This paper proposes an image enhancement method based on content-aware multimodal fusion, which supplements image features by incorporating text features that describe the semantic perception of image content. By fusing features from both image and text modalities, the proposed approach captures multimodal content-aware semantics, enabling fine-grained adjustments tailored to different image content. Firstly, a multimodal large language model is employed to extract textual descriptions of image content, which are then used for multimodal prompt learning to guide the understanding of the image content. This method enables the model to leverage content-based text prompts for auxiliary image enhancement. Then, an attention mechanism is then applied to effectively integrate and fuse the textual and image features into a unified multimodal representation. Finally, this representation is used to construct a curve-mapping function, enabling content-specific image adjustments and enhancements.'
+  tags:  
+    - name: 'site'
+      url:  'https://dx.doi.org/10.12263/DZXB.20241088'
+      
 - title: 'Scene-Aware Foveated Neural Radiance Fields'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2024/shi2024scene.png'
@@ -650,6 +675,29 @@
       url:  'https://link.springer.com/article/10.1007/s00371-024-03676-w'
     - name: 'code'
       url:  'https://github.com/CYF-cuber/HLoRA_MER_dinov2'   
+
+- title: 'Small Object Detection in Drone Images via Foreground Refinement and Multidimensional Inductive Bias'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/feng2025small.png'
+  selected: false
+  authors:
+    - name: Qihan Feng
+      url:  false
+    - name: Zhixiao Wang
+      url:  false
+    - name: Chengcheng Sun
+      url:  false  
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+  publisher:  'Journal of Image and Graphics, 2025'
+  status:   '(CCF Chinese B)'
+  #place:   'in Ottawa, Canada'
+  desc: 'This paper proposes a small object detection model for drone images that integrates foreground refinement and multi-dimensional inductive bias self-attention. A foreground refinement module is designed to extract foreground regions using a category-agnostic multi-layer co-saliency mapping method, and a conditional diffusion model generates refined foreground images, reducing resource consumption while improving small object detection performance. A multi-dimensional inductive bias self-attention network is proposed, incorporating multi-dimensional self-attention modules, inductive bias-aware paths, hybrid-enhanced feedforward modules, scale-coupling modules, and neighborhood feature interaction modules to enhance local feature encoding, avoid feature separation, adapt to object scale diversity, and ensure predicted feature maps retain small object information.'
+  tags:
+    #- name: 'arXiv'
+    #  url:  'https://arxiv.org/abs/2307.13310'
+    - name: 'site'
+      url:  'https://dx.doi.org/10.11834/jig.250017'  
       
 - title: 'Facial Action Unit Recognition with Micro-Action-Aware Transformer'
   #date:  'Sept. 2018'
