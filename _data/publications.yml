@@ -1749,7 +1749,7 @@
 - title: 'Explicit Facial Expression Transfer via Fine-Grained Representations'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2021/shao2021explicit.png'
-  selected: true
+  selected: false
   authors:
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
@@ -1803,7 +1803,7 @@
 - title: 'JÂA-Net: Joint Facial Action Unit Detection and Face Alignment via Adaptive Attention'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2020/shao2020jaa.png'
-  selected: true
+  selected: false
   authors:
     - name: <strong>Zhiwen Shao</strong>
       url:  'https://zhiwenshao.github.io/'
