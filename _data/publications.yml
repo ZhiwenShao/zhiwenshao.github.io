@@ -183,8 +183,8 @@
   #place:   'in Ottawa, Canada'
   desc: 'We first propose a novel text representation method based on robust subspace recovery, which robustly represents complex text shapes by combining orthogonal basis vectors learned from labeled text contours. These basis vectors capture basis contour patterns with distinct information, enabling clearer boundaries even in densely populated text scenarios. Moreover, we propose a dynamic sparse assignment scheme for positive samples that adaptively adjusts their weights during training, which not only accelerates inference speed by eliminating redundant predictions but also enhances feature learning by providing sufficient supervision signals. Building on these innovations, we present TextRSR, an accurate and efficient scene text detection network.'
   tags:
-    #- name: 'site'
-    #  url:  'https://doi.org/10.1016/j.patcog.2025.111904'
+    - name: 'site'
+      url:  'https://doi.org/10.1109/TMM.2026.3651034'
       
 - title: 'MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution'
   #date:  'Jul. 2018'
