@@ -3,17 +3,17 @@
   desc:  "Interdisciplinary Fields of Computer Vision"
   host:  false
   brief: true
-- date:  "Jan. 2023 - Dec. 2025"
-  title: "Tenured Associate Professor @ CUMT"
-  desc:  "Interdisciplinary Fields of Computer Vision"
-  host:  false
-  brief: true
 - date:  "Jan. 2024 - Dec. 2025"
   title: "Postdoctoral Fellow @ HKUST"
   desc:  "Vision Based Weather Forecasting"
   host:
     name: "<a href='https://sites.google.com/view/dyyeung'>Prof. Dit-Yan Yeung</a>"
     role: "Advisor"
+  brief: true  
+- date:  "Jan. 2023 - Dec. 2025"
+  title: "Tenured Associate Professor @ CUMT"
+  desc:  "Interdisciplinary Fields of Computer Vision"
+  host:  false
   brief: true  
 - date:  "Dec. 2022 -"
   title: "Postdoctoral Fellow @ SJTU"
