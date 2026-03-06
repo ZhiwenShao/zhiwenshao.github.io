@@ -1,3 +1,113 @@
+- title: 'TextRSR: Enhanced Arbitrary-Shaped Scene Text Representation via Robust Subspace Recovery'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/shao2025textrsr.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Shengtian Jiang
+      url:  false
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'  
+    - name: Xuehuai Shi
+      url:  'https://xuehuai.net/'
+    - name: Canlin Li
+      url:  false 
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'   
+    - name: Dit-Yan Yeung
+      url:  'https://sites.google.com/view/dyyeung' 
+  publisher:  'IEEE Transactions on Multimedia (TMM), 2026'
+  status:   '(CCF A)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We first propose a novel text representation method based on robust subspace recovery, which robustly represents complex text shapes by combining orthogonal basis vectors learned from labeled text contours. These basis vectors capture basis contour patterns with distinct information, enabling clearer boundaries even in densely populated text scenarios. Moreover, we propose a dynamic sparse assignment scheme for positive samples that adaptively adjusts their weights during training, which not only accelerates inference speed by eliminating redundant predictions but also enhances feature learning by providing sufficient supervision signals. Building on these innovations, we present TextRSR, an accurate and efficient scene text detection network.'
+  tags:
+    - name: 'site'
+      url:  'https://doi.org/10.1109/TMM.2026.3651034'
+      
+- title: 'Spatio-Temporal Disentanglement and Constrained Self-Attention for Multi-Modal Deception Detection'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/shao2025spatio.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Hang Yang
+      url:  false
+    - name: Hancheng Zhu
+      url:  'https://zhuhancheng.github.io/'
+    - name: Rui Yao
+      url:  'https://ruiyao.bitbucket.io/'
+    - name: Lixin Zou
+      url:  'https://www.zoulixin.site/'
+    - name: Mengtian Li
+      url:  'https://mengtianli.github.io/'
+    - name: Bin Sheng
+      url:  'https://www.cs.sjtu.edu.cn/jiaoshiml/shengbin.html'   
+  publisher:  'ACM TOMM, 2026'
+  status:   '(CCF B)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose a Spatio-Temporal Representation Disentanglement (STRD) framework for multi-modal deception detection, which uses a dual-encoder structure to learn spatial and temporal representations for each modality. Specifically, we introduce a pre-trained foundation model to act as the spatial encoder and design a lightweight network as the temporal encoder, extracting spatial semantics and capturing dynamic temporal patterns. Then, we propose a Constrained Self-Attention Block (CSAB), in which self-attention distribution of each head is regarded as spatial distribution and is constrained to attend a certain facial local region. Furthermore, we present a Cross-modal Correlation Fusion Block (CCFB) to achieve temporal synchronization across modalities by measuring the correlations between visual and audio features.'
+  tags:
+    #- name: 'arXiv'
+    # url:  'https://arxiv.org/abs/2509.06015'
+    - name: 'site'
+      url:  'http://dx.doi.org/10.1145/3783994'
+    #- name: 'code'
+    #  url:  'https://github.com/CYF-cuber/FDP'
+      
+- title: 'CurvNet: Latent Contour Representation and Iterative Data Engine for Curvature Angle Estimation'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/shao2025curvnet.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Yichen Yuan
+      url:  false
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'   
+    - name: Xiaojia Zhu
+      url:  false
+  publisher:  'Pattern Recognition (PR), 2026'
+  status:   '(CCF B)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose a novel curvature angle estimation framework named CurvNet including latent contour representation based contour detection and iterative data engine based image self-generation. Specifically, we propose a parameterized spine contour representation in latent space, which enables eigen-spine decomposition and spine contour reconstruction. Latent contour coefficient regression is combined with anchor box classification to solve inaccurate predictions and mask connectivity issues. Moreover, we develop a data engine with image self-generation, automatic annotation, and automatic selection in an iterative manner. By our data engine, we generate a clean dataset named Spinal-AI2024 without privacy leaks, which is the largest released scoliosis X-ray dataset to our knowledge.'
+  tags:
+    - name: 'arXiv'
+      url:  'https://arxiv.org/abs/2411.12604'
+    #- name: 'site'
+    #  url:  'https://dl.acm.org/doi/10.1145/3765901'
+    - name: 'code'
+      url:  'https://github.com/Ernestchenchen/CurvNet'
+
+- title: 'Constrained and Directional Ensemble Attention for Facial Action Unit Detection'
+  #date:  'Jul. 2018'
+  imgurl: '/images/projects/2025/shao2025constrained.png'
+  selected: true
+  authors:
+    - name: <strong>Zhiwen Shao</strong>
+      url:  'https://zhiwenshao.github.io/'
+    - name: Bikuan Chen
+      url:  false
+    - name: Yong Zhou
+      url:  false
+    - name: Xuehuai Shi
+      url:  'https://xuehuai.net/'
+    - name: Canlin Li
+      url:  false 
+    - name: Lizhuang Ma
+      url:  'http://dmcv.sjtu.edu.cn/people'   
+    - name: Dit-Yan Yeung
+      url:  'https://sites.google.com/view/dyyeung' 
+  publisher:  'Pattern Recognition (PR), 2026'
+  status:   '(CCF B)'
+  #place:   'in Ottawa, Canada'
+  desc: 'We propose a local self-attention constraining (LSC) network, by regarding the self-attention distribution of each AU as a spatial distribution, and constraining it based on prior knowledge so as to capture AU-related local information. Moreover, to learn correlations among different AU regions, we propose a global dual-directional attention (GDA) network, which adaptively learns global attention map from both vertical and horizontal directions. Last but not least, the two networks from different views of capturing patterns are assembled to integrate both advantages.'
+  tags:
+    - name: 'site'
+      url:  'https://doi.org/10.1016/j.patcog.2025.111904'     
+      
 - title: 'SU-SAM: A Simple Unified Framework for Adapting SAM in Underperformed Scene'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/song2025susam.png'
@@ -47,62 +157,7 @@
   tags:
     - name: 'site'
       url:  'https://ieeexplore.ieee.org/document/11267119'
-      
-- title: 'Spatio-Temporal Disentanglement and Constrained Self-Attention for Multi-Modal Deception Detection'
-  #date:  'Jul. 2018'
-  imgurl: '/images/projects/2025/shao2025spatio.png'
-  selected: true
-  authors:
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/'
-    - name: Hang Yang
-      url:  false
-    - name: Hancheng Zhu
-      url:  'https://zhuhancheng.github.io/'
-    - name: Rui Yao
-      url:  'https://ruiyao.bitbucket.io/'
-    - name: Lixin Zou
-      url:  'https://www.zoulixin.site/'
-    - name: Mengtian Li
-      url:  'https://mengtianli.github.io/'
-    - name: Bin Sheng
-      url:  'https://www.cs.sjtu.edu.cn/jiaoshiml/shengbin.html'   
-  publisher:  'ACM TOMM, 2025'
-  status:   '(CCF B)'
-  #place:   'in Ottawa, Canada'
-  desc: 'We propose a Spatio-Temporal Representation Disentanglement (STRD) framework for multi-modal deception detection, which uses a dual-encoder structure to learn spatial and temporal representations for each modality. Specifically, we introduce a pre-trained foundation model to act as the spatial encoder and design a lightweight network as the temporal encoder, extracting spatial semantics and capturing dynamic temporal patterns. Then, we propose a Constrained Self-Attention Block (CSAB), in which self-attention distribution of each head is regarded as spatial distribution and is constrained to attend a certain facial local region. Furthermore, we present a Cross-modal Correlation Fusion Block (CCFB) to achieve temporal synchronization across modalities by measuring the correlations between visual and audio features.'
-  tags:
-    #- name: 'arXiv'
-    # url:  'https://arxiv.org/abs/2509.06015'
-    - name: 'site'
-      url:  'http://dx.doi.org/10.1145/3783994'
-    #- name: 'code'
-    #  url:  'https://github.com/CYF-cuber/FDP'
-      
-- title: 'CurvNet: Latent Contour Representation and Iterative Data Engine for Curvature Angle Estimation'
-  #date:  'Jul. 2018'
-  imgurl: '/images/projects/2025/shao2025curvnet.png'
-  selected: true
-  authors:
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/'
-    - name: Yichen Yuan
-      url:  false
-    - name: Lizhuang Ma
-      url:  'http://dmcv.sjtu.edu.cn/people'   
-    - name: Xiaojia Zhu
-      url:  false
-  publisher:  'Pattern Recognition (PR), 2025'
-  status:   '(CCF B)'
-  #place:   'in Ottawa, Canada'
-  desc: 'We propose a novel curvature angle estimation framework named CurvNet including latent contour representation based contour detection and iterative data engine based image self-generation. Specifically, we propose a parameterized spine contour representation in latent space, which enables eigen-spine decomposition and spine contour reconstruction. Latent contour coefficient regression is combined with anchor box classification to solve inaccurate predictions and mask connectivity issues. Moreover, we develop a data engine with image self-generation, automatic annotation, and automatic selection in an iterative manner. By our data engine, we generate a clean dataset named Spinal-AI2024 without privacy leaks, which is the largest released scoliosis X-ray dataset to our knowledge.'
-  tags:
-    - name: 'arXiv'
-      url:  'https://arxiv.org/abs/2411.12604'
-    #- name: 'site'
-    #  url:  'https://dl.acm.org/doi/10.1145/3765901'
-    - name: 'code'
-      url:  'https://github.com/Ernestchenchen/CurvNet'
+
       
 - title: 'Micro-Expression Recognition via Fine-Grained Dynamic Perception'
   #date:  'Jul. 2018'
@@ -150,7 +205,7 @@
     - name: <strong>Zhiwen Shao*</strong>
       url:  'https://zhiwenshao.github.io/'
   publisher:  'Visual Informatics (VISINF), 2025'
-  status:   '(JCR Q1)'
+  status:   '(CCF C)'
   #place:   'in Ottawa, Canada'
   desc: 'We propose SRNet, a pure segmentation network that produces binary masks of each vertebra. SRNet integrates two novel components, a Self-similarity Guided Dynamic Convolution (SGDC) module and a Contrast-Enhanced Boundary Decoder (CEBD). SGDC exploits the repetitive structure of vertebrae by leveraging non-local attention to compute self-similarity across feature maps and dynamic convolution to combine multiple convolution kernels adaptively. CEBD sharpens segmentation boundaries via a reverse-attention mechanism that erases the coarse prediction and focuses on missing edge details, combined with a spectral-residual filter that amplifies high-frequency edge information.'
   tags:
@@ -159,32 +214,6 @@
     - name: 'site'
       url:  'https://doi.org/10.1016/j.visinf.2025.100268'
       
-- title: 'TextRSR: Enhanced Arbitrary-Shaped Scene Text Representation via Robust Subspace Recovery'
-  #date:  'Jul. 2018'
-  imgurl: '/images/projects/2025/shao2025textrsr.png'
-  selected: true
-  authors:
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/'
-    - name: Shengtian Jiang
-      url:  false
-    - name: Hancheng Zhu
-      url:  'https://zhuhancheng.github.io/'  
-    - name: Xuehuai Shi
-      url:  'https://xuehuai.net/'
-    - name: Canlin Li
-      url:  false 
-    - name: Lizhuang Ma
-      url:  'http://dmcv.sjtu.edu.cn/people'   
-    - name: Dit-Yan Yeung
-      url:  'https://sites.google.com/view/dyyeung' 
-  publisher:  'IEEE Transactions on Multimedia (TMM), 2025'
-  status:   '(CCF B)'
-  #place:   'in Ottawa, Canada'
-  desc: 'We first propose a novel text representation method based on robust subspace recovery, which robustly represents complex text shapes by combining orthogonal basis vectors learned from labeled text contours. These basis vectors capture basis contour patterns with distinct information, enabling clearer boundaries even in densely populated text scenarios. Moreover, we propose a dynamic sparse assignment scheme for positive samples that adaptively adjusts their weights during training, which not only accelerates inference speed by eliminating redundant predictions but also enhances feature learning by providing sufficient supervision signals. Building on these innovations, we present TextRSR, an accurate and efficient scene text detection network.'
-  tags:
-    - name: 'site'
-      url:  'https://doi.org/10.1109/TMM.2026.3651034'
       
 - title: 'MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution'
   #date:  'Jul. 2018'
@@ -246,32 +275,6 @@
     #- name: 'site'
     #  url:  'https://dl.acm.org/doi/abs/10.1007/978-3-030-61864-3_15'
       
-- title: 'Constrained and Directional Ensemble Attention for Facial Action Unit Detection'
-  #date:  'Jul. 2018'
-  imgurl: '/images/projects/2025/shao2025constrained.png'
-  selected: true
-  authors:
-    - name: <strong>Zhiwen Shao</strong>
-      url:  'https://zhiwenshao.github.io/'
-    - name: Bikuan Chen
-      url:  false
-    - name: Yong Zhou
-      url:  false
-    - name: Xuehuai Shi
-      url:  'https://xuehuai.net/'
-    - name: Canlin Li
-      url:  false 
-    - name: Lizhuang Ma
-      url:  'http://dmcv.sjtu.edu.cn/people'   
-    - name: Dit-Yan Yeung
-      url:  'https://sites.google.com/view/dyyeung' 
-  publisher:  'Pattern Recognition (PR), 2025'
-  status:   '(CCF B)'
-  #place:   'in Ottawa, Canada'
-  desc: 'We propose a local self-attention constraining (LSC) network, by regarding the self-attention distribution of each AU as a spatial distribution, and constraining it based on prior knowledge so as to capture AU-related local information. Moreover, to learn correlations among different AU regions, we propose a global dual-directional attention (GDA) network, which adaptively learns global attention map from both vertical and horizontal directions. Last but not least, the two networks from different views of capturing patterns are assembled to integrate both advantages.'
-  tags:
-    - name: 'site'
-      url:  'https://doi.org/10.1016/j.patcog.2025.111904'
     
 - title: 'Mirror Detection via Multi-Directional Similarity Perception and Spectral Saliency Enhancement'
   #date:  'Jul. 2018'
