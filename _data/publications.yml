@@ -308,7 +308,7 @@
 - title: 'Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking'
   #date:  'Jul. 2018'
   imgurl: '/images/projects/2025/li2025modality.png'
-  selected: true
+  selected: false
   authors:
     - name: Shenglan Li
       url:  false
@@ -327,7 +327,7 @@
     - name: Jiaqi Zhao
       url:  false  
   publisher:  'IJCAI 2025'
-  status:   '(CCF A)'
+  status:   '(CCF B)'
   place:   'in Montreal, Canada'
   desc: 'We propose GDSTrack, a novel approach that introduces dynamic graph fusion and temporal diffusion to address the above challenges in self-supervised RGB-T tracking. GDSTrack dynamically fuses the modalities of neighboring frames, treats them as distractor noise, and leverages the denoising capability of a generative model. Specifically, by constructing an adjacency matrix via an Adjacency Matrix Generator (AMG), the proposed Modality-guided Dynamic Graph Fusion (MDGF) module uses a dynamic adjacency matrix to guide graph attention, focusing on and fusing the object’s coherent regions. Temporal Graph-Informed Diffusion (TGID) models MDGF features from neighboring frames as interference, and thus improving robustness against similar-object noise.'
   tags:
